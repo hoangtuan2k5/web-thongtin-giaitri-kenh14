@@ -5,7 +5,13 @@ Mọi thay đổi đáng chú ý của dự án sẽ được ghi lại trong t�
 Định dạng này dựa trên [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2025-05-07
+## [0.2.0] - 2025-05-20
+
+### Changed
+- Hoàn thành thiết kế và chức năng của header component
+- Chuyển từ Themify Icons sang Font Awesome để tăng tính nhất quán và phong phú của giao diện
+
+## [0.1.0] - 2025-05-07
 
 ### Added
 - Thiết lập cấu trúc dự án ban đầu

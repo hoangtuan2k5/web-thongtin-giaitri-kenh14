@@ -1,0 +1,191 @@
+/* Header Styles */
+#header {
+    width: 100%;
+}
+
+/* Class dùng chung để căn giữa nội dung bên trong các thanh full-width */
+.header-content-wrapper {
+    width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+/* Top Navigation */
+.header__top-navigation {
+    background-color: #000000; 
+    padding: 8px 0;
+    font-size: 12px;
+    font-weight: 400;
+    height: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.header__top-navigation .header-content-wrapper {
+    justify-content: space-between;
+}
+
+.header__top-navigation ul {
+    display: flex;
+    align-items: center;
+    margin-left: -16px;
+}
+
+.header__top-navigation li {
+    padding: 0px 8px 0px 20px;
+}
+
+.header__top-navigation li a {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.header__top-navigation li a:hover,
+.header__top-navigation li a:hover i.fa-star {
+    opacity: 0.85;
+}
+
+.header__top-navigation__search {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    outline: 0;
+    float: right;
+    height: 25px;
+    border-left: 1px solid rgba(255,255,255,0.1);
+    border-right: 1px solid rgba(255,255,255,0.1);
+    color: #FFFFFF;
+    display: flex; 
+    align-items: center; 
+}
+
+.header__top-navigation__search input[type="text"] {
+    background-color: transparent;
+    border: none;
+    padding: 6px 10px;
+    color: #ffffff;
+    font-size: 10px;
+    outline: none;
+    width: 150px;
+    height: 25px;
+    box-sizing: border-box;
+}
+
+.header__top-navigation__search input[type="text"]::placeholder {
+    color: #aaaaaa;
+}
+
+.header__top-navigation__search button {
+    background-color: transparent;
+    border: none;
+    padding: 6px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+}
+
+/* Header Section */
+.header__section {
+    background-color: #f0a52b; 
+    padding: 5px 0;
+}
+
+.header__logo {
+    margin-right: 30px;
+}
+
+.header__logo span {
+    display: block;
+    height: 60px;
+    width: 166px;
+    background: url('../../images/logo/k14_logo2022.svg') no-repeat center center;
+    background-size: contain;
+}
+
+.header__trending-tags {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: -4px;
+}
+
+.header__trending-icon {
+display: block;
+    width: 19px;
+    height: 12px;
+    background: url(../../images/sprites/sprite-k14.20.png) -388px -55px no-repeat;
+}
+
+.header__trending-item {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    padding: 6px 12px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.header__trending-item:hover {
+    background-color: rgba(255, 255, 255, 0.15); 
+}
+
+/* Header Main Menu Bar */
+.header__main-menu-bar {
+    background-color: #a70e1a; 
+}
+
+.header__main-menu-list {
+    display: flex;
+    align-items: center;
+    width: 100%; 
+    margin-left: 3px;
+}
+
+
+.header__main-menu-item {
+    position: relative;
+}
+
+.header__main-menu-link {
+    display: block;
+    padding: 0px 6px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+    white-space: nowrap;
+}
+
+.header__main-menu-link:hover {
+    background-color: rgba(0, 0, 0, 0.1); 
+}
+
+.header__main-menu-item:first-child .header__main-menu-link {
+    padding-left: 15px; 
+    padding-right: 15px;
+}
+
+.header__main-menu-item:first-child .header__main-menu-link i.fa-house {
+    font-size: 17px;
+    color: #ffffff;
+    vertical-align: middle; 
+}
+
+.header__main-menu-item--more {
+    margin-left: auto; 
+}
+
+.header__main-menu-item--more .header__main-menu-link {
+    padding: 10px 15px;
+}
+
+.header__main-menu-item--more .header__main-menu-link i.fa-ellipsis {
+    font-size: 18px;
+    color: #ffffff;
+    vertical-align: middle;
+}
