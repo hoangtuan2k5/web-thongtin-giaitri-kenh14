@@ -5,6 +5,18 @@ Mọi thay đổi đáng chú ý của dự án sẽ được ghi lại trong t�
 Định dạng này dựa trên [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.0] - 2025-06-01
+
+### Added
+- Thêm `header.js` và `footer.js` - JavaScript component cho header và footer sử dụng Web Components API
+- Bổ sung dữ liệu mẫu phong phú cho articles, tags và topics
+- Thêm logo VCCorp cho branding
+
+### Changed
+- Cải thiện cấu trúc CSS với base styles tốt hơn
+- Cập nhật tất cả các trang HTML để tích hợp với JavaScript components mới
+- Sử dụng sprite image để tối ưu hiệu suất trang web
+
 ## [0.2.0] - 2025-05-20
 
 ### Changed

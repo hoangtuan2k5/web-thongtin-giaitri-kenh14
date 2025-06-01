@@ -5,8 +5,6 @@
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ul, li, a {
-    margin: 0;
-    padding: 0;
     font-family: Arial, Helvetica, sans-serif; 
     box-sizing: border-box;
 }
@@ -23,4 +21,43 @@ a {
     &:hover {
         text-decoration: underline;
     }
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.w1040 {
+    width: 1040px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mr-30 {
+    margin-right: 30px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.ml-30 {
+    margin-left: 30px;
+}
+
+.mx-30 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.my-30 {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }

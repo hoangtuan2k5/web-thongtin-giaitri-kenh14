@@ -1,2387 +1,1920 @@
 [
   {
-    "first_crawled_at": "2025-05-12T14:12:41.216562300Z",
-    "last_updated_at": "2025-05-12T14:13:01.459254100Z",
-    "article_count": 3,
-    "title": "Việt Nam",
-    "articles": [
-      {
-        "article_title": "Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi, nhiều người bỏ về dù nghệ sĩ vẫn diễn hết mình",
-        "article_url": "https://kenh14.vn/ngay-luc-nay-ha-noi-mua-tam-ta-khien-tat-ca-met-moi-staff-cong-fan-vao-khu-y-te-tai-concert-anh-trai-say-hi-nhieu-nguoi-bo-ve-du-nghe-si-van-dien-het-minh-215250510214834597.chn",
-        "crawled_at": "2025-05-12T14:12:41.216562300Z"
-      },
-      {
-        "article_title": "Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua: Phong độ là nhất thời, đẳng cấp mới là mãi mãi!",
-        "article_url": "https://kenh14.vn/khong-hen-ma-gap-ca-g-dragon-va-son-tung-deu-gay-bao-visual-cuoi-tuan-qua-phong-do-la-nhat-thoi-dang-cap-moi-la-mai-mai-215250505174516446.chn",
-        "crawled_at": "2025-05-12T14:12:44.116761800Z"
-      },
-      {
-        "article_title": "\"Jennie chỉ lười nhảy khi hoạt động cùng BLACKPINK\"",
-        "article_url": "https://kenh14.vn/jennie-chi-luoi-nhay-khi-hoat-dong-cung-blackpink-215250325205439685.chn",
-        "crawled_at": "2025-05-12T14:13:01.459254100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/musik/viet-nam.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:41.216562300Z",
-    "last_updated_at": "2025-05-12T14:13:01.467253100Z",
-    "article_count": 3,
-    "title": "",
-    "articles": [
-      {
-        "article_title": "Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi, nhiều người bỏ về dù nghệ sĩ vẫn diễn hết mình",
-        "article_url": "https://kenh14.vn/ngay-luc-nay-ha-noi-mua-tam-ta-khien-tat-ca-met-moi-staff-cong-fan-vao-khu-y-te-tai-concert-anh-trai-say-hi-nhieu-nguoi-bo-ve-du-nghe-si-van-dien-het-minh-215250510214834597.chn",
-        "crawled_at": "2025-05-12T14:12:41.216562300Z"
-      },
-      {
-        "article_title": "Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua: Phong độ là nhất thời, đẳng cấp mới là mãi mãi!",
-        "article_url": "https://kenh14.vn/khong-hen-ma-gap-ca-g-dragon-va-son-tung-deu-gay-bao-visual-cuoi-tuan-qua-phong-do-la-nhat-thoi-dang-cap-moi-la-mai-mai-215250505174516446.chn",
-        "crawled_at": "2025-05-12T14:12:44.119997400Z"
-      },
-      {
-        "article_title": "\"Jennie chỉ lười nhảy khi hoạt động cùng BLACKPINK\"",
-        "article_url": "https://kenh14.vn/jennie-chi-luoi-nhay-khi-hoat-dong-cung-blackpink-215250325205439685.chn",
-        "crawled_at": "2025-05-12T14:13:01.467253100Z"
-      }
-    ],
-    "url": "",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:28.262881800Z",
-    "last_updated_at": "2025-05-12T14:13:04.342185600Z",
-    "article_count": 23,
-    "title": "Khám phá",
-    "articles": [
-      {
-        "article_title": "Vụ nhiều học sinh 12 \"tự nguyện\" xin nghỉ học: Sở GD-ĐT tỉnh Đắk Lắk báo cáo Thường trực Tỉnh ủy",
-        "article_url": "https://kenh14.vn/vu-nhieu-hoc-sinh-12-tu-nguyen-xin-nghi-hoc-so-gd-dt-tinh-dak-lak-bao-cao-thuong-truc-tinh-uy-215250512193045695.chn",
-        "crawled_at": "2025-05-12T14:12:28.262881800Z"
-      },
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.962842400Z"
-      },
-      {
-        "article_title": "Về quê 5 ngày quên tắt điều hoà, người đàn ông “chết lặng” khi quay lại thành phố",
-        "article_url": "https://kenh14.vn/ve-que-5-ngay-quen-tat-dieu-hoa-nguoi-dan-ong-chet-lang-khi-quay-lai-thanh-pho-215250505154740357.chn",
-        "crawled_at": "2025-05-12T14:12:31.972927600Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.123122900Z"
-      },
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.768298100Z"
-      },
-      {
-        "article_title": "3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ",
-        "article_url": "https://kenh14.vn/3-bi-quyet-nuoi-day-tre-em-co-long-nhan-ai-dieu-cuoi-cung-khien-nhieu-nguoi-bat-ngo-215250504141340721.chn",
-        "crawled_at": "2025-05-12T14:12:39.328147700Z"
-      },
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.303360600Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.957472600Z"
-      },
-      {
-        "article_title": "Xuất hiện với đôi môi sưng vù, bạn gái gia thế “trâm anh thế phiệt” của hậu vệ Văn Thanh phẫu thuật thẩm mỹ?",
-        "article_url": "https://kenh14.vn/xuat-hien-voi-doi-moi-sung-vu-ban-gai-gia-the-tram-anh-the-phiet-cua-hau-ve-van-thanh-phau-thuat-tham-my-215250512071941823.chn",
-        "crawled_at": "2025-05-12T14:12:41.560972300Z"
-      },
-      {
-        "article_title": "Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng, công ty bảo hiểm tuyên bố: “Không thể bồi thường vì 2 người là cha con\"",
-        "article_url": "https://kenh14.vn/lai-xe-tren-cao-toc-nguoi-dan-ong-bi-o-to-khac-dam-thiet-hai-464-trieu-dong-cong-ty-bao-hiem-tuyen-bo-khong-the-boi-thuong-vi-2-nguoi-la-cha-con-215250505154843776.chn",
-        "crawled_at": "2025-05-12T14:12:42.211218900Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.273836Z"
-      },
-      {
-        "article_title": "Không ai ngờ: Ngành học phụ huynh từng ngăn cấm vì \"không kiếm ra tiền\" này lại lọt top có nhu cầu cao nhất 2025",
-        "article_url": "https://kenh14.vn/khong-ai-ngo-nganh-hoc-phu-huynh-tung-ngan-cam-vi-khong-kiem-ra-tien-nay-lai-lot-top-co-nhu-cau-cao-nhat-2025-215250511084233046.chn",
-        "crawled_at": "2025-05-12T14:12:44.009590300Z"
-      },
-      {
-        "article_title": "Bi kịch sẽ giáng xuống đầu con trẻ ngay lập tức nếu cha mẹ thường xuyên làm 5 điều này",
-        "article_url": "https://kenh14.vn/bi-kich-se-giang-xuong-dau-con-tre-ngay-lap-tuc-neu-cha-me-thuong-xuyen-lam-5-dieu-nay-215250510143444887.chn",
-        "crawled_at": "2025-05-12T14:12:46.649379500Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.478057300Z"
-      },
-      {
-        "article_title": "Tính nghiện mua sắm của bạn gái từng khiến Ronaldo phải lắc đầu, cô nàng sau đó phản ứng bất ngờ",
-        "article_url": "https://kenh14.vn/tinh-nghien-mua-sam-cua-ban-gai-tung-khien-ronaldo-phai-lac-dau-co-nang-sau-do-phan-ung-bat-ngo-215250510221925461.chn",
-        "crawled_at": "2025-05-12T14:12:50.126957200Z"
-      },
-      {
-        "article_title": "Xem phim Sex Education, tôi ước gì mọi bậc cha mẹ đều nghe được câu nói này: Cuộc đời sẽ nhẹ nhõm, bớt tiêu cực hơn rất nhiều!",
-        "article_url": "https://kenh14.vn/xem-phim-sex-education-toi-uoc-gi-moi-bac-cha-me-deu-nghe-duoc-cau-noi-nay-cuoc-doi-se-nhe-nhom-bot-tieu-cuc-hon-rat-nhieu-21525033117473898.chn",
-        "crawled_at": "2025-05-12T14:12:55.039552700Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:58.013039500Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:58.035043800Z"
-      },
-      {
-        "article_title": "Ông bố U40 hỏi ChatGPT: \"Con tôi hư quá, phải làm sao?\" - AI đáp lại cực phũ: \"Hư hay không thì trước hết xem lại chính mình\"",
-        "article_url": "https://kenh14.vn/ong-bo-u40-hoi-chatgpt-con-toi-hu-qua-phai-lam-sao-ai-dap-lai-cuc-phu-hu-hay-khong-thi-truoc-het-xem-lai-chinh-minh-215250305192143604.chn",
-        "crawled_at": "2025-05-12T14:12:58.382224900Z"
-      },
-      {
-        "article_title": "Tiến sĩ toán tốt nghiệp đại học top 7 thế giới: Đi để trở về",
-        "article_url": "https://kenh14.vn/tien-si-toan-tot-nghiep-dai-hoc-top-7-the-gioi-di-de-tro-ve-215250315181737933.chn",
-        "crawled_at": "2025-05-12T14:13:00.754216300Z"
-      },
-      {
-        "article_title": "Gần 120 nghìn học sinh lớp 11 tại Hà Nội \"thi thử\" tốt nghiệp THPT",
-        "article_url": "https://kenh14.vn/gan-120-nghin-hoc-sinh-lop-11-tai-ha-noi-thi-thu-tot-nghiep-thpt-215250320205617932.chn",
-        "crawled_at": "2025-05-12T14:13:01.260790100Z"
-      },
-      {
-        "article_title": "Myanmar tuyên bố quốc tang một tuần tưởng niệm nạn nhân động đất",
-        "article_url": "https://kenh14.vn/myanmar-tuyen-bo-quoc-tang-mot-tuan-tuong-niem-nan-nhan-dong-dat-21525033121583957.chn",
-        "crawled_at": "2025-05-12T14:13:03.262733800Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.342185600Z"
-      }
-    ],
-    "url": "https://kenh14.vn/the-gioi-do-day/kham-pha.chn",
-    "is_featured": true
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:41.216562300Z",
-    "last_updated_at": "2025-05-12T14:13:01.450250200Z",
-    "article_count": 3,
-    "title": "Châu Á",
-    "articles": [
-      {
-        "article_title": "Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi, nhiều người bỏ về dù nghệ sĩ vẫn diễn hết mình",
-        "article_url": "https://kenh14.vn/ngay-luc-nay-ha-noi-mua-tam-ta-khien-tat-ca-met-moi-staff-cong-fan-vao-khu-y-te-tai-concert-anh-trai-say-hi-nhieu-nguoi-bo-ve-du-nghe-si-van-dien-het-minh-215250510214834597.chn",
-        "crawled_at": "2025-05-12T14:12:41.216562300Z"
-      },
-      {
-        "article_title": "Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua: Phong độ là nhất thời, đẳng cấp mới là mãi mãi!",
-        "article_url": "https://kenh14.vn/khong-hen-ma-gap-ca-g-dragon-va-son-tung-deu-gay-bao-visual-cuoi-tuan-qua-phong-do-la-nhat-thoi-dang-cap-moi-la-mai-mai-215250505174516446.chn",
-        "crawled_at": "2025-05-12T14:12:44.113784800Z"
-      },
-      {
-        "article_title": "\"Jennie chỉ lười nhảy khi hoạt động cùng BLACKPINK\"",
-        "article_url": "https://kenh14.vn/jennie-chi-luoi-nhay-khi-hoat-dong-cung-blackpink-215250325205439685.chn",
-        "crawled_at": "2025-05-12T14:13:01.450250200Z"
-      }
-    ],
-    "url": "https://kenh14.vn/musik/chau-a.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:34.647096100Z",
-    "last_updated_at": "2025-05-12T14:12:34.647096100Z",
-    "article_count": 1,
-    "title": "Các bệnh",
-    "articles": [
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/suc-khoe/cac-benh.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.180037800Z",
-    "last_updated_at": "2025-05-12T14:13:07.990369900Z",
-    "article_count": 8,
-    "title": "Xem Mua Luôn",
-    "articles": [
-      {
-        "article_title": "Mặt gầy để kiểu tóc nào đẹp?",
-        "article_url": "https://kenh14.vn/mat-gay-de-kieu-toc-nao-dep-215250510193708507.chn",
-        "crawled_at": "2025-05-12T14:12:35.180037800Z"
-      },
-      {
-        "article_title": "Triệu Lộ Tư lại đổi tạo hình, khẳng định vị thế \"không thể hết hot\"",
-        "article_url": "https://kenh14.vn/trieu-lo-tu-lai-doi-tao-hinh-khang-dinh-vi-the-khong-the-het-hot-215250512182842995.chn",
-        "crawled_at": "2025-05-12T14:12:48.721300600Z"
-      },
-      {
-        "article_title": "Đừng chỉ mặc quần đen, chị em chăm diện quần sáng màu trong mùa hè sẽ thấy mình trẻ ra ít nhất 5 tuổi",
-        "article_url": "https://kenh14.vn/dung-chi-mac-quan-den-chi-em-cham-dien-quan-sang-mau-trong-mua-he-se-thay-minh-tre-ra-it-nhat-5-tuoi-215250504164049259.chn",
-        "crawled_at": "2025-05-12T14:12:49.228178600Z"
-      },
-      {
-        "article_title": "Cõi mạng đồn brand thời trang Việt 22 năm tuổi đóng cửa: Dân tình xếp hàng dài mua đồ sale sập sàn trong nước mắt",
-        "article_url": "https://kenh14.vn/coi-mang-don-brand-thoi-trang-viet-22-nam-tuoi-dong-cua-dan-tinh-xep-hang-dai-mua-do-sale-sap-san-trong-nuoc-mat-215250512172722861.chn",
-        "crawled_at": "2025-05-12T14:12:50.029380Z"
-      },
-      {
-        "article_title": "Phú bà tỉnh lẻ và cơn sốt hàng hiệu secondhand: Xu hướng tiêu dùng mới hay cuộc chơi của những người sành điệu?",
-        "article_url": "https://kenh14.vn/phu-ba-tinh-le-va-con-sot-hang-hieu-secondhand-xu-huong-tieu-dung-moi-hay-cuoc-choi-cua-nhung-nguoi-sanh-dieu-215250310180342532.chn",
-        "crawled_at": "2025-05-12T14:13:00.151024100Z"
-      },
-      {
-        "article_title": "Nàng dâu hào môn này cực lạ: Ít khi mặc váy, toàn diện quần dài mà vẫn rất sang",
-        "article_url": "https://kenh14.vn/nang-dau-hao-mon-nay-cuc-la-it-khi-mac-vay-toan-dien-quan-dai-ma-van-rat-sang-215250228173416528.chn",
-        "crawled_at": "2025-05-12T14:13:07.478366700Z"
-      },
-      {
-        "article_title": "5 món thời trang \"hack\" tuổi được phụ nữ Pháp mặc nhiều vào mùa xuân",
-        "article_url": "https://kenh14.vn/5-mon-thoi-trang-hack-tuoi-duoc-phu-nu-phap-mac-nhieu-vao-mua-xuan-21525022021532338.chn",
-        "crawled_at": "2025-05-12T14:13:07.496362Z"
-      },
-      {
-        "article_title": "Cụ ông 79 tuổi suốt 2 năm không thể thừa kế nhà mình chỉ vì thiếu 1 chữ ký của hàng xóm: \"Phải trả tôi 175 triệu thì tôi mới ký\"",
-        "article_url": "https://kenh14.vn/cu-ong-79-tuoi-suot-2-nam-khong-the-thua-ke-nha-minh-chi-vi-thieu-1-chu-ky-cua-hang-xom-phai-tra-toi-175-trieu-thi-toi-moi-ky-215250225202940832.chn",
-        "crawled_at": "2025-05-12T14:13:07.990369900Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xem-mua-luon.chn",
-    "is_featured": true
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:27.932802600Z",
-    "last_updated_at": "2025-05-12T14:13:08.067356400Z",
-    "article_count": 17,
-    "title": "Đời sống",
-    "articles": [
-      {
-        "article_title": "Đắk Lắk: Nam sinh viên tử vong trong phòng trọ",
-        "article_url": "https://kenh14.vn/dak-lak-nam-sinh-vien-tu-vong-trong-phong-tro-215250505231251898.chn",
-        "crawled_at": "2025-05-12T14:12:27.932802600Z"
-      },
-      {
-        "article_title": "Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích",
-        "article_url": "https://kenh14.vn/mua-lon-gay-nhieu-thiet-hai-mot-nguoi-nghi-bi-nuoc-cuon-mat-tich-215250510233129983.chn",
-        "crawled_at": "2025-05-12T14:12:28.589570600Z"
-      },
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.919515100Z"
-      },
-      {
-        "article_title": "TP.HCM phát hiện một cơ sở kinh doanh sữa giả",
-        "article_url": "https://kenh14.vn/tphcm-phat-hien-mot-co-so-kinh-doanh-sua-gia-215250505230819805.chn",
-        "crawled_at": "2025-05-12T14:12:29.926326300Z"
-      },
-      {
-        "article_title": "TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức",
-        "article_url": "https://kenh14.vn/tp-hcm-dem-cuoi-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-215250510221722072.chn",
-        "crawled_at": "2025-05-12T14:12:29.976898700Z"
-      },
-      {
-        "article_title": "Về quê 5 ngày quên tắt điều hoà, người đàn ông “chết lặng” khi quay lại thành phố",
-        "article_url": "https://kenh14.vn/ve-que-5-ngay-quen-tat-dieu-hoa-nguoi-dan-ong-chet-lang-khi-quay-lai-thanh-pho-215250505154740357.chn",
-        "crawled_at": "2025-05-12T14:12:32.015053800Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.086745200Z"
-      },
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.787008200Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.909791800Z"
-      },
-      {
-        "article_title": "Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng, công ty bảo hiểm tuyên bố: “Không thể bồi thường vì 2 người là cha con\"",
-        "article_url": "https://kenh14.vn/lai-xe-tren-cao-toc-nguoi-dan-ong-bi-o-to-khac-dam-thiet-hai-464-trieu-dong-cong-ty-bao-hiem-tuyen-bo-khong-the-boi-thuong-vi-2-nguoi-la-cha-con-215250505154843776.chn",
-        "crawled_at": "2025-05-12T14:12:42.218240900Z"
-      },
-      {
-        "article_title": "Vụ buôn lậu đất hiếm sang Trung Quốc: Chủ doanh nghiệp khóc, khai mới học hết lớp 8",
-        "article_url": "https://kenh14.vn/vu-buon-lau-dat-hiem-sang-trung-quoc-chu-doanh-nghiep-khoc-khai-moi-hoc-het-lop-8-215250512201119773.chn",
-        "crawled_at": "2025-05-12T14:12:42.773201300Z"
-      },
-      {
-        "article_title": "2 Cây Di sản hơn 300 tuổi của Việt Nam: Loại gỗ quý hiếm \"hút\" tài lộc, giá hàng chục triệu đồng 1 khối",
-        "article_url": "https://kenh14.vn/2-cay-di-san-hon-300-tuoi-cua-viet-nam-loai-go-quy-hiem-hut-tai-loc-gia-hang-chuc-trieu-dong-1-khoi-215250505225342169.chn",
-        "crawled_at": "2025-05-12T14:12:45.717203200Z"
-      },
-      {
-        "article_title": "Cõi mạng đồn brand thời trang Việt 22 năm tuổi đóng cửa: Dân tình xếp hàng dài mua đồ sale sập sàn trong nước mắt",
-        "article_url": "https://kenh14.vn/coi-mang-don-brand-thoi-trang-viet-22-nam-tuoi-dong-cua-dan-tinh-xep-hang-dai-mua-do-sale-sap-san-trong-nuoc-mat-215250512172722861.chn",
-        "crawled_at": "2025-05-12T14:12:50.101973200Z"
-      },
-      {
-        "article_title": "Nghỉ việc do sắp xếp bộ máy được hưởng ngay lương hưu kèm 2 chế độ",
-        "article_url": "https://kenh14.vn/nghi-viec-do-sap-xep-bo-may-duoc-huong-ngay-luong-huu-kem-2-che-do-215250510211725662.chn",
-        "crawled_at": "2025-05-12T14:12:51.775832200Z"
-      },
-      {
-        "article_title": "Myanmar tuyên bố quốc tang một tuần tưởng niệm nạn nhân động đất",
-        "article_url": "https://kenh14.vn/myanmar-tuyen-bo-quoc-tang-mot-tuan-tuong-niem-nan-nhan-dong-dat-21525033121583957.chn",
-        "crawled_at": "2025-05-12T14:13:03.294724800Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.295193800Z"
-      },
-      {
-        "article_title": "Cụ ông 79 tuổi suốt 2 năm không thể thừa kế nhà mình chỉ vì thiếu 1 chữ ký của hàng xóm: \"Phải trả tôi 175 triệu thì tôi mới ký\"",
-        "article_url": "https://kenh14.vn/cu-ong-79-tuoi-suot-2-nam-khong-the-thua-ke-nha-minh-chi-vi-thieu-1-chu-ky-cua-hang-xom-phai-tra-toi-175-trieu-thi-toi-moi-ky-215250225202940832.chn",
-        "crawled_at": "2025-05-12T14:13:08.067356400Z"
-      }
-    ],
-    "url": "https://kenh14.vn/doi-song.chn",
-    "is_featured": true
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.180037800Z",
-    "last_updated_at": "2025-05-12T14:13:07.469367400Z",
-    "article_count": 6,
-    "title": "Star Style",
-    "articles": [
-      {
-        "article_title": "Mặt gầy để kiểu tóc nào đẹp?",
-        "article_url": "https://kenh14.vn/mat-gay-de-kieu-toc-nao-dep-215250510193708507.chn",
-        "crawled_at": "2025-05-12T14:12:35.180037800Z"
-      },
-      {
-        "article_title": "Triệu Lộ Tư lại đổi tạo hình, khẳng định vị thế \"không thể hết hot\"",
-        "article_url": "https://kenh14.vn/trieu-lo-tu-lai-doi-tao-hinh-khang-dinh-vi-the-khong-the-het-hot-215250512182842995.chn",
-        "crawled_at": "2025-05-12T14:12:48.677309200Z"
-      },
-      {
-        "article_title": "Đừng chỉ mặc quần đen, chị em chăm diện quần sáng màu trong mùa hè sẽ thấy mình trẻ ra ít nhất 5 tuổi",
-        "article_url": "https://kenh14.vn/dung-chi-mac-quan-den-chi-em-cham-dien-quan-sang-mau-trong-mua-he-se-thay-minh-tre-ra-it-nhat-5-tuoi-215250504164049259.chn",
-        "crawled_at": "2025-05-12T14:12:49.203184100Z"
-      },
-      {
-        "article_title": "Phú bà tỉnh lẻ và cơn sốt hàng hiệu secondhand: Xu hướng tiêu dùng mới hay cuộc chơi của những người sành điệu?",
-        "article_url": "https://kenh14.vn/phu-ba-tinh-le-va-con-sot-hang-hieu-secondhand-xu-huong-tieu-dung-moi-hay-cuoc-choi-cua-nhung-nguoi-sanh-dieu-215250310180342532.chn",
-        "crawled_at": "2025-05-12T14:13:00.076162300Z"
-      },
-      {
-        "article_title": "Nàng dâu hào môn này cực lạ: Ít khi mặc váy, toàn diện quần dài mà vẫn rất sang",
-        "article_url": "https://kenh14.vn/nang-dau-hao-mon-nay-cuc-la-it-khi-mac-vay-toan-dien-quan-dai-ma-van-rat-sang-215250228173416528.chn",
-        "crawled_at": "2025-05-12T14:13:07.426372100Z"
-      },
-      {
-        "article_title": "5 món thời trang \"hack\" tuổi được phụ nữ Pháp mặc nhiều vào mùa xuân",
-        "article_url": "https://kenh14.vn/5-mon-thoi-trang-hack-tuoi-duoc-phu-nu-phap-mac-nhieu-vao-mua-xuan-21525022021532338.chn",
-        "crawled_at": "2025-05-12T14:13:07.469367400Z"
-      }
-    ],
-    "url": "https://kenh14.vn/beauty-fashion/star-style.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.673539Z",
-    "last_updated_at": "2025-05-12T14:13:08.490764100Z",
-    "article_count": 5,
-    "title": "Hoa Ngữ - Hàn Quốc",
-    "articles": [
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.673539Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.723397900Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.349375100Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.795545700Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.490764100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/cine/hoa-ngu-han-quoc.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:27.932802600Z",
-    "last_updated_at": "2025-05-12T14:12:51.727832800Z",
-    "article_count": 7,
-    "title": "Pháp luật",
-    "articles": [
-      {
-        "article_title": "Đắk Lắk: Nam sinh viên tử vong trong phòng trọ",
-        "article_url": "https://kenh14.vn/dak-lak-nam-sinh-vien-tu-vong-trong-phong-tro-215250505231251898.chn",
-        "crawled_at": "2025-05-12T14:12:27.932802600Z"
-      },
-      {
-        "article_title": "Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích",
-        "article_url": "https://kenh14.vn/mua-lon-gay-nhieu-thiet-hai-mot-nguoi-nghi-bi-nuoc-cuon-mat-tich-215250510233129983.chn",
-        "crawled_at": "2025-05-12T14:12:28.575512200Z"
-      },
-      {
-        "article_title": "TP.HCM phát hiện một cơ sở kinh doanh sữa giả",
-        "article_url": "https://kenh14.vn/tphcm-phat-hien-mot-co-so-kinh-doanh-sua-gia-215250505230819805.chn",
-        "crawled_at": "2025-05-12T14:12:29.908446200Z"
-      },
-      {
-        "article_title": "TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức",
-        "article_url": "https://kenh14.vn/tp-hcm-dem-cuoi-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-215250510221722072.chn",
-        "crawled_at": "2025-05-12T14:12:29.954521600Z"
-      },
-      {
-        "article_title": "Vụ buôn lậu đất hiếm sang Trung Quốc: Chủ doanh nghiệp khóc, khai mới học hết lớp 8",
-        "article_url": "https://kenh14.vn/vu-buon-lau-dat-hiem-sang-trung-quoc-chu-doanh-nghiep-khoc-khai-moi-hoc-het-lop-8-215250512201119773.chn",
-        "crawled_at": "2025-05-12T14:12:42.751526300Z"
-      },
-      {
-        "article_title": "2 Cây Di sản hơn 300 tuổi của Việt Nam: Loại gỗ quý hiếm \"hút\" tài lộc, giá hàng chục triệu đồng 1 khối",
-        "article_url": "https://kenh14.vn/2-cay-di-san-hon-300-tuoi-cua-viet-nam-loai-go-quy-hiem-hut-tai-loc-gia-hang-chuc-trieu-dong-1-khoi-215250505225342169.chn",
-        "crawled_at": "2025-05-12T14:12:45.676332500Z"
-      },
-      {
-        "article_title": "Nghỉ việc do sắp xếp bộ máy được hưởng ngay lương hưu kèm 2 chế độ",
-        "article_url": "https://kenh14.vn/nghi-viec-do-sap-xep-bo-may-duoc-huong-ngay-luong-huu-kem-2-che-do-215250510211725662.chn",
-        "crawled_at": "2025-05-12T14:12:51.727832800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xa-hoi/phap-luat.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:40.219459100Z",
-    "last_updated_at": "2025-05-12T14:12:58.019039300Z",
-    "article_count": 5,
-    "title": "Wow!",
-    "articles": [
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.219459100Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.259624200Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.469078100Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:57.993040400Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:58.019039300Z"
-      }
-    ],
-    "url": "https://kenh14.vn/tek-life/wow.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:34.647096100Z",
-    "last_updated_at": "2025-05-12T14:12:34.647096100Z",
-    "article_count": 1,
-    "title": "Giới tính",
-    "articles": [
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/suc-khoe/gioi-tinh.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:27.932802600Z",
-    "last_updated_at": "2025-05-12T14:13:03.301730400Z",
-    "article_count": 10,
+    "id": 1,
     "title": "Xã hội",
-    "articles": [
-      {
-        "article_title": "Đắk Lắk: Nam sinh viên tử vong trong phòng trọ",
-        "article_url": "https://kenh14.vn/dak-lak-nam-sinh-vien-tu-vong-trong-phong-tro-215250505231251898.chn",
-        "crawled_at": "2025-05-12T14:12:27.932802600Z"
-      },
-      {
-        "article_title": "Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích",
-        "article_url": "https://kenh14.vn/mua-lon-gay-nhieu-thiet-hai-mot-nguoi-nghi-bi-nuoc-cuon-mat-tich-215250510233129983.chn",
-        "crawled_at": "2025-05-12T14:12:28.571481100Z"
-      },
-      {
-        "article_title": "TP.HCM phát hiện một cơ sở kinh doanh sữa giả",
-        "article_url": "https://kenh14.vn/tphcm-phat-hien-mot-co-so-kinh-doanh-sua-gia-215250505230819805.chn",
-        "crawled_at": "2025-05-12T14:12:29.899370600Z"
-      },
-      {
-        "article_title": "TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức",
-        "article_url": "https://kenh14.vn/tp-hcm-dem-cuoi-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-215250510221722072.chn",
-        "crawled_at": "2025-05-12T14:12:29.942432800Z"
-      },
-      {
-        "article_title": "Về quê 5 ngày quên tắt điều hoà, người đàn ông “chết lặng” khi quay lại thành phố",
-        "article_url": "https://kenh14.vn/ve-que-5-ngay-quen-tat-dieu-hoa-nguoi-dan-ong-chet-lang-khi-quay-lai-thanh-pho-215250505154740357.chn",
-        "crawled_at": "2025-05-12T14:12:32.034786Z"
-      },
-      {
-        "article_title": "Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng, công ty bảo hiểm tuyên bố: “Không thể bồi thường vì 2 người là cha con\"",
-        "article_url": "https://kenh14.vn/lai-xe-tren-cao-toc-nguoi-dan-ong-bi-o-to-khac-dam-thiet-hai-464-trieu-dong-cong-ty-bao-hiem-tuyen-bo-khong-the-boi-thuong-vi-2-nguoi-la-cha-con-215250505154843776.chn",
-        "crawled_at": "2025-05-12T14:12:42.220243100Z"
-      },
-      {
-        "article_title": "Vụ buôn lậu đất hiếm sang Trung Quốc: Chủ doanh nghiệp khóc, khai mới học hết lớp 8",
-        "article_url": "https://kenh14.vn/vu-buon-lau-dat-hiem-sang-trung-quoc-chu-doanh-nghiep-khoc-khai-moi-hoc-het-lop-8-215250512201119773.chn",
-        "crawled_at": "2025-05-12T14:12:42.747014300Z"
-      },
-      {
-        "article_title": "2 Cây Di sản hơn 300 tuổi của Việt Nam: Loại gỗ quý hiếm \"hút\" tài lộc, giá hàng chục triệu đồng 1 khối",
-        "article_url": "https://kenh14.vn/2-cay-di-san-hon-300-tuoi-cua-viet-nam-loai-go-quy-hiem-hut-tai-loc-gia-hang-chuc-trieu-dong-1-khoi-215250505225342169.chn",
-        "crawled_at": "2025-05-12T14:12:45.651694500Z"
-      },
-      {
-        "article_title": "Nghỉ việc do sắp xếp bộ máy được hưởng ngay lương hưu kèm 2 chế độ",
-        "article_url": "https://kenh14.vn/nghi-viec-do-sap-xep-bo-may-duoc-huong-ngay-luong-huu-kem-2-che-do-215250510211725662.chn",
-        "crawled_at": "2025-05-12T14:12:51.709603100Z"
-      },
-      {
-        "article_title": "Myanmar tuyên bố quốc tang một tuần tưởng niệm nạn nhân động đất",
-        "article_url": "https://kenh14.vn/myanmar-tuyen-bo-quoc-tang-mot-tuan-tuong-niem-nan-nhan-dong-dat-21525033121583957.chn",
-        "crawled_at": "2025-05-12T14:13:03.301730400Z"
-      }
-    ],
     "url": "https://kenh14.vn/xa-hoi.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:27.932802600Z",
-    "last_updated_at": "2025-05-12T14:13:03.233649Z",
-    "article_count": 10,
-    "title": "Thế Giới Đó Đây",
-    "articles": [
-      {
-        "article_title": "Đắk Lắk: Nam sinh viên tử vong trong phòng trọ",
-        "article_url": "https://kenh14.vn/dak-lak-nam-sinh-vien-tu-vong-trong-phong-tro-215250505231251898.chn",
-        "crawled_at": "2025-05-12T14:12:27.932802600Z"
-      },
-      {
-        "article_title": "Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích",
-        "article_url": "https://kenh14.vn/mua-lon-gay-nhieu-thiet-hai-mot-nguoi-nghi-bi-nuoc-cuon-mat-tich-215250510233129983.chn",
-        "crawled_at": "2025-05-12T14:12:28.594093500Z"
-      },
-      {
-        "article_title": "TP.HCM phát hiện một cơ sở kinh doanh sữa giả",
-        "article_url": "https://kenh14.vn/tphcm-phat-hien-mot-co-so-kinh-doanh-sua-gia-215250505230819805.chn",
-        "crawled_at": "2025-05-12T14:12:29.932842500Z"
-      },
-      {
-        "article_title": "TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức",
-        "article_url": "https://kenh14.vn/tp-hcm-dem-cuoi-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-215250510221722072.chn",
-        "crawled_at": "2025-05-12T14:12:29.986450800Z"
-      },
-      {
-        "article_title": "Về quê 5 ngày quên tắt điều hoà, người đàn ông “chết lặng” khi quay lại thành phố",
-        "article_url": "https://kenh14.vn/ve-que-5-ngay-quen-tat-dieu-hoa-nguoi-dan-ong-chet-lang-khi-quay-lai-thanh-pho-215250505154740357.chn",
-        "crawled_at": "2025-05-12T14:12:31.917331600Z"
-      },
-      {
-        "article_title": "Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng, công ty bảo hiểm tuyên bố: “Không thể bồi thường vì 2 người là cha con\"",
-        "article_url": "https://kenh14.vn/lai-xe-tren-cao-toc-nguoi-dan-ong-bi-o-to-khac-dam-thiet-hai-464-trieu-dong-cong-ty-bao-hiem-tuyen-bo-khong-the-boi-thuong-vi-2-nguoi-la-cha-con-215250505154843776.chn",
-        "crawled_at": "2025-05-12T14:12:42.203800800Z"
-      },
-      {
-        "article_title": "Vụ buôn lậu đất hiếm sang Trung Quốc: Chủ doanh nghiệp khóc, khai mới học hết lớp 8",
-        "article_url": "https://kenh14.vn/vu-buon-lau-dat-hiem-sang-trung-quoc-chu-doanh-nghiep-khoc-khai-moi-hoc-het-lop-8-215250512201119773.chn",
-        "crawled_at": "2025-05-12T14:12:42.781726800Z"
-      },
-      {
-        "article_title": "2 Cây Di sản hơn 300 tuổi của Việt Nam: Loại gỗ quý hiếm \"hút\" tài lộc, giá hàng chục triệu đồng 1 khối",
-        "article_url": "https://kenh14.vn/2-cay-di-san-hon-300-tuoi-cua-viet-nam-loai-go-quy-hiem-hut-tai-loc-gia-hang-chuc-trieu-dong-1-khoi-215250505225342169.chn",
-        "crawled_at": "2025-05-12T14:12:45.724396500Z"
-      },
-      {
-        "article_title": "Nghỉ việc do sắp xếp bộ máy được hưởng ngay lương hưu kèm 2 chế độ",
-        "article_url": "https://kenh14.vn/nghi-viec-do-sap-xep-bo-may-duoc-huong-ngay-luong-huu-kem-2-che-do-215250510211725662.chn",
-        "crawled_at": "2025-05-12T14:12:51.781821100Z"
-      },
-      {
-        "article_title": "Myanmar tuyên bố quốc tang một tuần tưởng niệm nạn nhân động đất",
-        "article_url": "https://kenh14.vn/myanmar-tuyen-bo-quoc-tang-mot-tuan-tuong-niem-nan-nhan-dong-dat-21525033121583957.chn",
-        "crawled_at": "2025-05-12T14:13:03.233649Z"
-      }
+    "article_count": 34,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:34.232747200Z",
+    "article_ids": [
+      1,
+      4,
+      6,
+      15,
+      18,
+      21,
+      23,
+      24,
+      32,
+      38,
+      43,
+      46,
+      50,
+      56,
+      58,
+      86,
+      104,
+      111,
+      128,
+      133,
+      157,
+      164,
+      165,
+      167,
+      172,
+      178,
+      180,
+      181,
+      187,
+      211,
+      212,
+      214,
+      215,
+      217
     ],
-    "url": "https://kenh14.vn/the-gioi-do-day.chn",
-    "is_featured": true
+    "first_crawled_at": "2025-06-01T07:11:07.007603700Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:28.262881800Z",
-    "last_updated_at": "2025-05-12T14:13:01.256811300Z",
-    "article_count": 9,
-    "title": "Sức khỏe",
-    "articles": [
-      {
-        "article_title": "Vụ nhiều học sinh 12 \"tự nguyện\" xin nghỉ học: Sở GD-ĐT tỉnh Đắk Lắk báo cáo Thường trực Tỉnh ủy",
-        "article_url": "https://kenh14.vn/vu-nhieu-hoc-sinh-12-tu-nguyen-xin-nghi-hoc-so-gd-dt-tinh-dak-lak-bao-cao-thuong-truc-tinh-uy-215250512193045695.chn",
-        "crawled_at": "2025-05-12T14:12:28.262881800Z"
-      },
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      },
-      {
-        "article_title": "3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ",
-        "article_url": "https://kenh14.vn/3-bi-quyet-nuoi-day-tre-em-co-long-nhan-ai-dieu-cuoi-cung-khien-nhieu-nguoi-bat-ngo-215250504141340721.chn",
-        "crawled_at": "2025-05-12T14:12:39.303562200Z"
-      },
-      {
-        "article_title": "Không ai ngờ: Ngành học phụ huynh từng ngăn cấm vì \"không kiếm ra tiền\" này lại lọt top có nhu cầu cao nhất 2025",
-        "article_url": "https://kenh14.vn/khong-ai-ngo-nganh-hoc-phu-huynh-tung-ngan-cam-vi-khong-kiem-ra-tien-nay-lai-lot-top-co-nhu-cau-cao-nhat-2025-215250511084233046.chn",
-        "crawled_at": "2025-05-12T14:12:44.002457600Z"
-      },
-      {
-        "article_title": "Bi kịch sẽ giáng xuống đầu con trẻ ngay lập tức nếu cha mẹ thường xuyên làm 5 điều này",
-        "article_url": "https://kenh14.vn/bi-kich-se-giang-xuong-dau-con-tre-ngay-lap-tuc-neu-cha-me-thuong-xuyen-lam-5-dieu-nay-215250510143444887.chn",
-        "crawled_at": "2025-05-12T14:12:46.644355100Z"
-      },
-      {
-        "article_title": "Xem phim Sex Education, tôi ước gì mọi bậc cha mẹ đều nghe được câu nói này: Cuộc đời sẽ nhẹ nhõm, bớt tiêu cực hơn rất nhiều!",
-        "article_url": "https://kenh14.vn/xem-phim-sex-education-toi-uoc-gi-moi-bac-cha-me-deu-nghe-duoc-cau-noi-nay-cuoc-doi-se-nhe-nhom-bot-tieu-cuc-hon-rat-nhieu-21525033117473898.chn",
-        "crawled_at": "2025-05-12T14:12:55.033554800Z"
-      },
-      {
-        "article_title": "Ông bố U40 hỏi ChatGPT: \"Con tôi hư quá, phải làm sao?\" - AI đáp lại cực phũ: \"Hư hay không thì trước hết xem lại chính mình\"",
-        "article_url": "https://kenh14.vn/ong-bo-u40-hoi-chatgpt-con-toi-hu-qua-phai-lam-sao-ai-dap-lai-cuc-phu-hu-hay-khong-thi-truoc-het-xem-lai-chinh-minh-215250305192143604.chn",
-        "crawled_at": "2025-05-12T14:12:58.378258200Z"
-      },
-      {
-        "article_title": "Tiến sĩ toán tốt nghiệp đại học top 7 thế giới: Đi để trở về",
-        "article_url": "https://kenh14.vn/tien-si-toan-tot-nghiep-dai-hoc-top-7-the-gioi-di-de-tro-ve-215250315181737933.chn",
-        "crawled_at": "2025-05-12T14:13:00.750218300Z"
-      },
-      {
-        "article_title": "Gần 120 nghìn học sinh lớp 11 tại Hà Nội \"thi thử\" tốt nghiệp THPT",
-        "article_url": "https://kenh14.vn/gan-120-nghin-hoc-sinh-lop-11-tai-ha-noi-thi-thu-tot-nghiep-thpt-215250320205617932.chn",
-        "crawled_at": "2025-05-12T14:13:01.256811300Z"
-      }
+    "id": 2,
+    "title": "Pháp luật",
+    "url": "https://kenh14.vn/xa-hoi/phap-luat.chn",
+    "article_count": 21,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:34.232747200Z",
+    "article_ids": [
+      1,
+      4,
+      21,
+      23,
+      24,
+      32,
+      38,
+      46,
+      50,
+      56,
+      58,
+      104,
+      111,
+      133,
+      165,
+      181,
+      211,
+      212,
+      214,
+      215,
+      217
     ],
-    "url": "https://kenh14.vn/suc-khoe.chn",
-    "is_featured": true
+    "first_crawled_at": "2025-06-01T07:11:07.008599800Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:29.919515100Z",
-    "last_updated_at": "2025-05-12T14:13:04.328176400Z",
-    "article_count": 4,
-    "title": "HOUSE n HOME",
-    "articles": [
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.919515100Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.109369500Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.935137Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.328176400Z"
-      }
-    ],
-    "url": "https://kenh14.vn/doi-song/house-n-home.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:29.919515100Z",
-    "last_updated_at": "2025-05-12T14:13:04.312187800Z",
-    "article_count": 4,
-    "title": "Nhân vật",
-    "articles": [
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.919515100Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.094301700Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.916846600Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.312187800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/doi-song/nhan-vat.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.180037800Z",
-    "last_updated_at": "2025-05-12T14:13:07.490359200Z",
-    "article_count": 6,
-    "title": "B\u0026F Studio",
-    "articles": [
-      {
-        "article_title": "Mặt gầy để kiểu tóc nào đẹp?",
-        "article_url": "https://kenh14.vn/mat-gay-de-kieu-toc-nao-dep-215250510193708507.chn",
-        "crawled_at": "2025-05-12T14:12:35.180037800Z"
-      },
-      {
-        "article_title": "Triệu Lộ Tư lại đổi tạo hình, khẳng định vị thế \"không thể hết hot\"",
-        "article_url": "https://kenh14.vn/trieu-lo-tu-lai-doi-tao-hinh-khang-dinh-vi-the-khong-the-het-hot-215250512182842995.chn",
-        "crawled_at": "2025-05-12T14:12:48.715285600Z"
-      },
-      {
-        "article_title": "Đừng chỉ mặc quần đen, chị em chăm diện quần sáng màu trong mùa hè sẽ thấy mình trẻ ra ít nhất 5 tuổi",
-        "article_url": "https://kenh14.vn/dung-chi-mac-quan-den-chi-em-cham-dien-quan-sang-mau-trong-mua-he-se-thay-minh-tre-ra-it-nhat-5-tuoi-215250504164049259.chn",
-        "crawled_at": "2025-05-12T14:12:49.224182200Z"
-      },
-      {
-        "article_title": "Phú bà tỉnh lẻ và cơn sốt hàng hiệu secondhand: Xu hướng tiêu dùng mới hay cuộc chơi của những người sành điệu?",
-        "article_url": "https://kenh14.vn/phu-ba-tinh-le-va-con-sot-hang-hieu-secondhand-xu-huong-tieu-dung-moi-hay-cuoc-choi-cua-nhung-nguoi-sanh-dieu-215250310180342532.chn",
-        "crawled_at": "2025-05-12T14:13:00.140020600Z"
-      },
-      {
-        "article_title": "Nàng dâu hào môn này cực lạ: Ít khi mặc váy, toàn diện quần dài mà vẫn rất sang",
-        "article_url": "https://kenh14.vn/nang-dau-hao-mon-nay-cuc-la-it-khi-mac-vay-toan-dien-quan-dai-ma-van-rat-sang-215250228173416528.chn",
-        "crawled_at": "2025-05-12T14:13:07.469367400Z"
-      },
-      {
-        "article_title": "5 món thời trang \"hack\" tuổi được phụ nữ Pháp mặc nhiều vào mùa xuân",
-        "article_url": "https://kenh14.vn/5-mon-thoi-trang-hack-tuoi-duoc-phu-nu-phap-mac-nhieu-vao-mua-xuan-21525022021532338.chn",
-        "crawled_at": "2025-05-12T14:13:07.490359200Z"
-      }
-    ],
-    "url": "https://kenh14.vn/bf-studio.html",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:33.321512100Z",
-    "last_updated_at": "2025-05-12T14:13:08.511507200Z",
-    "article_count": 19,
-    "title": "Star",
-    "articles": [
-      {
-        "article_title": "Khả Ngân lên tiếng về gương mặt thay đổi gây sốc",
-        "article_url": "https://kenh14.vn/kha-ngan-len-tieng-ve-guong-mat-thay-doi-gay-soc-215250510214722258.chn",
-        "crawled_at": "2025-05-12T14:12:33.321512100Z"
-      },
-      {
-        "article_title": "Hành động ngáng đường, khiến Taylor Swift bị tố xấu tính tại Victoria\u0027s Secret năm xưa",
-        "article_url": "https://kenh14.vn/hanh-dong-ngang-duong-khien-taylor-swift-bi-to-xau-tinh-tai-victorias-secret-nam-xua-215250505131150142.chn",
-        "crawled_at": "2025-05-12T14:12:33.909477800Z"
-      },
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.796430600Z"
-      },
-      {
-        "article_title": "Hot: \"Nữ hoàng gợi cảm\" Hyuna mang thai con đầu lòng sau 7 tháng cưới?",
-        "article_url": "https://kenh14.vn/hot-nu-hoang-goi-cam-hyuna-mang-thai-con-dau-long-sau-7-thang-cuoi-215250512172923164.chn",
-        "crawled_at": "2025-05-12T14:12:36.828999700Z"
-      },
-      {
-        "article_title": "Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body \"đồng hồ cát\" cực bốc, visual đời thường mới choáng",
-        "article_url": "https://kenh14.vn/cap-doi-vbiz-dinh-nhu-sam-nay-bat-ngo-co-dong-thai-la-gay-xon-xao-215250510181020882.chn",
-        "crawled_at": "2025-05-12T14:12:39.279693800Z"
-      },
-      {
-        "article_title": "Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi, nhiều người bỏ về dù nghệ sĩ vẫn diễn hết mình",
-        "article_url": "https://kenh14.vn/ngay-luc-nay-ha-noi-mua-tam-ta-khien-tat-ca-met-moi-staff-cong-fan-vao-khu-y-te-tai-concert-anh-trai-say-hi-nhieu-nguoi-bo-ve-du-nghe-si-van-dien-het-minh-215250510214834597.chn",
-        "crawled_at": "2025-05-12T14:12:41.264527500Z"
-      },
-      {
-        "article_title": "Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua: Phong độ là nhất thời, đẳng cấp mới là mãi mãi!",
-        "article_url": "https://kenh14.vn/khong-hen-ma-gap-ca-g-dragon-va-son-tung-deu-gay-bao-visual-cuoi-tuan-qua-phong-do-la-nhat-thoi-dang-cap-moi-la-mai-mai-215250505174516446.chn",
-        "crawled_at": "2025-05-12T14:12:44.124081300Z"
-      },
-      {
-        "article_title": "Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?",
-        "article_url": "https://kenh14.vn/hoa-hau-y-nhi-giu-phong-do-ra-sao-trong-ngay-dau-nhap-cuoc-miss-world-21525051020062318.chn",
-        "crawled_at": "2025-05-12T14:12:45.211141800Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.731919700Z"
-      },
-      {
-        "article_title": "Thót tim khoảnh khắc Quỳnh Lương té ngã ngay trước thềm nhà khi đang mang thai 6 tháng",
-        "article_url": "https://kenh14.vn/thot-tim-khoanh-khac-quynh-luong-te-nga-ngay-truoc-them-nha-khi-dang-mang-thai-6-thang-215250512172324391.chn",
-        "crawled_at": "2025-05-12T14:12:46.872948900Z"
-      },
-      {
-        "article_title": "Chuyện chưa từng có: NSX show thực tế gặp thí sinh khi biết có tin bất ổn, chỉ 1 hành động mà gây nức lòng",
-        "article_url": "https://kenh14.vn/chuyen-chua-tung-co-nsx-show-thuc-te-gap-thi-sinh-khi-biet-co-tin-bat-on-chi-1-hanh-dong-ma-gay-nuc-long-215250505203010487.chn",
-        "crawled_at": "2025-05-12T14:12:47.767973300Z"
-      },
-      {
-        "article_title": "Cõi mạng đồn brand thời trang Việt 22 năm tuổi đóng cửa: Dân tình xếp hàng dài mua đồ sale sập sàn trong nước mắt",
-        "article_url": "https://kenh14.vn/coi-mang-don-brand-thoi-trang-viet-22-nam-tuoi-dong-cua-dan-tinh-xep-hang-dai-mua-do-sale-sap-san-trong-nuoc-mat-215250512172722861.chn",
-        "crawled_at": "2025-05-12T14:12:50.092958900Z"
-      },
-      {
-        "article_title": "Hoa hậu Hoàn vũ Trung Quốc bị tước vương miện",
-        "article_url": "https://kenh14.vn/hoa-hau-hoan-vu-trung-quoc-bi-tuoc-vuong-mien-215250410231752335.chn",
-        "crawled_at": "2025-05-12T14:12:54.608406600Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.357374300Z"
-      },
-      {
-        "article_title": "\"Jennie chỉ lười nhảy khi hoạt động cùng BLACKPINK\"",
-        "article_url": "https://kenh14.vn/jennie-chi-luoi-nhay-khi-hoat-dong-cung-blackpink-215250325205439685.chn",
-        "crawled_at": "2025-05-12T14:13:01.472116Z"
-      },
-      {
-        "article_title": "Không tổ chức tang lễ cho Từ Hy Viên, lý do là gì?",
-        "article_url": "https://kenh14.vn/khong-to-chuc-tang-le-cho-tu-hy-vien-ly-do-la-gi-215250205222804868.chn",
-        "crawled_at": "2025-05-12T14:13:04.257291300Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.807527700Z"
-      },
-      {
-        "article_title": "Cụ ông 79 tuổi suốt 2 năm không thể thừa kế nhà mình chỉ vì thiếu 1 chữ ký của hàng xóm: \"Phải trả tôi 175 triệu thì tôi mới ký\"",
-        "article_url": "https://kenh14.vn/cu-ong-79-tuoi-suot-2-nam-khong-the-thua-ke-nha-minh-chi-vi-thieu-1-chu-ky-cua-hang-xom-phai-tra-toi-175-trieu-thi-toi-moi-ky-215250225202940832.chn",
-        "crawled_at": "2025-05-12T14:13:08.059379900Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.511507200Z"
-      }
-    ],
-    "url": "https://kenh14.vn/star.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:50.029380Z",
-    "last_updated_at": "2025-05-12T14:13:08.028400400Z",
-    "article_count": 2,
-    "title": "Đẹp",
-    "articles": [
-      {
-        "article_title": "Cõi mạng đồn brand thời trang Việt 22 năm tuổi đóng cửa: Dân tình xếp hàng dài mua đồ sale sập sàn trong nước mắt",
-        "article_url": "https://kenh14.vn/coi-mang-don-brand-thoi-trang-viet-22-nam-tuoi-dong-cua-dan-tinh-xep-hang-dai-mua-do-sale-sap-san-trong-nuoc-mat-215250512172722861.chn",
-        "crawled_at": "2025-05-12T14:12:50.029380Z"
-      },
-      {
-        "article_title": "Cụ ông 79 tuổi suốt 2 năm không thể thừa kế nhà mình chỉ vì thiếu 1 chữ ký của hàng xóm: \"Phải trả tôi 175 triệu thì tôi mới ký\"",
-        "article_url": "https://kenh14.vn/cu-ong-79-tuoi-suot-2-nam-khong-the-thua-ke-nha-minh-chi-vi-thieu-1-chu-ky-cua-hang-xom-phai-tra-toi-175-trieu-thi-toi-moi-ky-215250225202940832.chn",
-        "crawled_at": "2025-05-12T14:13:08.028400400Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xem-mua-luon/dep.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:40.219459100Z",
-    "last_updated_at": "2025-05-12T14:12:58.012039700Z",
-    "article_count": 5,
-    "title": "HOW-TO",
-    "articles": [
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.219459100Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.254235200Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.464036600Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:57.983041700Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:58.012039700Z"
-      }
-    ],
-    "url": "https://kenh14.vn/tek-life/how-to.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:33.321512100Z",
-    "last_updated_at": "2025-05-12T14:13:04.296195100Z",
-    "article_count": 9,
-    "title": "Hội bạn thân Showbiz",
-    "articles": [
-      {
-        "article_title": "Khả Ngân lên tiếng về gương mặt thay đổi gây sốc",
-        "article_url": "https://kenh14.vn/kha-ngan-len-tieng-ve-guong-mat-thay-doi-gay-soc-215250510214722258.chn",
-        "crawled_at": "2025-05-12T14:12:33.321512100Z"
-      },
-      {
-        "article_title": "Hành động ngáng đường, khiến Taylor Swift bị tố xấu tính tại Victoria\u0027s Secret năm xưa",
-        "article_url": "https://kenh14.vn/hanh-dong-ngang-duong-khien-taylor-swift-bi-to-xau-tinh-tai-victorias-secret-nam-xua-215250505131150142.chn",
-        "crawled_at": "2025-05-12T14:12:33.934751500Z"
-      },
-      {
-        "article_title": "Hot: \"Nữ hoàng gợi cảm\" Hyuna mang thai con đầu lòng sau 7 tháng cưới?",
-        "article_url": "https://kenh14.vn/hot-nu-hoang-goi-cam-hyuna-mang-thai-con-dau-long-sau-7-thang-cuoi-215250512172923164.chn",
-        "crawled_at": "2025-05-12T14:12:36.850241300Z"
-      },
-      {
-        "article_title": "Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body \"đồng hồ cát\" cực bốc, visual đời thường mới choáng",
-        "article_url": "https://kenh14.vn/cap-doi-vbiz-dinh-nhu-sam-nay-bat-ngo-co-dong-thai-la-gay-xon-xao-215250510181020882.chn",
-        "crawled_at": "2025-05-12T14:12:39.327140900Z"
-      },
-      {
-        "article_title": "Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?",
-        "article_url": "https://kenh14.vn/hoa-hau-y-nhi-giu-phong-do-ra-sao-trong-ngay-dau-nhap-cuoc-miss-world-21525051020062318.chn",
-        "crawled_at": "2025-05-12T14:12:45.222014500Z"
-      },
-      {
-        "article_title": "Thót tim khoảnh khắc Quỳnh Lương té ngã ngay trước thềm nhà khi đang mang thai 6 tháng",
-        "article_url": "https://kenh14.vn/thot-tim-khoanh-khac-quynh-luong-te-nga-ngay-truoc-them-nha-khi-dang-mang-thai-6-thang-215250512172324391.chn",
-        "crawled_at": "2025-05-12T14:12:46.891951900Z"
-      },
-      {
-        "article_title": "Chuyện chưa từng có: NSX show thực tế gặp thí sinh khi biết có tin bất ổn, chỉ 1 hành động mà gây nức lòng",
-        "article_url": "https://kenh14.vn/chuyen-chua-tung-co-nsx-show-thuc-te-gap-thi-sinh-khi-biet-co-tin-bat-on-chi-1-hanh-dong-ma-gay-nuc-long-215250505203010487.chn",
-        "crawled_at": "2025-05-12T14:12:47.792965700Z"
-      },
-      {
-        "article_title": "Hoa hậu Hoàn vũ Trung Quốc bị tước vương miện",
-        "article_url": "https://kenh14.vn/hoa-hau-hoan-vu-trung-quoc-bi-tuoc-vuong-mien-215250410231752335.chn",
-        "crawled_at": "2025-05-12T14:12:54.617301100Z"
-      },
-      {
-        "article_title": "Không tổ chức tang lễ cho Từ Hy Viên, lý do là gì?",
-        "article_url": "https://kenh14.vn/khong-to-chuc-tang-le-cho-tu-hy-vien-ly-do-la-gi-215250205222804868.chn",
-        "crawled_at": "2025-05-12T14:13:04.296195100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/star/hoi-ban-than-showbiz.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:41.544947600Z",
-    "last_updated_at": "2025-05-12T14:12:50.110963800Z",
-    "article_count": 2,
-    "title": "Bóng đá",
-    "articles": [
-      {
-        "article_title": "Xuất hiện với đôi môi sưng vù, bạn gái gia thế “trâm anh thế phiệt” của hậu vệ Văn Thanh phẫu thuật thẩm mỹ?",
-        "article_url": "https://kenh14.vn/xuat-hien-voi-doi-moi-sung-vu-ban-gai-gia-the-tram-anh-the-phiet-cua-hau-ve-van-thanh-phau-thuat-tham-my-215250512071941823.chn",
-        "crawled_at": "2025-05-12T14:12:41.544947600Z"
-      },
-      {
-        "article_title": "Tính nghiện mua sắm của bạn gái từng khiến Ronaldo phải lắc đầu, cô nàng sau đó phản ứng bất ngờ",
-        "article_url": "https://kenh14.vn/tinh-nghien-mua-sam-cua-ban-gai-tung-khien-ronaldo-phai-lac-dau-co-nang-sau-do-phan-ung-bat-ngo-215250510221925461.chn",
-        "crawled_at": "2025-05-12T14:12:50.110963800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/sport/bong-da.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:41.544947600Z",
-    "last_updated_at": "2025-05-12T14:12:50.121953800Z",
-    "article_count": 2,
-    "title": "eSports",
-    "articles": [
-      {
-        "article_title": "Xuất hiện với đôi môi sưng vù, bạn gái gia thế “trâm anh thế phiệt” của hậu vệ Văn Thanh phẫu thuật thẩm mỹ?",
-        "article_url": "https://kenh14.vn/xuat-hien-voi-doi-moi-sung-vu-ban-gai-gia-the-tram-anh-the-phiet-cua-hau-ve-van-thanh-phau-thuat-tham-my-215250512071941823.chn",
-        "crawled_at": "2025-05-12T14:12:41.544947600Z"
-      },
-      {
-        "article_title": "Tính nghiện mua sắm của bạn gái từng khiến Ronaldo phải lắc đầu, cô nàng sau đó phản ứng bất ngờ",
-        "article_url": "https://kenh14.vn/tinh-nghien-mua-sam-cua-ban-gai-tung-khien-ronaldo-phai-lac-dau-co-nang-sau-do-phan-ung-bat-ngo-215250510221925461.chn",
-        "crawled_at": "2025-05-12T14:12:50.121953800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/sport/esports.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:28.262881800Z",
-    "last_updated_at": "2025-05-12T14:13:01.215914900Z",
-    "article_count": 8,
-    "title": "Du học",
-    "articles": [
-      {
-        "article_title": "Vụ nhiều học sinh 12 \"tự nguyện\" xin nghỉ học: Sở GD-ĐT tỉnh Đắk Lắk báo cáo Thường trực Tỉnh ủy",
-        "article_url": "https://kenh14.vn/vu-nhieu-hoc-sinh-12-tu-nguyen-xin-nghi-hoc-so-gd-dt-tinh-dak-lak-bao-cao-thuong-truc-tinh-uy-215250512193045695.chn",
-        "crawled_at": "2025-05-12T14:12:28.262881800Z"
-      },
-      {
-        "article_title": "3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ",
-        "article_url": "https://kenh14.vn/3-bi-quyet-nuoi-day-tre-em-co-long-nhan-ai-dieu-cuoi-cung-khien-nhieu-nguoi-bat-ngo-215250504141340721.chn",
-        "crawled_at": "2025-05-12T14:12:39.271426400Z"
-      },
-      {
-        "article_title": "Không ai ngờ: Ngành học phụ huynh từng ngăn cấm vì \"không kiếm ra tiền\" này lại lọt top có nhu cầu cao nhất 2025",
-        "article_url": "https://kenh14.vn/khong-ai-ngo-nganh-hoc-phu-huynh-tung-ngan-cam-vi-khong-kiem-ra-tien-nay-lai-lot-top-co-nhu-cau-cao-nhat-2025-215250511084233046.chn",
-        "crawled_at": "2025-05-12T14:12:43.986890300Z"
-      },
-      {
-        "article_title": "Bi kịch sẽ giáng xuống đầu con trẻ ngay lập tức nếu cha mẹ thường xuyên làm 5 điều này",
-        "article_url": "https://kenh14.vn/bi-kich-se-giang-xuong-dau-con-tre-ngay-lap-tuc-neu-cha-me-thuong-xuyen-lam-5-dieu-nay-215250510143444887.chn",
-        "crawled_at": "2025-05-12T14:12:46.628367200Z"
-      },
-      {
-        "article_title": "Xem phim Sex Education, tôi ước gì mọi bậc cha mẹ đều nghe được câu nói này: Cuộc đời sẽ nhẹ nhõm, bớt tiêu cực hơn rất nhiều!",
-        "article_url": "https://kenh14.vn/xem-phim-sex-education-toi-uoc-gi-moi-bac-cha-me-deu-nghe-duoc-cau-noi-nay-cuoc-doi-se-nhe-nhom-bot-tieu-cuc-hon-rat-nhieu-21525033117473898.chn",
-        "crawled_at": "2025-05-12T14:12:55.019558Z"
-      },
-      {
-        "article_title": "Ông bố U40 hỏi ChatGPT: \"Con tôi hư quá, phải làm sao?\" - AI đáp lại cực phũ: \"Hư hay không thì trước hết xem lại chính mình\"",
-        "article_url": "https://kenh14.vn/ong-bo-u40-hoi-chatgpt-con-toi-hu-qua-phai-lam-sao-ai-dap-lai-cuc-phu-hu-hay-khong-thi-truoc-het-xem-lai-chinh-minh-215250305192143604.chn",
-        "crawled_at": "2025-05-12T14:12:58.372234200Z"
-      },
-      {
-        "article_title": "Tiến sĩ toán tốt nghiệp đại học top 7 thế giới: Đi để trở về",
-        "article_url": "https://kenh14.vn/tien-si-toan-tot-nghiep-dai-hoc-top-7-the-gioi-di-de-tro-ve-215250315181737933.chn",
-        "crawled_at": "2025-05-12T14:13:00.734219500Z"
-      },
-      {
-        "article_title": "Gần 120 nghìn học sinh lớp 11 tại Hà Nội \"thi thử\" tốt nghiệp THPT",
-        "article_url": "https://kenh14.vn/gan-120-nghin-hoc-sinh-lop-11-tai-ha-noi-thi-thu-tot-nghiep-thpt-215250320205617932.chn",
-        "crawled_at": "2025-05-12T14:13:01.215914900Z"
-      }
-    ],
-    "url": "https://kenh14.vn/hoc-duong/du-hoc.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:31.911350100Z",
-    "last_updated_at": "2025-05-12T14:13:03.251743500Z",
-    "article_count": 3,
-    "title": "Chùm ảnh",
-    "articles": [
-      {
-        "article_title": "Về quê 5 ngày quên tắt điều hoà, người đàn ông “chết lặng” khi quay lại thành phố",
-        "article_url": "https://kenh14.vn/ve-que-5-ngay-quen-tat-dieu-hoa-nguoi-dan-ong-chet-lang-khi-quay-lai-thanh-pho-215250505154740357.chn",
-        "crawled_at": "2025-05-12T14:12:31.911350100Z"
-      },
-      {
-        "article_title": "Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng, công ty bảo hiểm tuyên bố: “Không thể bồi thường vì 2 người là cha con\"",
-        "article_url": "https://kenh14.vn/lai-xe-tren-cao-toc-nguoi-dan-ong-bi-o-to-khac-dam-thiet-hai-464-trieu-dong-cong-ty-bao-hiem-tuyen-bo-khong-the-boi-thuong-vi-2-nguoi-la-cha-con-215250505154843776.chn",
-        "crawled_at": "2025-05-12T14:12:42.207700400Z"
-      },
-      {
-        "article_title": "Myanmar tuyên bố quốc tang một tuần tưởng niệm nạn nhân động đất",
-        "article_url": "https://kenh14.vn/myanmar-tuyen-bo-quoc-tang-mot-tuan-tuong-niem-nan-nhan-dong-dat-21525033121583957.chn",
-        "crawled_at": "2025-05-12T14:13:03.251743500Z"
-      }
-    ],
-    "url": "https://kenh14.vn/the-gioi-do-day/chum-anh.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.673539Z",
-    "last_updated_at": "2025-05-12T14:13:08.462082Z",
-    "article_count": 5,
-    "title": "Phim Việt Nam",
-    "articles": [
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.673539Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.709667300Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.342374Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.755547200Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.462082Z"
-      }
-    ],
-    "url": "https://kenh14.vn/cine/phim-viet-nam.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:50.029380Z",
-    "last_updated_at": "2025-05-12T14:13:08.043369300Z",
-    "article_count": 2,
-    "title": "Mommy Mua Đi",
-    "articles": [
-      {
-        "article_title": "Cõi mạng đồn brand thời trang Việt 22 năm tuổi đóng cửa: Dân tình xếp hàng dài mua đồ sale sập sàn trong nước mắt",
-        "article_url": "https://kenh14.vn/coi-mang-don-brand-thoi-trang-viet-22-nam-tuoi-dong-cua-dan-tinh-xep-hang-dai-mua-do-sale-sap-san-trong-nuoc-mat-215250512172722861.chn",
-        "crawled_at": "2025-05-12T14:12:50.029380Z"
-      },
-      {
-        "article_title": "Cụ ông 79 tuổi suốt 2 năm không thể thừa kế nhà mình chỉ vì thiếu 1 chữ ký của hàng xóm: \"Phải trả tôi 175 triệu thì tôi mới ký\"",
-        "article_url": "https://kenh14.vn/cu-ong-79-tuoi-suot-2-nam-khong-the-thua-ke-nha-minh-chi-vi-thieu-1-chu-ky-cua-hang-xom-phai-tra-toi-175-trieu-thi-toi-moi-ky-215250225202940832.chn",
-        "crawled_at": "2025-05-12T14:13:08.043369300Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xem-mua-luon/mommy-mua-di.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:40.219459100Z",
-    "last_updated_at": "2025-05-12T14:12:58.006040900Z",
-    "article_count": 5,
-    "title": "Metaverse",
-    "articles": [
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.219459100Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.247504Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.461026800Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:57.962061500Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:58.006040900Z"
-      }
-    ],
-    "url": "https://kenh14.vn/tek-life/metaverse.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:31.684566900Z",
-    "last_updated_at": "2025-05-12T14:12:55.683386Z",
-    "article_count": 5,
-    "title": "Money-Z",
-    "articles": [
-      {
-        "article_title": "Không hề giàu có nhưng mẹ tôi tiết kiệm đều 1,8 triệu mỗi tháng, sau 7 năm có 150 triệu để đặt cọc mua nhà",
-        "article_url": "https://kenh14.vn/khong-he-giau-co-nhung-me-toi-tiet-kiem-deu-18-trieu-moi-thang-sau-7-nam-co-150-trieu-de-dat-coc-mua-nha-215250510221421897.chn",
-        "crawled_at": "2025-05-12T14:12:31.684566900Z"
-      },
-      {
-        "article_title": "Tối nay 12-5, giá vàng đang giảm rất mạnh",
-        "article_url": "https://kenh14.vn/toi-nay-12-5-gia-vang-dang-giam-rat-manh-215250512202754761.chn",
-        "crawled_at": "2025-05-12T14:12:38.709702400Z"
-      },
-      {
-        "article_title": "5 châm ngôn gói gọn tích luỹ cả đời của Warren Buffett: Giá trị hơn cả mã cổ phiếu; khai sáng trí tuệ đầu tư; tiết lộ bí quyết trường thọ khi đã 94 tuổi",
-        "article_url": "https://kenh14.vn/5-cham-ngon-goi-gon-tich-luy-ca-doi-cua-warren-buffett-gia-tri-hon-ca-ma-co-phieu-khai-sang-tri-tue-dau-tu-tiet-lo-bi-quyet-truong-tho-khi-da-94-tuoi-215250505155712467.chn",
-        "crawled_at": "2025-05-12T14:12:51.215776800Z"
-      },
-      {
-        "article_title": "Cách nào để tránh bị mất tiền qua loa thông báo chuyển khoản?",
-        "article_url": "https://kenh14.vn/cach-nao-de-tranh-bi-mat-tien-qua-loa-thong-bao-chuyen-khoan-215250512203106617.chn",
-        "crawled_at": "2025-05-12T14:12:51.515363900Z"
-      },
-      {
-        "article_title": "Tiền không mua được hạnh phúc – Tôi sống tối giản 10 năm và chứng minh điều ngược lại",
-        "article_url": "https://kenh14.vn/tien-khong-mua-duoc-hanh-phuc-toi-song-toi-gian-10-nam-va-chung-minh-dieu-nguoc-lai-215250415213116333.chn",
-        "crawled_at": "2025-05-12T14:12:55.683386Z"
-      }
-    ],
-    "url": "https://kenh14.vn/money-z.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:31.427878500Z",
-    "last_updated_at": "2025-05-12T14:12:37.538005100Z",
-    "article_count": 3,
-    "title": "Ăn",
-    "articles": [
-      {
-        "article_title": "Kiên Giang đẩy mạnh quảng bá văn hóa ẩm thực để thu hút du khách",
-        "article_url": "https://kenh14.vn/kien-giang-day-manh-quang-ba-van-hoa-am-thuc-de-thu-hut-du-khach-215250512210527069.chn",
-        "crawled_at": "2025-05-12T14:12:31.427878500Z"
-      },
-      {
-        "article_title": "Khán giả khóc ròng vì \"đặc quyền 10 triệu\" tại concert Anh Trai Say Hi dưới mưa, càng nhìn càng xót",
-        "article_url": "https://kenh14.vn/khan-gia-khoc-rong-vi-dac-quyen-10-trieu-tai-concert-anh-trai-say-hi-duoi-mua-cang-nhin-cang-xot-215250510220657963.chn",
-        "crawled_at": "2025-05-12T14:12:37.083582300Z"
-      },
-      {
-        "article_title": "Khách Tây bất ngờ trước món ăn \"được làm từ nilon\" ở Việt Nam, dân mạng lại thấy lo lắng vì 1 lý do",
-        "article_url": "https://kenh14.vn/khach-tay-bat-ngo-truoc-mon-an-duoc-lam-tu-nilon-o-viet-nam-dan-mang-lai-thay-lo-lang-vi-1-ly-do-215250505231031695.chn",
-        "crawled_at": "2025-05-12T14:12:37.538005100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/an-quay-di/an.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.180037800Z",
-    "last_updated_at": "2025-05-12T14:13:07.477371400Z",
-    "article_count": 6,
-    "title": "Làm Đẹp",
-    "articles": [
-      {
-        "article_title": "Mặt gầy để kiểu tóc nào đẹp?",
-        "article_url": "https://kenh14.vn/mat-gay-de-kieu-toc-nao-dep-215250510193708507.chn",
-        "crawled_at": "2025-05-12T14:12:35.180037800Z"
-      },
-      {
-        "article_title": "Triệu Lộ Tư lại đổi tạo hình, khẳng định vị thế \"không thể hết hot\"",
-        "article_url": "https://kenh14.vn/trieu-lo-tu-lai-doi-tao-hinh-khang-dinh-vi-the-khong-the-het-hot-215250512182842995.chn",
-        "crawled_at": "2025-05-12T14:12:48.694292900Z"
-      },
-      {
-        "article_title": "Đừng chỉ mặc quần đen, chị em chăm diện quần sáng màu trong mùa hè sẽ thấy mình trẻ ra ít nhất 5 tuổi",
-        "article_url": "https://kenh14.vn/dung-chi-mac-quan-den-chi-em-cham-dien-quan-sang-mau-trong-mua-he-se-thay-minh-tre-ra-it-nhat-5-tuoi-215250504164049259.chn",
-        "crawled_at": "2025-05-12T14:12:49.212180600Z"
-      },
-      {
-        "article_title": "Phú bà tỉnh lẻ và cơn sốt hàng hiệu secondhand: Xu hướng tiêu dùng mới hay cuộc chơi của những người sành điệu?",
-        "article_url": "https://kenh14.vn/phu-ba-tinh-le-va-con-sot-hang-hieu-secondhand-xu-huong-tieu-dung-moi-hay-cuoc-choi-cua-nhung-nguoi-sanh-dieu-215250310180342532.chn",
-        "crawled_at": "2025-05-12T14:13:00.094088800Z"
-      },
-      {
-        "article_title": "Nàng dâu hào môn này cực lạ: Ít khi mặc váy, toàn diện quần dài mà vẫn rất sang",
-        "article_url": "https://kenh14.vn/nang-dau-hao-mon-nay-cuc-la-it-khi-mac-vay-toan-dien-quan-dai-ma-van-rat-sang-215250228173416528.chn",
-        "crawled_at": "2025-05-12T14:13:07.438369100Z"
-      },
-      {
-        "article_title": "5 món thời trang \"hack\" tuổi được phụ nữ Pháp mặc nhiều vào mùa xuân",
-        "article_url": "https://kenh14.vn/5-mon-thoi-trang-hack-tuoi-duoc-phu-nu-phap-mac-nhieu-vao-mua-xuan-21525022021532338.chn",
-        "crawled_at": "2025-05-12T14:13:07.477371400Z"
-      }
-    ],
-    "url": "https://kenh14.vn/beauty-fashion/lam-dep.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:29.919515100Z",
-    "last_updated_at": "2025-05-12T14:13:04.322191100Z",
-    "article_count": 4,
-    "title": "Xem Ăn Chơi",
-    "articles": [
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.919515100Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.102639200Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.924119400Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.322191100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xem-an-choi.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:34.647096100Z",
-    "last_updated_at": "2025-05-12T14:12:34.647096100Z",
-    "article_count": 1,
-    "title": "Sông bền vững",
-    "articles": [
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/song-ben-vung.html",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:31.427878500Z",
-    "last_updated_at": "2025-05-12T14:12:37.551654100Z",
-    "article_count": 3,
-    "title": "Quẩy",
-    "articles": [
-      {
-        "article_title": "Kiên Giang đẩy mạnh quảng bá văn hóa ẩm thực để thu hút du khách",
-        "article_url": "https://kenh14.vn/kien-giang-day-manh-quang-ba-van-hoa-am-thuc-de-thu-hut-du-khach-215250512210527069.chn",
-        "crawled_at": "2025-05-12T14:12:31.427878500Z"
-      },
-      {
-        "article_title": "Khán giả khóc ròng vì \"đặc quyền 10 triệu\" tại concert Anh Trai Say Hi dưới mưa, càng nhìn càng xót",
-        "article_url": "https://kenh14.vn/khan-gia-khoc-rong-vi-dac-quyen-10-trieu-tai-concert-anh-trai-say-hi-duoi-mua-cang-nhin-cang-xot-215250510220657963.chn",
-        "crawled_at": "2025-05-12T14:12:37.093733400Z"
-      },
-      {
-        "article_title": "Khách Tây bất ngờ trước món ăn \"được làm từ nilon\" ở Việt Nam, dân mạng lại thấy lo lắng vì 1 lý do",
-        "article_url": "https://kenh14.vn/khach-tay-bat-ngo-truoc-mon-an-duoc-lam-tu-nilon-o-viet-nam-dan-mang-lai-thay-lo-lang-vi-1-ly-do-215250505231031695.chn",
-        "crawled_at": "2025-05-12T14:12:37.551654100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/an-quay-di/quay.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:33.322525200Z",
-    "last_updated_at": "2025-05-12T14:13:08.502892700Z",
-    "article_count": 17,
-    "title": "Musik",
-    "articles": [
-      {
-        "article_title": "Khả Ngân lên tiếng về gương mặt thay đổi gây sốc",
-        "article_url": "https://kenh14.vn/kha-ngan-len-tieng-ve-guong-mat-thay-doi-gay-soc-215250510214722258.chn",
-        "crawled_at": "2025-05-12T14:12:33.322525200Z"
-      },
-      {
-        "article_title": "Hành động ngáng đường, khiến Taylor Swift bị tố xấu tính tại Victoria\u0027s Secret năm xưa",
-        "article_url": "https://kenh14.vn/hanh-dong-ngang-duong-khien-taylor-swift-bi-to-xau-tinh-tai-victorias-secret-nam-xua-215250505131150142.chn",
-        "crawled_at": "2025-05-12T14:12:33.951617700Z"
-      },
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.789750800Z"
-      },
-      {
-        "article_title": "Hot: \"Nữ hoàng gợi cảm\" Hyuna mang thai con đầu lòng sau 7 tháng cưới?",
-        "article_url": "https://kenh14.vn/hot-nu-hoang-goi-cam-hyuna-mang-thai-con-dau-long-sau-7-thang-cuoi-215250512172923164.chn",
-        "crawled_at": "2025-05-12T14:12:36.872134900Z"
-      },
-      {
-        "article_title": "Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body \"đồng hồ cát\" cực bốc, visual đời thường mới choáng",
-        "article_url": "https://kenh14.vn/cap-doi-vbiz-dinh-nhu-sam-nay-bat-ngo-co-dong-thai-la-gay-xon-xao-215250510181020882.chn",
-        "crawled_at": "2025-05-12T14:12:39.366035500Z"
-      },
-      {
-        "article_title": "Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi, nhiều người bỏ về dù nghệ sĩ vẫn diễn hết mình",
-        "article_url": "https://kenh14.vn/ngay-luc-nay-ha-noi-mua-tam-ta-khien-tat-ca-met-moi-staff-cong-fan-vao-khu-y-te-tai-concert-anh-trai-say-hi-nhieu-nguoi-bo-ve-du-nghe-si-van-dien-het-minh-215250510214834597.chn",
-        "crawled_at": "2025-05-12T14:12:41.216562300Z"
-      },
-      {
-        "article_title": "Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua: Phong độ là nhất thời, đẳng cấp mới là mãi mãi!",
-        "article_url": "https://kenh14.vn/khong-hen-ma-gap-ca-g-dragon-va-son-tung-deu-gay-bao-visual-cuoi-tuan-qua-phong-do-la-nhat-thoi-dang-cap-moi-la-mai-mai-215250505174516446.chn",
-        "crawled_at": "2025-05-12T14:12:44.106305600Z"
-      },
-      {
-        "article_title": "Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?",
-        "article_url": "https://kenh14.vn/hoa-hau-y-nhi-giu-phong-do-ra-sao-trong-ngay-dau-nhap-cuoc-miss-world-21525051020062318.chn",
-        "crawled_at": "2025-05-12T14:12:45.232191800Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.728390700Z"
-      },
-      {
-        "article_title": "Thót tim khoảnh khắc Quỳnh Lương té ngã ngay trước thềm nhà khi đang mang thai 6 tháng",
-        "article_url": "https://kenh14.vn/thot-tim-khoanh-khac-quynh-luong-te-nga-ngay-truoc-them-nha-khi-dang-mang-thai-6-thang-215250512172324391.chn",
-        "crawled_at": "2025-05-12T14:12:46.905947600Z"
-      },
-      {
-        "article_title": "Chuyện chưa từng có: NSX show thực tế gặp thí sinh khi biết có tin bất ổn, chỉ 1 hành động mà gây nức lòng",
-        "article_url": "https://kenh14.vn/chuyen-chua-tung-co-nsx-show-thuc-te-gap-thi-sinh-khi-biet-co-tin-bat-on-chi-1-hanh-dong-ma-gay-nuc-long-215250505203010487.chn",
-        "crawled_at": "2025-05-12T14:12:47.801889300Z"
-      },
-      {
-        "article_title": "Hoa hậu Hoàn vũ Trung Quốc bị tước vương miện",
-        "article_url": "https://kenh14.vn/hoa-hau-hoan-vu-trung-quoc-bi-tuoc-vuong-mien-215250410231752335.chn",
-        "crawled_at": "2025-05-12T14:12:54.624305500Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.354375800Z"
-      },
-      {
-        "article_title": "\"Jennie chỉ lười nhảy khi hoạt động cùng BLACKPINK\"",
-        "article_url": "https://kenh14.vn/jennie-chi-luoi-nhay-khi-hoat-dong-cung-blackpink-215250325205439685.chn",
-        "crawled_at": "2025-05-12T14:13:01.433244100Z"
-      },
-      {
-        "article_title": "Không tổ chức tang lễ cho Từ Hy Viên, lý do là gì?",
-        "article_url": "https://kenh14.vn/khong-to-chuc-tang-le-cho-tu-hy-vien-ly-do-la-gi-215250205222804868.chn",
-        "crawled_at": "2025-05-12T14:13:04.321181800Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.802623800Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.502892700Z"
-      }
-    ],
-    "url": "https://kenh14.vn/musik.chn",
-    "is_featured": true
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:34.647096100Z",
-    "last_updated_at": "2025-05-12T14:12:34.647096100Z",
-    "article_count": 1,
-    "title": "Tin tức",
-    "articles": [
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/suc-khoe/tin-tuc.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.673539Z",
-    "last_updated_at": "2025-05-12T14:13:08.477767500Z",
-    "article_count": 5,
-    "title": "Series Truyền Hình",
-    "articles": [
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.673539Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.717203200Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.345373100Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.776542Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.477767500Z"
-      }
-    ],
-    "url": "https://kenh14.vn/cine/series-truyen-hinh.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.673539Z",
-    "last_updated_at": "2025-05-12T14:13:08.448959200Z",
-    "article_count": 5,
-    "title": "Phim Chiếu Rạp",
-    "articles": [
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.673539Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.693113100Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.339374200Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.730551600Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.447955800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/cine/phim-chieu-rap.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:29.919515100Z",
-    "last_updated_at": "2025-05-12T14:13:04.348184800Z",
-    "article_count": 14,
-    "title": "Dị",
-    "articles": [
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.919515100Z"
-      },
-      {
-        "article_title": "Về quê 5 ngày quên tắt điều hoà, người đàn ông “chết lặng” khi quay lại thành phố",
-        "article_url": "https://kenh14.vn/ve-que-5-ngay-quen-tat-dieu-hoa-nguoi-dan-ong-chet-lang-khi-quay-lai-thanh-pho-215250505154740357.chn",
-        "crawled_at": "2025-05-12T14:12:31.985218900Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.127853100Z"
-      },
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.288143300Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.964460500Z"
-      },
-      {
-        "article_title": "Xuất hiện với đôi môi sưng vù, bạn gái gia thế “trâm anh thế phiệt” của hậu vệ Văn Thanh phẫu thuật thẩm mỹ?",
-        "article_url": "https://kenh14.vn/xuat-hien-voi-doi-moi-sung-vu-ban-gai-gia-the-tram-anh-the-phiet-cua-hau-ve-van-thanh-phau-thuat-tham-my-215250512071941823.chn",
-        "crawled_at": "2025-05-12T14:12:41.564115800Z"
-      },
-      {
-        "article_title": "Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng, công ty bảo hiểm tuyên bố: “Không thể bồi thường vì 2 người là cha con\"",
-        "article_url": "https://kenh14.vn/lai-xe-tren-cao-toc-nguoi-dan-ong-bi-o-to-khac-dam-thiet-hai-464-trieu-dong-cong-ty-bao-hiem-tuyen-bo-khong-the-boi-thuong-vi-2-nguoi-la-cha-con-215250505154843776.chn",
-        "crawled_at": "2025-05-12T14:12:42.214244100Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.268169300Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.476061600Z"
-      },
-      {
-        "article_title": "Tính nghiện mua sắm của bạn gái từng khiến Ronaldo phải lắc đầu, cô nàng sau đó phản ứng bất ngờ",
-        "article_url": "https://kenh14.vn/tinh-nghien-mua-sam-cua-ban-gai-tung-khien-ronaldo-phai-lac-dau-co-nang-sau-do-phan-ung-bat-ngo-215250510221925461.chn",
-        "crawled_at": "2025-05-12T14:12:50.129954900Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:58.008038200Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:58.030036700Z"
-      },
-      {
-        "article_title": "Myanmar tuyên bố quốc tang một tuần tưởng niệm nạn nhân động đất",
-        "article_url": "https://kenh14.vn/myanmar-tuyen-bo-quoc-tang-mot-tuan-tuong-niem-nan-nhan-dong-dat-21525033121583957.chn",
-        "crawled_at": "2025-05-12T14:13:03.285727Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.348184800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/the-gioi-do-day/di.chn",
-    "is_featured": true
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:31.427878500Z",
-    "last_updated_at": "2025-05-12T14:12:37.564586500Z",
-    "article_count": 3,
-    "title": "Đi",
-    "articles": [
-      {
-        "article_title": "Kiên Giang đẩy mạnh quảng bá văn hóa ẩm thực để thu hút du khách",
-        "article_url": "https://kenh14.vn/kien-giang-day-manh-quang-ba-van-hoa-am-thuc-de-thu-hut-du-khach-215250512210527069.chn",
-        "crawled_at": "2025-05-12T14:12:31.427878500Z"
-      },
-      {
-        "article_title": "Khán giả khóc ròng vì \"đặc quyền 10 triệu\" tại concert Anh Trai Say Hi dưới mưa, càng nhìn càng xót",
-        "article_url": "https://kenh14.vn/khan-gia-khoc-rong-vi-dac-quyen-10-trieu-tai-concert-anh-trai-say-hi-duoi-mua-cang-nhin-cang-xot-215250510220657963.chn",
-        "crawled_at": "2025-05-12T14:12:37.119192700Z"
-      },
-      {
-        "article_title": "Khách Tây bất ngờ trước món ăn \"được làm từ nilon\" ở Việt Nam, dân mạng lại thấy lo lắng vì 1 lý do",
-        "article_url": "https://kenh14.vn/khach-tay-bat-ngo-truoc-mon-an-duoc-lam-tu-nilon-o-viet-nam-dan-mang-lai-thay-lo-lang-vi-1-ly-do-215250505231031695.chn",
-        "crawled_at": "2025-05-12T14:12:37.564586500Z"
-      }
-    ],
-    "url": "https://kenh14.vn/an-quay-di/di.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.673539Z",
-    "last_updated_at": "2025-05-12T14:13:08.435181400Z",
-    "article_count": 5,
-    "title": "Cine",
-    "articles": [
-      {
-        "article_title": "Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp",
-        "article_url": "https://kenh14.vn/kim-tae-hee-20-nam-truoc-nhan-sac-phong-than-o-bo-phim-dinh-cao-nhat-su-nghiep-215250505232533562.chn",
-        "crawled_at": "2025-05-12T14:12:35.672550400Z"
-      },
-      {
-        "article_title": "Mỹ nhân Việt được khen xinh như Baifern Pimchanok, sở hữu 1 đặc điểm khiến vạn người xin vía",
-        "article_url": "https://kenh14.vn/my-nhan-viet-duoc-khen-xinh-nhu-baifern-pimchanok-so-huu-1-dac-diem-khien-van-nguoi-xin-via-215250512202723719.chn",
-        "crawled_at": "2025-05-12T14:12:45.676332500Z"
-      },
-      {
-        "article_title": "Ngọc nữ Hàn Quốc bị bạn diễn ép “ngủ để tăng cảm xúc”: Giải nghệ vì tổn thương, nhan sắc hiện tại gây sốc",
-        "article_url": "https://kenh14.vn/ngoc-nu-han-quoc-bi-ban-dien-ep-ngu-de-tang-cam-xuc-giai-nghe-vi-ton-thuong-nhan-sac-hien-tai-gay-soc-215250420233805939.chn",
-        "crawled_at": "2025-05-12T14:12:57.334385500Z"
-      },
-      {
-        "article_title": "Bộ Tứ Báo Thủ của Trấn Thành vượt 300 tỷ đồng",
-        "article_url": "https://kenh14.vn/bo-tu-bao-thu-cua-tran-thanh-vuot-300-ty-dong-215250210201842036.chn",
-        "crawled_at": "2025-05-12T14:13:04.714568300Z"
-      },
-      {
-        "article_title": "Đệ nhất mỹ nhân bí ẩn nhất showbiz Việt: Cát-xê 10 cây vàng vẫn giải nghệ vì lý do đau lòng, U60 nhan sắc gây sốc",
-        "article_url": "https://kenh14.vn/de-nhat-my-nhan-bi-an-nhat-showbiz-viet-cat-xe-10-cay-vang-van-giai-nghe-vi-ly-do-dau-long-u60-nhan-sac-gay-soc-215250105215159987.chn",
-        "crawled_at": "2025-05-12T14:13:08.435181400Z"
-      }
-    ],
-    "url": "https://kenh14.vn/cine.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:27.932802600Z",
-    "last_updated_at": "2025-05-12T14:12:51.764847300Z",
-    "article_count": 7,
-    "title": "Sống xanh",
-    "articles": [
-      {
-        "article_title": "Đắk Lắk: Nam sinh viên tử vong trong phòng trọ",
-        "article_url": "https://kenh14.vn/dak-lak-nam-sinh-vien-tu-vong-trong-phong-tro-215250505231251898.chn",
-        "crawled_at": "2025-05-12T14:12:27.932802600Z"
-      },
-      {
-        "article_title": "Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích",
-        "article_url": "https://kenh14.vn/mua-lon-gay-nhieu-thiet-hai-mot-nguoi-nghi-bi-nuoc-cuon-mat-tich-215250510233129983.chn",
-        "crawled_at": "2025-05-12T14:12:28.583051500Z"
-      },
-      {
-        "article_title": "TP.HCM phát hiện một cơ sở kinh doanh sữa giả",
-        "article_url": "https://kenh14.vn/tphcm-phat-hien-mot-co-so-kinh-doanh-sua-gia-215250505230819805.chn",
-        "crawled_at": "2025-05-12T14:12:29.921024500Z"
-      },
-      {
-        "article_title": "TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức",
-        "article_url": "https://kenh14.vn/tp-hcm-dem-cuoi-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-215250510221722072.chn",
-        "crawled_at": "2025-05-12T14:12:29.969376300Z"
-      },
-      {
-        "article_title": "Vụ buôn lậu đất hiếm sang Trung Quốc: Chủ doanh nghiệp khóc, khai mới học hết lớp 8",
-        "article_url": "https://kenh14.vn/vu-buon-lau-dat-hiem-sang-trung-quoc-chu-doanh-nghiep-khoc-khai-moi-hoc-het-lop-8-215250512201119773.chn",
-        "crawled_at": "2025-05-12T14:12:42.764662800Z"
-      },
-      {
-        "article_title": "2 Cây Di sản hơn 300 tuổi của Việt Nam: Loại gỗ quý hiếm \"hút\" tài lộc, giá hàng chục triệu đồng 1 khối",
-        "article_url": "https://kenh14.vn/2-cay-di-san-hon-300-tuoi-cua-viet-nam-loai-go-quy-hiem-hut-tai-loc-gia-hang-chuc-trieu-dong-1-khoi-215250505225342169.chn",
-        "crawled_at": "2025-05-12T14:12:45.709667300Z"
-      },
-      {
-        "article_title": "Nghỉ việc do sắp xếp bộ máy được hưởng ngay lương hưu kèm 2 chế độ",
-        "article_url": "https://kenh14.vn/nghi-viec-do-sap-xep-bo-may-duoc-huong-ngay-luong-huu-kem-2-che-do-215250510211725662.chn",
-        "crawled_at": "2025-05-12T14:12:51.764847300Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xa-hoi/song-xanh.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:31.427878500Z",
-    "last_updated_at": "2025-05-12T14:12:37.531630Z",
-    "article_count": 3,
-    "title": "Ăn - Quẩy - Đi",
-    "articles": [
-      {
-        "article_title": "Kiên Giang đẩy mạnh quảng bá văn hóa ẩm thực để thu hút du khách",
-        "article_url": "https://kenh14.vn/kien-giang-day-manh-quang-ba-van-hoa-am-thuc-de-thu-hut-du-khach-215250512210527069.chn",
-        "crawled_at": "2025-05-12T14:12:31.427878500Z"
-      },
-      {
-        "article_title": "Khán giả khóc ròng vì \"đặc quyền 10 triệu\" tại concert Anh Trai Say Hi dưới mưa, càng nhìn càng xót",
-        "article_url": "https://kenh14.vn/khan-gia-khoc-rong-vi-dac-quyen-10-trieu-tai-concert-anh-trai-say-hi-duoi-mua-cang-nhin-cang-xot-215250510220657963.chn",
-        "crawled_at": "2025-05-12T14:12:37.063826Z"
-      },
-      {
-        "article_title": "Khách Tây bất ngờ trước món ăn \"được làm từ nilon\" ở Việt Nam, dân mạng lại thấy lo lắng vì 1 lý do",
-        "article_url": "https://kenh14.vn/khach-tay-bat-ngo-truoc-mon-an-duoc-lam-tu-nilon-o-viet-nam-dan-mang-lai-thay-lo-lang-vi-1-ly-do-215250505231031695.chn",
-        "crawled_at": "2025-05-12T14:12:37.531630Z"
-      }
-    ],
-    "url": "https://kenh14.vn/an-quay-di.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:40.219459100Z",
-    "last_updated_at": "2025-05-12T14:12:58.026038500Z",
-    "article_count": 5,
-    "title": "2-Mall",
-    "articles": [
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.219459100Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.265204600Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.471060500Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:58.001038700Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:58.026038500Z"
-      }
-    ],
-    "url": "https://kenh14.vn/tek-life/2-mall.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:28.262881800Z",
-    "last_updated_at": "2025-05-12T14:13:01.242913600Z",
-    "article_count": 8,
-    "title": "Bản tin 46\u0027",
-    "articles": [
-      {
-        "article_title": "Vụ nhiều học sinh 12 \"tự nguyện\" xin nghỉ học: Sở GD-ĐT tỉnh Đắk Lắk báo cáo Thường trực Tỉnh ủy",
-        "article_url": "https://kenh14.vn/vu-nhieu-hoc-sinh-12-tu-nguyen-xin-nghi-hoc-so-gd-dt-tinh-dak-lak-bao-cao-thuong-truc-tinh-uy-215250512193045695.chn",
-        "crawled_at": "2025-05-12T14:12:28.262881800Z"
-      },
-      {
-        "article_title": "3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ",
-        "article_url": "https://kenh14.vn/3-bi-quyet-nuoi-day-tre-em-co-long-nhan-ai-dieu-cuoi-cung-khien-nhieu-nguoi-bat-ngo-215250504141340721.chn",
-        "crawled_at": "2025-05-12T14:12:39.290279500Z"
-      },
-      {
-        "article_title": "Không ai ngờ: Ngành học phụ huynh từng ngăn cấm vì \"không kiếm ra tiền\" này lại lọt top có nhu cầu cao nhất 2025",
-        "article_url": "https://kenh14.vn/khong-ai-ngo-nganh-hoc-phu-huynh-tung-ngan-cam-vi-khong-kiem-ra-tien-nay-lai-lot-top-co-nhu-cau-cao-nhat-2025-215250511084233046.chn",
-        "crawled_at": "2025-05-12T14:12:43.991953800Z"
-      },
-      {
-        "article_title": "Bi kịch sẽ giáng xuống đầu con trẻ ngay lập tức nếu cha mẹ thường xuyên làm 5 điều này",
-        "article_url": "https://kenh14.vn/bi-kich-se-giang-xuong-dau-con-tre-ngay-lap-tuc-neu-cha-me-thuong-xuyen-lam-5-dieu-nay-215250510143444887.chn",
-        "crawled_at": "2025-05-12T14:12:46.637361900Z"
-      },
-      {
-        "article_title": "Xem phim Sex Education, tôi ước gì mọi bậc cha mẹ đều nghe được câu nói này: Cuộc đời sẽ nhẹ nhõm, bớt tiêu cực hơn rất nhiều!",
-        "article_url": "https://kenh14.vn/xem-phim-sex-education-toi-uoc-gi-moi-bac-cha-me-deu-nghe-duoc-cau-noi-nay-cuoc-doi-se-nhe-nhom-bot-tieu-cuc-hon-rat-nhieu-21525033117473898.chn",
-        "crawled_at": "2025-05-12T14:12:55.027569100Z"
-      },
-      {
-        "article_title": "Ông bố U40 hỏi ChatGPT: \"Con tôi hư quá, phải làm sao?\" - AI đáp lại cực phũ: \"Hư hay không thì trước hết xem lại chính mình\"",
-        "article_url": "https://kenh14.vn/ong-bo-u40-hoi-chatgpt-con-toi-hu-qua-phai-lam-sao-ai-dap-lai-cuc-phu-hu-hay-khong-thi-truoc-het-xem-lai-chinh-minh-215250305192143604.chn",
-        "crawled_at": "2025-05-12T14:12:58.375227900Z"
-      },
-      {
-        "article_title": "Tiến sĩ toán tốt nghiệp đại học top 7 thế giới: Đi để trở về",
-        "article_url": "https://kenh14.vn/tien-si-toan-tot-nghiep-dai-hoc-top-7-the-gioi-di-de-tro-ve-215250315181737933.chn",
-        "crawled_at": "2025-05-12T14:13:00.744219900Z"
-      },
-      {
-        "article_title": "Gần 120 nghìn học sinh lớp 11 tại Hà Nội \"thi thử\" tốt nghiệp THPT",
-        "article_url": "https://kenh14.vn/gan-120-nghin-hoc-sinh-lop-11-tai-ha-noi-thi-thu-tot-nghiep-thpt-215250320205617932.chn",
-        "crawled_at": "2025-05-12T14:13:01.242913600Z"
-      }
-    ],
-    "url": "https://kenh14.vn/hoc-duong/ban-tin-46.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:41.544947600Z",
-    "last_updated_at": "2025-05-12T14:12:50.116956300Z",
-    "article_count": 2,
-    "title": "Hậu Trường",
-    "articles": [
-      {
-        "article_title": "Xuất hiện với đôi môi sưng vù, bạn gái gia thế “trâm anh thế phiệt” của hậu vệ Văn Thanh phẫu thuật thẩm mỹ?",
-        "article_url": "https://kenh14.vn/xuat-hien-voi-doi-moi-sung-vu-ban-gai-gia-the-tram-anh-the-phiet-cua-hau-ve-van-thanh-phau-thuat-tham-my-215250512071941823.chn",
-        "crawled_at": "2025-05-12T14:12:41.544947600Z"
-      },
-      {
-        "article_title": "Tính nghiện mua sắm của bạn gái từng khiến Ronaldo phải lắc đầu, cô nàng sau đó phản ứng bất ngờ",
-        "article_url": "https://kenh14.vn/tinh-nghien-mua-sam-cua-ban-gai-tung-khien-ronaldo-phai-lac-dau-co-nang-sau-do-phan-ung-bat-ngo-215250510221925461.chn",
-        "crawled_at": "2025-05-12T14:12:50.116956300Z"
-      }
-    ],
-    "url": "https://kenh14.vn/sport/hau-truong.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:41.216562300Z",
-    "last_updated_at": "2025-05-12T14:13:01.441254500Z",
-    "article_count": 3,
-    "title": "Âu Mỹ",
-    "articles": [
-      {
-        "article_title": "Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi, nhiều người bỏ về dù nghệ sĩ vẫn diễn hết mình",
-        "article_url": "https://kenh14.vn/ngay-luc-nay-ha-noi-mua-tam-ta-khien-tat-ca-met-moi-staff-cong-fan-vao-khu-y-te-tai-concert-anh-trai-say-hi-nhieu-nguoi-bo-ve-du-nghe-si-van-dien-het-minh-215250510214834597.chn",
-        "crawled_at": "2025-05-12T14:12:41.216562300Z"
-      },
-      {
-        "article_title": "Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua: Phong độ là nhất thời, đẳng cấp mới là mãi mãi!",
-        "article_url": "https://kenh14.vn/khong-hen-ma-gap-ca-g-dragon-va-son-tung-deu-gay-bao-visual-cuoi-tuan-qua-phong-do-la-nhat-thoi-dang-cap-moi-la-mai-mai-215250505174516446.chn",
-        "crawled_at": "2025-05-12T14:12:44.110228200Z"
-      },
-      {
-        "article_title": "\"Jennie chỉ lười nhảy khi hoạt động cùng BLACKPINK\"",
-        "article_url": "https://kenh14.vn/jennie-chi-luoi-nhay-khi-hoat-dong-cung-blackpink-215250325205439685.chn",
-        "crawled_at": "2025-05-12T14:13:01.441254500Z"
-      }
-    ],
-    "url": "https://kenh14.vn/musik/au-my.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:34.647096100Z",
-    "last_updated_at": "2025-05-12T14:12:34.647096100Z",
-    "article_count": 1,
-    "title": "Dinh dưỡng",
-    "articles": [
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      }
-    ],
-    "url": "https://kenh14.vn/suc-khoe/dinh-duong.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:27.932802600Z",
-    "last_updated_at": "2025-05-12T14:12:51.750861400Z",
-    "article_count": 7,
+    "id": 3,
     "title": "Nóng trên mạng",
-    "articles": [
-      {
-        "article_title": "Đắk Lắk: Nam sinh viên tử vong trong phòng trọ",
-        "article_url": "https://kenh14.vn/dak-lak-nam-sinh-vien-tu-vong-trong-phong-tro-215250505231251898.chn",
-        "crawled_at": "2025-05-12T14:12:27.932802600Z"
-      },
-      {
-        "article_title": "Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích",
-        "article_url": "https://kenh14.vn/mua-lon-gay-nhieu-thiet-hai-mot-nguoi-nghi-bi-nuoc-cuon-mat-tich-215250510233129983.chn",
-        "crawled_at": "2025-05-12T14:12:28.579525Z"
-      },
-      {
-        "article_title": "TP.HCM phát hiện một cơ sở kinh doanh sữa giả",
-        "article_url": "https://kenh14.vn/tphcm-phat-hien-mot-co-so-kinh-doanh-sua-gia-215250505230819805.chn",
-        "crawled_at": "2025-05-12T14:12:29.913985700Z"
-      },
-      {
-        "article_title": "TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức",
-        "article_url": "https://kenh14.vn/tp-hcm-dem-cuoi-chiem-bai-xa-loi-trai-tim-bo-tat-thich-quang-duc-215250510221722072.chn",
-        "crawled_at": "2025-05-12T14:12:29.962842400Z"
-      },
-      {
-        "article_title": "Vụ buôn lậu đất hiếm sang Trung Quốc: Chủ doanh nghiệp khóc, khai mới học hết lớp 8",
-        "article_url": "https://kenh14.vn/vu-buon-lau-dat-hiem-sang-trung-quoc-chu-doanh-nghiep-khoc-khai-moi-hoc-het-lop-8-215250512201119773.chn",
-        "crawled_at": "2025-05-12T14:12:42.756060800Z"
-      },
-      {
-        "article_title": "2 Cây Di sản hơn 300 tuổi của Việt Nam: Loại gỗ quý hiếm \"hút\" tài lộc, giá hàng chục triệu đồng 1 khối",
-        "article_url": "https://kenh14.vn/2-cay-di-san-hon-300-tuoi-cua-viet-nam-loai-go-quy-hiem-hut-tai-loc-gia-hang-chuc-trieu-dong-1-khoi-215250505225342169.chn",
-        "crawled_at": "2025-05-12T14:12:45.692104100Z"
-      },
-      {
-        "article_title": "Nghỉ việc do sắp xếp bộ máy được hưởng ngay lương hưu kèm 2 chế độ",
-        "article_url": "https://kenh14.vn/nghi-viec-do-sap-xep-bo-may-duoc-huong-ngay-luong-huu-kem-2-che-do-215250510211725662.chn",
-        "crawled_at": "2025-05-12T14:12:51.750861400Z"
-      }
-    ],
     "url": "https://kenh14.vn/xa-hoi/nong-tren-mang.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:40.219459100Z",
-    "last_updated_at": "2025-05-12T14:12:57.997042400Z",
-    "article_count": 5,
-    "title": "Tek-life",
-    "articles": [
-      {
-        "article_title": "Tôi dùng AI để dự đoán smartphone năm 2030 trông sẽ như thế nào và cái kết...",
-        "article_url": "https://kenh14.vn/toi-dung-ai-de-du-doan-smartphone-nam-2030-trong-se-nhu-the-nao-va-cai-ket-215250512151307571.chn",
-        "crawled_at": "2025-05-12T14:12:40.219459100Z"
-      },
-      {
-        "article_title": "Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt",
-        "article_url": "https://kenh14.vn/apple-noi-google-dang-khung-hoang-vi-ai-google-phan-phao-gay-gat-215250509213559534.chn",
-        "crawled_at": "2025-05-12T14:12:43.232598Z"
-      },
-      {
-        "article_title": "Không phải Sam Altman, đây mới là người hiện thực hóa giấc mơ Siêu Trí Tuệ Nhân Tạo AGI của OpenAI",
-        "article_url": "https://kenh14.vn/khong-phai-sam-altman-day-moi-la-nguoi-hien-thuc-hoa-giac-mo-sieu-tri-tue-nhan-tao-agi-cua-openai-215250510221935303.chn",
-        "crawled_at": "2025-05-12T14:12:48.457126900Z"
-      },
-      {
-        "article_title": "Người dân làm sao đặt được xe công nghệ để đi xem diễu binh, diễu hành?",
-        "article_url": "https://kenh14.vn/nguoi-dan-lam-sao-dat-duoc-xe-cong-nghe-de-di-xem-dieu-binh-dieu-hanh-215250425221735506.chn",
-        "crawled_at": "2025-05-12T14:12:57.951034700Z"
-      },
-      {
-        "article_title": "Người đàn ông chuyển tiền vào STK 8640052108 của một công ty, nhân viên BIDV thấy bất thường liền báo công an, tạm khoá chiều ghi nợ",
-        "article_url": "https://kenh14.vn/nguoi-dan-ong-chuyen-tien-vao-stk-8640052108-cua-mot-cong-ty-nhan-vien-bidv-thay-bat-thuong-lien-bao-cong-an-tam-khoa-chieu-ghi-no-215250430184428524.chn",
-        "crawled_at": "2025-05-12T14:12:57.997042400Z"
-      }
+    "article_count": 21,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:34.232747200Z",
+    "article_ids": [
+      1,
+      4,
+      21,
+      23,
+      24,
+      32,
+      38,
+      46,
+      50,
+      56,
+      58,
+      104,
+      111,
+      133,
+      165,
+      181,
+      211,
+      212,
+      214,
+      215,
+      217
     ],
-    "url": "https://kenh14.vn/tek-life.chn",
-    "is_featured": false
+    "first_crawled_at": "2025-06-01T07:11:07.008599800Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:33.321512100Z",
-    "last_updated_at": "2025-05-12T14:13:04.313214300Z",
-    "article_count": 9,
-    "title": "TV Show",
-    "articles": [
-      {
-        "article_title": "Khả Ngân lên tiếng về gương mặt thay đổi gây sốc",
-        "article_url": "https://kenh14.vn/kha-ngan-len-tieng-ve-guong-mat-thay-doi-gay-soc-215250510214722258.chn",
-        "crawled_at": "2025-05-12T14:12:33.321512100Z"
-      },
-      {
-        "article_title": "Hành động ngáng đường, khiến Taylor Swift bị tố xấu tính tại Victoria\u0027s Secret năm xưa",
-        "article_url": "https://kenh14.vn/hanh-dong-ngang-duong-khien-taylor-swift-bi-to-xau-tinh-tai-victorias-secret-nam-xua-215250505131150142.chn",
-        "crawled_at": "2025-05-12T14:12:33.945507700Z"
-      },
-      {
-        "article_title": "Hot: \"Nữ hoàng gợi cảm\" Hyuna mang thai con đầu lòng sau 7 tháng cưới?",
-        "article_url": "https://kenh14.vn/hot-nu-hoang-goi-cam-hyuna-mang-thai-con-dau-long-sau-7-thang-cuoi-215250512172923164.chn",
-        "crawled_at": "2025-05-12T14:12:36.858491Z"
-      },
-      {
-        "article_title": "Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body \"đồng hồ cát\" cực bốc, visual đời thường mới choáng",
-        "article_url": "https://kenh14.vn/cap-doi-vbiz-dinh-nhu-sam-nay-bat-ngo-co-dong-thai-la-gay-xon-xao-215250510181020882.chn",
-        "crawled_at": "2025-05-12T14:12:39.340372Z"
-      },
-      {
-        "article_title": "Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?",
-        "article_url": "https://kenh14.vn/hoa-hau-y-nhi-giu-phong-do-ra-sao-trong-ngay-dau-nhap-cuoc-miss-world-21525051020062318.chn",
-        "crawled_at": "2025-05-12T14:12:45.227019700Z"
-      },
-      {
-        "article_title": "Thót tim khoảnh khắc Quỳnh Lương té ngã ngay trước thềm nhà khi đang mang thai 6 tháng",
-        "article_url": "https://kenh14.vn/thot-tim-khoanh-khac-quynh-luong-te-nga-ngay-truoc-them-nha-khi-dang-mang-thai-6-thang-215250512172324391.chn",
-        "crawled_at": "2025-05-12T14:12:46.897944700Z"
-      },
-      {
-        "article_title": "Chuyện chưa từng có: NSX show thực tế gặp thí sinh khi biết có tin bất ổn, chỉ 1 hành động mà gây nức lòng",
-        "article_url": "https://kenh14.vn/chuyen-chua-tung-co-nsx-show-thuc-te-gap-thi-sinh-khi-biet-co-tin-bat-on-chi-1-hanh-dong-ma-gay-nuc-long-215250505203010487.chn",
-        "crawled_at": "2025-05-12T14:12:47.797854500Z"
-      },
-      {
-        "article_title": "Hoa hậu Hoàn vũ Trung Quốc bị tước vương miện",
-        "article_url": "https://kenh14.vn/hoa-hau-hoan-vu-trung-quoc-bi-tuoc-vuong-mien-215250410231752335.chn",
-        "crawled_at": "2025-05-12T14:12:54.620301500Z"
-      },
-      {
-        "article_title": "Không tổ chức tang lễ cho Từ Hy Viên, lý do là gì?",
-        "article_url": "https://kenh14.vn/khong-to-chuc-tang-le-cho-tu-hy-vien-ly-do-la-gi-215250205222804868.chn",
-        "crawled_at": "2025-05-12T14:13:04.313214300Z"
-      }
+    "id": 4,
+    "title": "Sống xanh",
+    "url": "https://kenh14.vn/xa-hoi/song-xanh.chn",
+    "article_count": 21,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:34.232747200Z",
+    "article_ids": [
+      1,
+      4,
+      21,
+      23,
+      24,
+      32,
+      38,
+      46,
+      50,
+      56,
+      58,
+      104,
+      111,
+      133,
+      165,
+      181,
+      211,
+      212,
+      214,
+      215,
+      217
     ],
-    "url": "https://kenh14.vn/star/tv-show.chn",
-    "is_featured": false
+    "first_crawled_at": "2025-06-01T07:11:07.008599800Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:35.180037800Z",
-    "last_updated_at": "2025-05-12T14:13:07.485357100Z",
-    "article_count": 6,
-    "title": "Thời Trang",
-    "articles": [
-      {
-        "article_title": "Mặt gầy để kiểu tóc nào đẹp?",
-        "article_url": "https://kenh14.vn/mat-gay-de-kieu-toc-nao-dep-215250510193708507.chn",
-        "crawled_at": "2025-05-12T14:12:35.180037800Z"
-      },
-      {
-        "article_title": "Triệu Lộ Tư lại đổi tạo hình, khẳng định vị thế \"không thể hết hot\"",
-        "article_url": "https://kenh14.vn/trieu-lo-tu-lai-doi-tao-hinh-khang-dinh-vi-the-khong-the-het-hot-215250512182842995.chn",
-        "crawled_at": "2025-05-12T14:12:48.704292500Z"
-      },
-      {
-        "article_title": "Đừng chỉ mặc quần đen, chị em chăm diện quần sáng màu trong mùa hè sẽ thấy mình trẻ ra ít nhất 5 tuổi",
-        "article_url": "https://kenh14.vn/dung-chi-mac-quan-den-chi-em-cham-dien-quan-sang-mau-trong-mua-he-se-thay-minh-tre-ra-it-nhat-5-tuoi-215250504164049259.chn",
-        "crawled_at": "2025-05-12T14:12:49.219179800Z"
-      },
-      {
-        "article_title": "Phú bà tỉnh lẻ và cơn sốt hàng hiệu secondhand: Xu hướng tiêu dùng mới hay cuộc chơi của những người sành điệu?",
-        "article_url": "https://kenh14.vn/phu-ba-tinh-le-va-con-sot-hang-hieu-secondhand-xu-huong-tieu-dung-moi-hay-cuoc-choi-cua-nhung-nguoi-sanh-dieu-215250310180342532.chn",
-        "crawled_at": "2025-05-12T14:13:00.115028500Z"
-      },
-      {
-        "article_title": "Nàng dâu hào môn này cực lạ: Ít khi mặc váy, toàn diện quần dài mà vẫn rất sang",
-        "article_url": "https://kenh14.vn/nang-dau-hao-mon-nay-cuc-la-it-khi-mac-vay-toan-dien-quan-dai-ma-van-rat-sang-215250228173416528.chn",
-        "crawled_at": "2025-05-12T14:13:07.457367500Z"
-      },
-      {
-        "article_title": "5 món thời trang \"hack\" tuổi được phụ nữ Pháp mặc nhiều vào mùa xuân",
-        "article_url": "https://kenh14.vn/5-mon-thoi-trang-hack-tuoi-duoc-phu-nu-phap-mac-nhieu-vao-mua-xuan-21525022021532338.chn",
-        "crawled_at": "2025-05-12T14:13:07.485357100Z"
-      }
+    "id": 5,
+    "title": "Đời sống",
+    "url": "https://kenh14.vn/doi-song.chn",
+    "article_count": 71,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      1,
+      4,
+      6,
+      11,
+      15,
+      16,
+      18,
+      21,
+      23,
+      24,
+      32,
+      35,
+      36,
+      38,
+      40,
+      43,
+      46,
+      50,
+      56,
+      58,
+      60,
+      61,
+      62,
+      66,
+      68,
+      69,
+      76,
+      79,
+      86,
+      99,
+      100,
+      104,
+      105,
+      111,
+      113,
+      114,
+      120,
+      122,
+      123,
+      128,
+      132,
+      133,
+      134,
+      137,
+      145,
+      146,
+      152,
+      154,
+      157,
+      161,
+      163,
+      164,
+      165,
+      167,
+      172,
+      178,
+      180,
+      181,
+      183,
+      187,
+      195,
+      196,
+      205,
+      206,
+      209,
+      211,
+      212,
+      214,
+      215,
+      217,
+      219
     ],
-    "url": "https://kenh14.vn/beauty-fashion/thoi-trang.chn",
-    "is_featured": false
+    "first_crawled_at": "2025-06-01T07:11:07.008599800Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:41.544947600Z",
-    "last_updated_at": "2025-05-12T14:12:50.101973200Z",
-    "article_count": 2,
-    "title": "Sport",
-    "articles": [
-      {
-        "article_title": "Xuất hiện với đôi môi sưng vù, bạn gái gia thế “trâm anh thế phiệt” của hậu vệ Văn Thanh phẫu thuật thẩm mỹ?",
-        "article_url": "https://kenh14.vn/xuat-hien-voi-doi-moi-sung-vu-ban-gai-gia-the-tram-anh-the-phiet-cua-hau-ve-van-thanh-phau-thuat-tham-my-215250512071941823.chn",
-        "crawled_at": "2025-05-12T14:12:41.544947600Z"
-      },
-      {
-        "article_title": "Tính nghiện mua sắm của bạn gái từng khiến Ronaldo phải lắc đầu, cô nàng sau đó phản ứng bất ngờ",
-        "article_url": "https://kenh14.vn/tinh-nghien-mua-sam-cua-ban-gai-tung-khien-ronaldo-phai-lac-dau-co-nang-sau-do-phan-ung-bat-ngo-215250510221925461.chn",
-        "crawled_at": "2025-05-12T14:12:50.101973200Z"
-      }
+    "id": 6,
+    "title": "Thế Giới Đó Đây",
+    "url": "https://kenh14.vn/the-gioi-do-day.chn",
+    "article_count": 34,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:34.232747200Z",
+    "article_ids": [
+      1,
+      4,
+      6,
+      15,
+      18,
+      21,
+      23,
+      24,
+      32,
+      38,
+      43,
+      46,
+      50,
+      56,
+      58,
+      86,
+      104,
+      111,
+      128,
+      133,
+      157,
+      164,
+      165,
+      167,
+      172,
+      178,
+      180,
+      181,
+      187,
+      211,
+      212,
+      214,
+      215,
+      217
     ],
-    "url": "https://kenh14.vn/sport.chn",
-    "is_featured": false
+    "first_crawled_at": "2025-06-01T07:11:07.008599800Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:33.321512100Z",
-    "last_updated_at": "2025-05-12T14:13:04.277200700Z",
-    "article_count": 9,
-    "title": "Sao Việt",
-    "articles": [
-      {
-        "article_title": "Khả Ngân lên tiếng về gương mặt thay đổi gây sốc",
-        "article_url": "https://kenh14.vn/kha-ngan-len-tieng-ve-guong-mat-thay-doi-gay-soc-215250510214722258.chn",
-        "crawled_at": "2025-05-12T14:12:33.321512100Z"
-      },
-      {
-        "article_title": "Hành động ngáng đường, khiến Taylor Swift bị tố xấu tính tại Victoria\u0027s Secret năm xưa",
-        "article_url": "https://kenh14.vn/hanh-dong-ngang-duong-khien-taylor-swift-bi-to-xau-tinh-tai-victorias-secret-nam-xua-215250505131150142.chn",
-        "crawled_at": "2025-05-12T14:12:33.926366700Z"
-      },
-      {
-        "article_title": "Hot: \"Nữ hoàng gợi cảm\" Hyuna mang thai con đầu lòng sau 7 tháng cưới?",
-        "article_url": "https://kenh14.vn/hot-nu-hoang-goi-cam-hyuna-mang-thai-con-dau-long-sau-7-thang-cuoi-215250512172923164.chn",
-        "crawled_at": "2025-05-12T14:12:36.841032800Z"
-      },
-      {
-        "article_title": "Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body \"đồng hồ cát\" cực bốc, visual đời thường mới choáng",
-        "article_url": "https://kenh14.vn/cap-doi-vbiz-dinh-nhu-sam-nay-bat-ngo-co-dong-thai-la-gay-xon-xao-215250510181020882.chn",
-        "crawled_at": "2025-05-12T14:12:39.300288900Z"
-      },
-      {
-        "article_title": "Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?",
-        "article_url": "https://kenh14.vn/hoa-hau-y-nhi-giu-phong-do-ra-sao-trong-ngay-dau-nhap-cuoc-miss-world-21525051020062318.chn",
-        "crawled_at": "2025-05-12T14:12:45.217468600Z"
-      },
-      {
-        "article_title": "Thót tim khoảnh khắc Quỳnh Lương té ngã ngay trước thềm nhà khi đang mang thai 6 tháng",
-        "article_url": "https://kenh14.vn/thot-tim-khoanh-khac-quynh-luong-te-nga-ngay-truoc-them-nha-khi-dang-mang-thai-6-thang-215250512172324391.chn",
-        "crawled_at": "2025-05-12T14:12:46.884950200Z"
-      },
-      {
-        "article_title": "Chuyện chưa từng có: NSX show thực tế gặp thí sinh khi biết có tin bất ổn, chỉ 1 hành động mà gây nức lòng",
-        "article_url": "https://kenh14.vn/chuyen-chua-tung-co-nsx-show-thuc-te-gap-thi-sinh-khi-biet-co-tin-bat-on-chi-1-hanh-dong-ma-gay-nuc-long-215250505203010487.chn",
-        "crawled_at": "2025-05-12T14:12:47.783982400Z"
-      },
-      {
-        "article_title": "Hoa hậu Hoàn vũ Trung Quốc bị tước vương miện",
-        "article_url": "https://kenh14.vn/hoa-hau-hoan-vu-trung-quoc-bi-tuoc-vuong-mien-215250410231752335.chn",
-        "crawled_at": "2025-05-12T14:12:54.614301900Z"
-      },
-      {
-        "article_title": "Không tổ chức tang lễ cho Từ Hy Viên, lý do là gì?",
-        "article_url": "https://kenh14.vn/khong-to-chuc-tang-le-cho-tu-hy-vien-ly-do-la-gi-215250205222804868.chn",
-        "crawled_at": "2025-05-12T14:13:04.277200700Z"
-      }
-    ],
-    "url": "https://kenh14.vn/star/sao-viet.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:50.029380Z",
-    "last_updated_at": "2025-05-12T14:13:08.011373Z",
-    "article_count": 2,
-    "title": "Thời trang",
-    "articles": [
-      {
-        "article_title": "Cõi mạng đồn brand thời trang Việt 22 năm tuổi đóng cửa: Dân tình xếp hàng dài mua đồ sale sập sàn trong nước mắt",
-        "article_url": "https://kenh14.vn/coi-mang-don-brand-thoi-trang-viet-22-nam-tuoi-dong-cua-dan-tinh-xep-hang-dai-mua-do-sale-sap-san-trong-nuoc-mat-215250512172722861.chn",
-        "crawled_at": "2025-05-12T14:12:50.029380Z"
-      },
-      {
-        "article_title": "Cụ ông 79 tuổi suốt 2 năm không thể thừa kế nhà mình chỉ vì thiếu 1 chữ ký của hàng xóm: \"Phải trả tôi 175 triệu thì tôi mới ký\"",
-        "article_url": "https://kenh14.vn/cu-ong-79-tuoi-suot-2-nam-khong-the-thua-ke-nha-minh-chi-vi-thieu-1-chu-ky-cua-hang-xom-phai-tra-toi-175-trieu-thi-toi-moi-ky-215250225202940832.chn",
-        "crawled_at": "2025-05-12T14:13:08.011373Z"
-      }
-    ],
-    "url": "https://kenh14.vn/xem-mua-luon/thoi-trang.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:35.180037800Z",
-    "last_updated_at": "2025-05-12T14:13:07.448373800Z",
-    "article_count": 6,
-    "title": "Beauty \u0026 Fashion",
-    "articles": [
-      {
-        "article_title": "Mặt gầy để kiểu tóc nào đẹp?",
-        "article_url": "https://kenh14.vn/mat-gay-de-kieu-toc-nao-dep-215250510193708507.chn",
-        "crawled_at": "2025-05-12T14:12:35.180037800Z"
-      },
-      {
-        "article_title": "Triệu Lộ Tư lại đổi tạo hình, khẳng định vị thế \"không thể hết hot\"",
-        "article_url": "https://kenh14.vn/trieu-lo-tu-lai-doi-tao-hinh-khang-dinh-vi-the-khong-the-het-hot-215250512182842995.chn",
-        "crawled_at": "2025-05-12T14:12:48.651698600Z"
-      },
-      {
-        "article_title": "Đừng chỉ mặc quần đen, chị em chăm diện quần sáng màu trong mùa hè sẽ thấy mình trẻ ra ít nhất 5 tuổi",
-        "article_url": "https://kenh14.vn/dung-chi-mac-quan-den-chi-em-cham-dien-quan-sang-mau-trong-mua-he-se-thay-minh-tre-ra-it-nhat-5-tuoi-215250504164049259.chn",
-        "crawled_at": "2025-05-12T14:12:49.192201600Z"
-      },
-      {
-        "article_title": "Phú bà tỉnh lẻ và cơn sốt hàng hiệu secondhand: Xu hướng tiêu dùng mới hay cuộc chơi của những người sành điệu?",
-        "article_url": "https://kenh14.vn/phu-ba-tinh-le-va-con-sot-hang-hieu-secondhand-xu-huong-tieu-dung-moi-hay-cuoc-choi-cua-nhung-nguoi-sanh-dieu-215250310180342532.chn",
-        "crawled_at": "2025-05-12T14:13:00.059024500Z"
-      },
-      {
-        "article_title": "Nàng dâu hào môn này cực lạ: Ít khi mặc váy, toàn diện quần dài mà vẫn rất sang",
-        "article_url": "https://kenh14.vn/nang-dau-hao-mon-nay-cuc-la-it-khi-mac-vay-toan-dien-quan-dai-ma-van-rat-sang-215250228173416528.chn",
-        "crawled_at": "2025-05-12T14:13:07.419367300Z"
-      },
-      {
-        "article_title": "5 món thời trang \"hack\" tuổi được phụ nữ Pháp mặc nhiều vào mùa xuân",
-        "article_url": "https://kenh14.vn/5-mon-thoi-trang-hack-tuoi-duoc-phu-nu-phap-mac-nhieu-vao-mua-xuan-21525022021532338.chn",
-        "crawled_at": "2025-05-12T14:13:07.448373800Z"
-      }
-    ],
-    "url": "https://kenh14.vn/beauty-fashion.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:28.262881800Z",
-    "last_updated_at": "2025-05-12T14:13:01.186919Z",
-    "article_count": 8,
+    "id": 7,
     "title": "Học đường",
-    "articles": [
-      {
-        "article_title": "Vụ nhiều học sinh 12 \"tự nguyện\" xin nghỉ học: Sở GD-ĐT tỉnh Đắk Lắk báo cáo Thường trực Tỉnh ủy",
-        "article_url": "https://kenh14.vn/vu-nhieu-hoc-sinh-12-tu-nguyen-xin-nghi-hoc-so-gd-dt-tinh-dak-lak-bao-cao-thuong-truc-tinh-uy-215250512193045695.chn",
-        "crawled_at": "2025-05-12T14:12:28.262881800Z"
-      },
-      {
-        "article_title": "3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ",
-        "article_url": "https://kenh14.vn/3-bi-quyet-nuoi-day-tre-em-co-long-nhan-ai-dieu-cuoi-cung-khien-nhieu-nguoi-bat-ngo-215250504141340721.chn",
-        "crawled_at": "2025-05-12T14:12:39.246316300Z"
-      },
-      {
-        "article_title": "Không ai ngờ: Ngành học phụ huynh từng ngăn cấm vì \"không kiếm ra tiền\" này lại lọt top có nhu cầu cao nhất 2025",
-        "article_url": "https://kenh14.vn/khong-ai-ngo-nganh-hoc-phu-huynh-tung-ngan-cam-vi-khong-kiem-ra-tien-nay-lai-lot-top-co-nhu-cau-cao-nhat-2025-215250511084233046.chn",
-        "crawled_at": "2025-05-12T14:12:43.972321700Z"
-      },
-      {
-        "article_title": "Bi kịch sẽ giáng xuống đầu con trẻ ngay lập tức nếu cha mẹ thường xuyên làm 5 điều này",
-        "article_url": "https://kenh14.vn/bi-kich-se-giang-xuong-dau-con-tre-ngay-lap-tuc-neu-cha-me-thuong-xuyen-lam-5-dieu-nay-215250510143444887.chn",
-        "crawled_at": "2025-05-12T14:12:46.614375200Z"
-      },
-      {
-        "article_title": "Xem phim Sex Education, tôi ước gì mọi bậc cha mẹ đều nghe được câu nói này: Cuộc đời sẽ nhẹ nhõm, bớt tiêu cực hơn rất nhiều!",
-        "article_url": "https://kenh14.vn/xem-phim-sex-education-toi-uoc-gi-moi-bac-cha-me-deu-nghe-duoc-cau-noi-nay-cuoc-doi-se-nhe-nhom-bot-tieu-cuc-hon-rat-nhieu-21525033117473898.chn",
-        "crawled_at": "2025-05-12T14:12:54.997565800Z"
-      },
-      {
-        "article_title": "Ông bố U40 hỏi ChatGPT: \"Con tôi hư quá, phải làm sao?\" - AI đáp lại cực phũ: \"Hư hay không thì trước hết xem lại chính mình\"",
-        "article_url": "https://kenh14.vn/ong-bo-u40-hoi-chatgpt-con-toi-hu-qua-phai-lam-sao-ai-dap-lai-cuc-phu-hu-hay-khong-thi-truoc-het-xem-lai-chinh-minh-215250305192143604.chn",
-        "crawled_at": "2025-05-12T14:12:58.361229800Z"
-      },
-      {
-        "article_title": "Tiến sĩ toán tốt nghiệp đại học top 7 thế giới: Đi để trở về",
-        "article_url": "https://kenh14.vn/tien-si-toan-tot-nghiep-dai-hoc-top-7-the-gioi-di-de-tro-ve-215250315181737933.chn",
-        "crawled_at": "2025-05-12T14:13:00.691222600Z"
-      },
-      {
-        "article_title": "Gần 120 nghìn học sinh lớp 11 tại Hà Nội \"thi thử\" tốt nghiệp THPT",
-        "article_url": "https://kenh14.vn/gan-120-nghin-hoc-sinh-lop-11-tai-ha-noi-thi-thu-tot-nghiep-thpt-215250320205617932.chn",
-        "crawled_at": "2025-05-12T14:13:01.186919Z"
-      }
-    ],
     "url": "https://kenh14.vn/hoc-duong.chn",
-    "is_featured": false
-  },
-  {
-    "first_crawled_at": "2025-05-12T14:12:29.919515100Z",
-    "last_updated_at": "2025-05-12T14:13:04.336176700Z",
-    "article_count": 4,
-    "title": "Mommy-eZ",
-    "articles": [
-      {
-        "article_title": "5 kiểu “người ảnh hưởng độc hại” mà bạn có thể thấy rõ sau khi trở thành mẹ: Kiểu thứ 4 đang hủy hoại trẻ",
-        "article_url": "https://kenh14.vn/5-kieu-nguoi-anh-huong-doc-hai-ma-ban-co-the-thay-ro-sau-khi-tro-thanh-me-kieu-thu-4-dang-huy-hoai-tre-215250512164415689.chn",
-        "crawled_at": "2025-05-12T14:12:29.919515100Z"
-      },
-      {
-        "article_title": "Chân dung ông chủ chuỗi 33 siêu thị nổi tiếng vừa chi 35 tỷ đồng tiền lời đầu tư vàng thưởng cho nhân viên",
-        "article_url": "https://kenh14.vn/chan-dung-ong-chu-chuoi-33-sieu-thi-noi-tieng-vua-chi-35-ty-dong-tien-loi-dau-tu-vang-thuong-cho-nhan-vien-215250512180920446.chn",
-        "crawled_at": "2025-05-12T14:12:33.115909Z"
-      },
-      {
-        "article_title": "Làm theo lời khuyên \"lạ\", người đàn ông trúng độc đắc hơn 70 tỷ đồng",
-        "article_url": "https://kenh14.vn/lam-theo-loi-khuyen-la-nguoi-dan-ong-trung-doc-dac-hon-70-ty-dong-215250505072738021.chn",
-        "crawled_at": "2025-05-12T14:12:40.948148700Z"
-      },
-      {
-        "article_title": "Quý nhân của 12 con giáp năm 2025: Thân gặp 4 tuổi này làm gì cũng thuận lợi, tiền bạc dồi dào trông thấy",
-        "article_url": "https://kenh14.vn/quy-nhan-cua-12-con-giap-nam-2025-than-gap-4-tuoi-nay-lam-gi-cung-thuan-loi-tien-bac-doi-dao-trong-thay-215250215105846013.chn",
-        "crawled_at": "2025-05-12T14:13:04.336176700Z"
-      }
+    "article_count": 19,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:31.527275300Z",
+    "article_ids": [
+      2,
+      14,
+      34,
+      41,
+      59,
+      72,
+      83,
+      93,
+      102,
+      103,
+      124,
+      126,
+      131,
+      138,
+      140,
+      158,
+      194,
+      203,
+      210
     ],
-    "url": "https://kenh14.vn/doi-song/mommy-ez.chn",
-    "is_featured": false
+    "first_crawled_at": "2025-06-01T07:11:07.068656100Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:28.262881800Z",
-    "last_updated_at": "2025-05-12T14:13:01.202815400Z",
-    "article_count": 8,
+    "id": 8,
     "title": "Nhân vật",
-    "articles": [
-      {
-        "article_title": "Vụ nhiều học sinh 12 \"tự nguyện\" xin nghỉ học: Sở GD-ĐT tỉnh Đắk Lắk báo cáo Thường trực Tỉnh ủy",
-        "article_url": "https://kenh14.vn/vu-nhieu-hoc-sinh-12-tu-nguyen-xin-nghi-hoc-so-gd-dt-tinh-dak-lak-bao-cao-thuong-truc-tinh-uy-215250512193045695.chn",
-        "crawled_at": "2025-05-12T14:12:28.262881800Z"
-      },
-      {
-        "article_title": "3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ",
-        "article_url": "https://kenh14.vn/3-bi-quyet-nuoi-day-tre-em-co-long-nhan-ai-dieu-cuoi-cung-khien-nhieu-nguoi-bat-ngo-215250504141340721.chn",
-        "crawled_at": "2025-05-12T14:12:39.262198300Z"
-      },
-      {
-        "article_title": "Không ai ngờ: Ngành học phụ huynh từng ngăn cấm vì \"không kiếm ra tiền\" này lại lọt top có nhu cầu cao nhất 2025",
-        "article_url": "https://kenh14.vn/khong-ai-ngo-nganh-hoc-phu-huynh-tung-ngan-cam-vi-khong-kiem-ra-tien-nay-lai-lot-top-co-nhu-cau-cao-nhat-2025-215250511084233046.chn",
-        "crawled_at": "2025-05-12T14:12:43.979337500Z"
-      },
-      {
-        "article_title": "Bi kịch sẽ giáng xuống đầu con trẻ ngay lập tức nếu cha mẹ thường xuyên làm 5 điều này",
-        "article_url": "https://kenh14.vn/bi-kich-se-giang-xuong-dau-con-tre-ngay-lap-tuc-neu-cha-me-thuong-xuyen-lam-5-dieu-nay-215250510143444887.chn",
-        "crawled_at": "2025-05-12T14:12:46.623357700Z"
-      },
-      {
-        "article_title": "Xem phim Sex Education, tôi ước gì mọi bậc cha mẹ đều nghe được câu nói này: Cuộc đời sẽ nhẹ nhõm, bớt tiêu cực hơn rất nhiều!",
-        "article_url": "https://kenh14.vn/xem-phim-sex-education-toi-uoc-gi-moi-bac-cha-me-deu-nghe-duoc-cau-noi-nay-cuoc-doi-se-nhe-nhom-bot-tieu-cuc-hon-rat-nhieu-21525033117473898.chn",
-        "crawled_at": "2025-05-12T14:12:55.011580600Z"
-      },
-      {
-        "article_title": "Ông bố U40 hỏi ChatGPT: \"Con tôi hư quá, phải làm sao?\" - AI đáp lại cực phũ: \"Hư hay không thì trước hết xem lại chính mình\"",
-        "article_url": "https://kenh14.vn/ong-bo-u40-hoi-chatgpt-con-toi-hu-qua-phai-lam-sao-ai-dap-lai-cuc-phu-hu-hay-khong-thi-truoc-het-xem-lai-chinh-minh-215250305192143604.chn",
-        "crawled_at": "2025-05-12T14:12:58.366225200Z"
-      },
-      {
-        "article_title": "Tiến sĩ toán tốt nghiệp đại học top 7 thế giới: Đi để trở về",
-        "article_url": "https://kenh14.vn/tien-si-toan-tot-nghiep-dai-hoc-top-7-the-gioi-di-de-tro-ve-215250315181737933.chn",
-        "crawled_at": "2025-05-12T14:13:00.719214500Z"
-      },
-      {
-        "article_title": "Gần 120 nghìn học sinh lớp 11 tại Hà Nội \"thi thử\" tốt nghiệp THPT",
-        "article_url": "https://kenh14.vn/gan-120-nghin-hoc-sinh-lop-11-tai-ha-noi-thi-thu-tot-nghiep-thpt-215250320205617932.chn",
-        "crawled_at": "2025-05-12T14:13:01.202815400Z"
-      }
-    ],
     "url": "https://kenh14.vn/hoc-duong/nhan-vat.chn",
-    "is_featured": false
+    "article_count": 19,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:31.527275300Z",
+    "article_ids": [
+      2,
+      14,
+      34,
+      41,
+      59,
+      72,
+      83,
+      93,
+      102,
+      103,
+      124,
+      126,
+      131,
+      138,
+      140,
+      158,
+      194,
+      203,
+      210
+    ],
+    "first_crawled_at": "2025-06-01T07:11:07.068656100Z"
   },
   {
-    "first_crawled_at": "2025-05-12T14:12:34.647096100Z",
-    "last_updated_at": "2025-05-12T14:12:34.647096100Z",
-    "article_count": 1,
-    "title": "Khỏe đẹp",
-    "articles": [
-      {
-        "article_title": "Khuyên thật: Mua thịt bò nếu thấy 3 điểm này đừng ngại quay đi ngay, tặng miễn phí cũng không lấy",
-        "article_url": "https://kenh14.vn/khuyen-that-mua-thit-bo-neu-thay-3-diem-nay-dung-ngai-quay-di-ngay-tang-mien-phi-cung-khong-lay-2152505121439428.chn",
-        "crawled_at": "2025-05-12T14:12:34.647096100Z"
-      }
+    "id": 9,
+    "title": "Du học",
+    "url": "https://kenh14.vn/hoc-duong/du-hoc.chn",
+    "article_count": 19,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:31.527275300Z",
+    "article_ids": [
+      2,
+      14,
+      34,
+      41,
+      59,
+      72,
+      83,
+      93,
+      102,
+      103,
+      124,
+      126,
+      131,
+      138,
+      140,
+      158,
+      194,
+      203,
+      210
     ],
+    "first_crawled_at": "2025-06-01T07:11:07.068656100Z"
+  },
+  {
+    "id": 10,
+    "title": "Bản tin 46\u0027",
+    "url": "https://kenh14.vn/hoc-duong/ban-tin-46.chn",
+    "article_count": 19,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:31.527275300Z",
+    "article_ids": [
+      2,
+      14,
+      34,
+      41,
+      59,
+      72,
+      83,
+      93,
+      102,
+      103,
+      124,
+      126,
+      131,
+      138,
+      140,
+      158,
+      194,
+      203,
+      210
+    ],
+    "first_crawled_at": "2025-06-01T07:11:07.068656100Z"
+  },
+  {
+    "id": 11,
+    "title": "Sức khỏe",
+    "url": "https://kenh14.vn/suc-khoe.chn",
+    "article_count": 29,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:31.527275300Z",
+    "article_ids": [
+      2,
+      14,
+      34,
+      41,
+      59,
+      60,
+      62,
+      69,
+      72,
+      83,
+      93,
+      102,
+      103,
+      105,
+      113,
+      122,
+      124,
+      126,
+      131,
+      132,
+      137,
+      138,
+      140,
+      145,
+      158,
+      194,
+      203,
+      206,
+      210
+    ],
+    "first_crawled_at": "2025-06-01T07:11:07.068656100Z"
+  },
+  {
+    "id": 12,
+    "title": "Khám phá",
+    "url": "https://kenh14.vn/the-gioi-do-day/kham-pha.chn",
+    "article_count": 86,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      2,
+      5,
+      6,
+      14,
+      15,
+      16,
+      18,
+      34,
+      35,
+      36,
+      40,
+      41,
+      43,
+      57,
+      59,
+      60,
+      62,
+      66,
+      68,
+      69,
+      72,
+      75,
+      76,
+      77,
+      79,
+      83,
+      86,
+      90,
+      93,
+      97,
+      100,
+      102,
+      103,
+      105,
+      112,
+      113,
+      114,
+      115,
+      117,
+      122,
+      123,
+      124,
+      126,
+      127,
+      128,
+      131,
+      132,
+      134,
+      136,
+      137,
+      138,
+      140,
+      144,
+      145,
+      146,
+      147,
+      152,
+      154,
+      155,
+      157,
+      158,
+      160,
+      161,
+      162,
+      163,
+      164,
+      167,
+      172,
+      178,
+      180,
+      182,
+      183,
+      187,
+      194,
+      195,
+      196,
+      200,
+      203,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      213,
+      219
+    ],
+    "first_crawled_at": "2025-06-01T07:11:07.068656100Z"
+  },
+  {
+    "id": 13,
+    "title": "Beauty \u0026 Fashion",
+    "url": "https://kenh14.vn/beauty-fashion.chn",
+    "article_count": 24,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.830132200Z",
+    "article_ids": [
+      3,
+      25,
+      28,
+      37,
+      45,
+      47,
+      67,
+      81,
+      82,
+      84,
+      94,
+      110,
+      125,
+      129,
+      130,
+      148,
+      149,
+      169,
+      171,
+      174,
+      188,
+      191,
+      192,
+      204
+    ],
+    "first_crawled_at": "2025-06-01T07:11:08.211594100Z"
+  },
+  {
+    "id": 14,
+    "title": "Star Style",
+    "url": "https://kenh14.vn/beauty-fashion/star-style.chn",
+    "article_count": 24,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.830132200Z",
+    "article_ids": [
+      3,
+      25,
+      28,
+      37,
+      45,
+      47,
+      67,
+      81,
+      82,
+      84,
+      94,
+      110,
+      125,
+      129,
+      130,
+      148,
+      149,
+      169,
+      171,
+      174,
+      188,
+      191,
+      192,
+      204
+    ],
+    "first_crawled_at": "2025-06-01T07:11:08.212584400Z"
+  },
+  {
+    "id": 15,
+    "title": "Làm Đẹp",
+    "url": "https://kenh14.vn/beauty-fashion/lam-dep.chn",
+    "article_count": 24,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.830132200Z",
+    "article_ids": [
+      3,
+      25,
+      28,
+      37,
+      45,
+      47,
+      67,
+      81,
+      82,
+      84,
+      94,
+      110,
+      125,
+      129,
+      130,
+      148,
+      149,
+      169,
+      171,
+      174,
+      188,
+      191,
+      192,
+      204
+    ],
+    "first_crawled_at": "2025-06-01T07:11:08.212584400Z"
+  },
+  {
+    "id": 16,
+    "title": "Thời Trang",
+    "url": "https://kenh14.vn/beauty-fashion/thoi-trang.chn",
+    "article_count": 24,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.830132200Z",
+    "article_ids": [
+      3,
+      25,
+      28,
+      37,
+      45,
+      47,
+      67,
+      81,
+      82,
+      84,
+      94,
+      110,
+      125,
+      129,
+      130,
+      148,
+      149,
+      169,
+      171,
+      174,
+      188,
+      191,
+      192,
+      204
+    ],
+    "first_crawled_at": "2025-06-01T07:11:08.212584400Z"
+  },
+  {
+    "id": 17,
+    "title": "B\u0026F Studio",
+    "url": "https://kenh14.vn/bf-studio.html",
+    "article_count": 24,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.830132200Z",
+    "article_ids": [
+      3,
+      25,
+      28,
+      37,
+      45,
+      47,
+      67,
+      81,
+      82,
+      84,
+      94,
+      110,
+      125,
+      129,
+      130,
+      148,
+      149,
+      169,
+      171,
+      174,
+      188,
+      191,
+      192,
+      204
+    ],
+    "first_crawled_at": "2025-06-01T07:11:08.212584400Z"
+  },
+  {
+    "id": 18,
+    "title": "Xem Mua Luôn",
+    "url": "https://kenh14.vn/xem-mua-luon.chn",
+    "article_count": 28,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:28.830132200Z",
+    "article_ids": [
+      3,
+      11,
+      25,
+      28,
+      37,
+      45,
+      47,
+      61,
+      67,
+      81,
+      82,
+      84,
+      94,
+      99,
+      110,
+      120,
+      125,
+      129,
+      130,
+      148,
+      149,
+      169,
+      171,
+      174,
+      188,
+      191,
+      192,
+      204
+    ],
+    "first_crawled_at": "2025-06-01T07:11:08.212584400Z"
+  },
+  {
+    "id": 19,
+    "title": "Sport",
+    "url": "https://kenh14.vn/sport.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:32.663743800Z",
+    "article_ids": [
+      5,
+      97,
+      112,
+      115,
+      144,
+      155,
+      160,
+      162,
+      208,
+      213
+    ],
+    "first_crawled_at": "2025-06-01T07:11:09.698481700Z"
+  },
+  {
+    "id": 20,
+    "title": "Bóng đá",
+    "url": "https://kenh14.vn/sport/bong-da.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:32.663743800Z",
+    "article_ids": [
+      5,
+      97,
+      112,
+      115,
+      144,
+      155,
+      160,
+      162,
+      208,
+      213
+    ],
+    "first_crawled_at": "2025-06-01T07:11:09.698481700Z"
+  },
+  {
+    "id": 21,
+    "title": "Hậu Trường",
+    "url": "https://kenh14.vn/sport/hau-truong.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:32.663743800Z",
+    "article_ids": [
+      5,
+      97,
+      112,
+      115,
+      144,
+      155,
+      160,
+      162,
+      208,
+      213
+    ],
+    "first_crawled_at": "2025-06-01T07:11:09.698481700Z"
+  },
+  {
+    "id": 22,
+    "title": "eSports",
+    "url": "https://kenh14.vn/sport/esports.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:32.663743800Z",
+    "article_ids": [
+      5,
+      97,
+      112,
+      115,
+      144,
+      155,
+      160,
+      162,
+      208,
+      213
+    ],
+    "first_crawled_at": "2025-06-01T07:11:09.698481700Z"
+  },
+  {
+    "id": 23,
+    "title": "Dị",
+    "url": "https://kenh14.vn/the-gioi-do-day/di.chn",
+    "article_count": 57,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      5,
+      6,
+      15,
+      16,
+      18,
+      35,
+      36,
+      40,
+      43,
+      57,
+      66,
+      68,
+      75,
+      76,
+      77,
+      79,
+      86,
+      90,
+      97,
+      100,
+      112,
+      114,
+      115,
+      117,
+      123,
+      127,
+      128,
+      134,
+      136,
+      144,
+      146,
+      147,
+      152,
+      154,
+      155,
+      157,
+      160,
+      161,
+      162,
+      163,
+      164,
+      167,
+      172,
+      178,
+      180,
+      182,
+      183,
+      187,
+      195,
+      196,
+      200,
+      205,
+      207,
+      208,
+      209,
+      213,
+      219
+    ],
+    "first_crawled_at": "2025-06-01T07:11:09.698481700Z"
+  },
+  {
+    "id": 24,
+    "title": "Chùm ảnh",
+    "url": "https://kenh14.vn/the-gioi-do-day/chum-anh.chn",
+    "article_count": 13,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:23.183303900Z",
+    "article_ids": [
+      6,
+      15,
+      18,
+      43,
+      86,
+      128,
+      157,
+      164,
+      167,
+      172,
+      178,
+      180,
+      187
+    ],
+    "first_crawled_at": "2025-06-01T07:11:09.922897Z"
+  },
+  {
+    "id": 25,
+    "title": "Star",
+    "url": "https://kenh14.vn/star.chn",
+    "article_count": 57,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:38.334115300Z",
+    "article_ids": [
+      7,
+      8,
+      10,
+      11,
+      13,
+      19,
+      20,
+      22,
+      26,
+      33,
+      49,
+      52,
+      53,
+      55,
+      61,
+      63,
+      64,
+      70,
+      71,
+      74,
+      78,
+      80,
+      85,
+      87,
+      88,
+      95,
+      98,
+      99,
+      101,
+      106,
+      107,
+      116,
+      119,
+      120,
+      121,
+      139,
+      142,
+      143,
+      150,
+      153,
+      159,
+      166,
+      173,
+      175,
+      176,
+      177,
+      179,
+      184,
+      185,
+      186,
+      189,
+      198,
+      199,
+      201,
+      216,
+      218,
+      220
+    ],
+    "first_crawled_at": "2025-06-01T07:11:11.089689500Z"
+  },
+  {
+    "id": 26,
+    "title": "Sao Việt",
+    "url": "https://kenh14.vn/star/sao-viet.chn",
+    "article_count": 35,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:38.334115300Z",
+    "article_ids": [
+      7,
+      8,
+      13,
+      19,
+      26,
+      33,
+      49,
+      52,
+      55,
+      63,
+      64,
+      71,
+      85,
+      88,
+      95,
+      98,
+      101,
+      106,
+      116,
+      119,
+      121,
+      139,
+      142,
+      143,
+      173,
+      175,
+      184,
+      185,
+      186,
+      189,
+      199,
+      201,
+      216,
+      218,
+      220
+    ],
+    "first_crawled_at": "2025-06-01T07:11:11.089689500Z"
+  },
+  {
+    "id": 27,
+    "title": "Hội bạn thân Showbiz",
+    "url": "https://kenh14.vn/star/hoi-ban-than-showbiz.chn",
+    "article_count": 35,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:38.334115300Z",
+    "article_ids": [
+      7,
+      8,
+      13,
+      19,
+      26,
+      33,
+      49,
+      52,
+      55,
+      63,
+      64,
+      71,
+      85,
+      88,
+      95,
+      98,
+      101,
+      106,
+      116,
+      119,
+      121,
+      139,
+      142,
+      143,
+      173,
+      175,
+      184,
+      185,
+      186,
+      189,
+      199,
+      201,
+      216,
+      218,
+      220
+    ],
+    "first_crawled_at": "2025-06-01T07:11:11.089689500Z"
+  },
+  {
+    "id": 28,
+    "title": "TV Show",
+    "url": "https://kenh14.vn/star/tv-show.chn",
+    "article_count": 35,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:38.334115300Z",
+    "article_ids": [
+      7,
+      8,
+      13,
+      19,
+      26,
+      33,
+      49,
+      52,
+      55,
+      63,
+      64,
+      71,
+      85,
+      88,
+      95,
+      98,
+      101,
+      106,
+      116,
+      119,
+      121,
+      139,
+      142,
+      143,
+      173,
+      175,
+      184,
+      185,
+      186,
+      189,
+      199,
+      201,
+      216,
+      218,
+      220
+    ],
+    "first_crawled_at": "2025-06-01T07:11:11.089689500Z"
+  },
+  {
+    "id": 29,
+    "title": "Musik",
+    "url": "https://kenh14.vn/musik.chn",
+    "article_count": 53,
+    "is_featured": true,
+    "last_updated_at": "2025-06-01T07:12:38.334115300Z",
+    "article_ids": [
+      7,
+      8,
+      10,
+      13,
+      19,
+      20,
+      22,
+      26,
+      33,
+      49,
+      52,
+      53,
+      55,
+      63,
+      64,
+      70,
+      71,
+      74,
+      78,
+      80,
+      85,
+      87,
+      88,
+      95,
+      98,
+      101,
+      106,
+      107,
+      116,
+      119,
+      121,
+      139,
+      142,
+      143,
+      150,
+      153,
+      159,
+      166,
+      173,
+      175,
+      176,
+      177,
+      179,
+      184,
+      185,
+      186,
+      189,
+      198,
+      199,
+      201,
+      216,
+      218,
+      220
+    ],
+    "first_crawled_at": "2025-06-01T07:11:11.089689500Z"
+  },
+  {
+    "id": 30,
+    "title": "Money-Z",
+    "url": "https://kenh14.vn/money-z.chn",
+    "article_count": 16,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:26.633556200Z",
+    "article_ids": [
+      9,
+      29,
+      31,
+      39,
+      44,
+      51,
+      54,
+      73,
+      91,
+      92,
+      109,
+      118,
+      141,
+      170,
+      193,
+      197
+    ],
+    "first_crawled_at": "2025-06-01T07:11:12.546556600Z"
+  },
+  {
+    "id": 31,
+    "title": "Cine",
+    "url": "https://kenh14.vn/cine.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:20.311706800Z",
+    "article_ids": [
+      10,
+      22,
+      70,
+      74,
+      78,
+      80,
+      87,
+      176,
+      177,
+      179
+    ],
+    "first_crawled_at": "2025-06-01T07:11:13.188342400Z"
+  },
+  {
+    "id": 32,
+    "title": "Phim Chiếu Rạp",
+    "url": "https://kenh14.vn/cine/phim-chieu-rap.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:20.311706800Z",
+    "article_ids": [
+      10,
+      22,
+      70,
+      74,
+      78,
+      80,
+      87,
+      176,
+      177,
+      179
+    ],
+    "first_crawled_at": "2025-06-01T07:11:13.189340400Z"
+  },
+  {
+    "id": 33,
+    "title": "Phim Việt Nam",
+    "url": "https://kenh14.vn/cine/phim-viet-nam.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:20.311706800Z",
+    "article_ids": [
+      10,
+      22,
+      70,
+      74,
+      78,
+      80,
+      87,
+      176,
+      177,
+      179
+    ],
+    "first_crawled_at": "2025-06-01T07:11:13.189340400Z"
+  },
+  {
+    "id": 34,
+    "title": "Series Truyền Hình",
+    "url": "https://kenh14.vn/cine/series-truyen-hinh.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:20.311706800Z",
+    "article_ids": [
+      10,
+      22,
+      70,
+      74,
+      78,
+      80,
+      87,
+      176,
+      177,
+      179
+    ],
+    "first_crawled_at": "2025-06-01T07:11:13.189340400Z"
+  },
+  {
+    "id": 35,
+    "title": "Hoa Ngữ - Hàn Quốc",
+    "url": "https://kenh14.vn/cine/hoa-ngu-han-quoc.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:20.311706800Z",
+    "article_ids": [
+      10,
+      22,
+      70,
+      74,
+      78,
+      80,
+      87,
+      176,
+      177,
+      179
+    ],
+    "first_crawled_at": "2025-06-01T07:11:13.189340400Z"
+  },
+  {
+    "id": 36,
+    "title": "Thời trang",
+    "url": "https://kenh14.vn/xem-mua-luon/thoi-trang.chn",
+    "article_count": 4,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:11:58.677744200Z",
+    "article_ids": [
+      11,
+      61,
+      99,
+      120
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.119465500Z"
+  },
+  {
+    "id": 37,
+    "title": "Đẹp",
+    "url": "https://kenh14.vn/xem-mua-luon/dep.chn",
+    "article_count": 4,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:11:58.677744200Z",
+    "article_ids": [
+      11,
+      61,
+      99,
+      120
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.119465500Z"
+  },
+  {
+    "id": 38,
+    "title": "Mommy Mua Đi",
+    "url": "https://kenh14.vn/xem-mua-luon/mommy-mua-di.chn",
+    "article_count": 4,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:11:58.677744200Z",
+    "article_ids": [
+      11,
+      61,
+      99,
+      120
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.119465500Z"
+  },
+  {
+    "id": 39,
+    "title": "Ăn - Quẩy - Đi",
+    "url": "https://kenh14.vn/an-quay-di.chn",
+    "article_count": 16,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.325049300Z",
+    "article_ids": [
+      12,
+      17,
+      27,
+      30,
+      42,
+      48,
+      65,
+      89,
+      96,
+      108,
+      135,
+      151,
+      156,
+      168,
+      190,
+      202
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.475519200Z"
+  },
+  {
+    "id": 40,
+    "title": "Ăn",
+    "url": "https://kenh14.vn/an-quay-di/an.chn",
+    "article_count": 16,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.325049300Z",
+    "article_ids": [
+      12,
+      17,
+      27,
+      30,
+      42,
+      48,
+      65,
+      89,
+      96,
+      108,
+      135,
+      151,
+      156,
+      168,
+      190,
+      202
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.475519200Z"
+  },
+  {
+    "id": 41,
+    "title": "Quẩy",
+    "url": "https://kenh14.vn/an-quay-di/quay.chn",
+    "article_count": 16,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.325049300Z",
+    "article_ids": [
+      12,
+      17,
+      27,
+      30,
+      42,
+      48,
+      65,
+      89,
+      96,
+      108,
+      135,
+      151,
+      156,
+      168,
+      190,
+      202
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.475519200Z"
+  },
+  {
+    "id": 42,
+    "title": "Đi",
+    "url": "https://kenh14.vn/an-quay-di/di.chn",
+    "article_count": 16,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:28.325049300Z",
+    "article_ids": [
+      12,
+      17,
+      27,
+      30,
+      42,
+      48,
+      65,
+      89,
+      96,
+      108,
+      135,
+      151,
+      156,
+      168,
+      190,
+      202
+    ],
+    "first_crawled_at": "2025-06-01T07:11:14.475519200Z"
+  },
+  {
+    "id": 43,
+    "title": "Nhân vật",
+    "url": "https://kenh14.vn/doi-song/nhan-vat.chn",
+    "article_count": 23,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      16,
+      35,
+      36,
+      40,
+      66,
+      68,
+      76,
+      79,
+      100,
+      114,
+      123,
+      134,
+      146,
+      152,
+      154,
+      161,
+      163,
+      183,
+      195,
+      196,
+      205,
+      209,
+      219
+    ],
+    "first_crawled_at": "2025-06-01T07:11:17.344935100Z"
+  },
+  {
+    "id": 44,
+    "title": "Xem Ăn Chơi",
+    "url": "https://kenh14.vn/xem-an-choi.chn",
+    "article_count": 23,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      16,
+      35,
+      36,
+      40,
+      66,
+      68,
+      76,
+      79,
+      100,
+      114,
+      123,
+      134,
+      146,
+      152,
+      154,
+      161,
+      163,
+      183,
+      195,
+      196,
+      205,
+      209,
+      219
+    ],
+    "first_crawled_at": "2025-06-01T07:11:17.344935100Z"
+  },
+  {
+    "id": 45,
+    "title": "HOUSE n HOME",
+    "url": "https://kenh14.vn/doi-song/house-n-home.chn",
+    "article_count": 23,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      16,
+      35,
+      36,
+      40,
+      66,
+      68,
+      76,
+      79,
+      100,
+      114,
+      123,
+      134,
+      146,
+      152,
+      154,
+      161,
+      163,
+      183,
+      195,
+      196,
+      205,
+      209,
+      219
+    ],
+    "first_crawled_at": "2025-06-01T07:11:17.344935100Z"
+  },
+  {
+    "id": 46,
+    "title": "Mommy-eZ",
+    "url": "https://kenh14.vn/doi-song/mommy-ez.chn",
+    "article_count": 23,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:36.273977700Z",
+    "article_ids": [
+      16,
+      35,
+      36,
+      40,
+      66,
+      68,
+      76,
+      79,
+      100,
+      114,
+      123,
+      134,
+      146,
+      152,
+      154,
+      161,
+      163,
+      183,
+      195,
+      196,
+      205,
+      209,
+      219
+    ],
+    "first_crawled_at": "2025-06-01T07:11:17.344935100Z"
+  },
+  {
+    "id": 47,
+    "title": "Âu Mỹ",
+    "url": "https://kenh14.vn/musik/au-my.chn",
+    "article_count": 8,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:26.952880900Z",
+    "article_ids": [
+      20,
+      53,
+      107,
+      150,
+      153,
+      159,
+      166,
+      198
+    ],
+    "first_crawled_at": "2025-06-01T07:11:21.258497300Z"
+  },
+  {
+    "id": 48,
+    "title": "Châu Á",
+    "url": "https://kenh14.vn/musik/chau-a.chn",
+    "article_count": 8,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:26.952880900Z",
+    "article_ids": [
+      20,
+      53,
+      107,
+      150,
+      153,
+      159,
+      166,
+      198
+    ],
+    "first_crawled_at": "2025-06-01T07:11:21.258497300Z"
+  },
+  {
+    "id": 49,
+    "title": "Việt Nam",
+    "url": "https://kenh14.vn/musik/viet-nam.chn",
+    "article_count": 8,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:26.952880900Z",
+    "article_ids": [
+      20,
+      53,
+      107,
+      150,
+      153,
+      159,
+      166,
+      198
+    ],
+    "first_crawled_at": "2025-06-01T07:11:21.258497300Z"
+  },
+  {
+    "id": 50,
+    "title": "",
+    "url": "",
+    "article_count": 8,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:26.952880900Z",
+    "article_ids": [
+      20,
+      53,
+      107,
+      150,
+      153,
+      159,
+      166,
+      198
+    ],
+    "first_crawled_at": "2025-06-01T07:11:21.258497300Z"
+  },
+  {
+    "id": 51,
+    "title": "Tek-life",
+    "url": "https://kenh14.vn/tek-life.chn",
+    "article_count": 11,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:30.193921300Z",
+    "article_ids": [
+      57,
+      75,
+      77,
+      90,
+      117,
+      127,
+      136,
+      147,
+      182,
+      200,
+      207
+    ],
+    "first_crawled_at": "2025-06-01T07:11:36.427413600Z"
+  },
+  {
+    "id": 52,
+    "title": "Metaverse",
+    "url": "https://kenh14.vn/tek-life/metaverse.chn",
+    "article_count": 11,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:30.193921300Z",
+    "article_ids": [
+      57,
+      75,
+      77,
+      90,
+      117,
+      127,
+      136,
+      147,
+      182,
+      200,
+      207
+    ],
+    "first_crawled_at": "2025-06-01T07:11:36.427413600Z"
+  },
+  {
+    "id": 53,
+    "title": "HOW-TO",
+    "url": "https://kenh14.vn/tek-life/how-to.chn",
+    "article_count": 11,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:30.193921300Z",
+    "article_ids": [
+      57,
+      75,
+      77,
+      90,
+      117,
+      127,
+      136,
+      147,
+      182,
+      200,
+      207
+    ],
+    "first_crawled_at": "2025-06-01T07:11:36.427413600Z"
+  },
+  {
+    "id": 54,
+    "title": "Wow!",
+    "url": "https://kenh14.vn/tek-life/wow.chn",
+    "article_count": 11,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:30.193921300Z",
+    "article_ids": [
+      57,
+      75,
+      77,
+      90,
+      117,
+      127,
+      136,
+      147,
+      182,
+      200,
+      207
+    ],
+    "first_crawled_at": "2025-06-01T07:11:36.427413600Z"
+  },
+  {
+    "id": 55,
+    "title": "2-Mall",
+    "url": "https://kenh14.vn/tek-life/2-mall.chn",
+    "article_count": 11,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:30.193921300Z",
+    "article_ids": [
+      57,
+      75,
+      77,
+      90,
+      117,
+      127,
+      136,
+      147,
+      182,
+      200,
+      207
+    ],
+    "first_crawled_at": "2025-06-01T07:11:36.427413600Z"
+  },
+  {
+    "id": 56,
+    "title": "Tin tức",
+    "url": "https://kenh14.vn/suc-khoe/tin-tuc.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:29.804046400Z",
+    "article_ids": [
+      60,
+      62,
+      69,
+      105,
+      113,
+      122,
+      132,
+      137,
+      145,
+      206
+    ],
+    "first_crawled_at": "2025-06-01T07:11:37.196580700Z"
+  },
+  {
+    "id": 57,
+    "title": "Dinh dưỡng",
+    "url": "https://kenh14.vn/suc-khoe/dinh-duong.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:29.804046400Z",
+    "article_ids": [
+      60,
+      62,
+      69,
+      105,
+      113,
+      122,
+      132,
+      137,
+      145,
+      206
+    ],
+    "first_crawled_at": "2025-06-01T07:11:37.196580700Z"
+  },
+  {
+    "id": 58,
+    "title": "Khỏe đẹp",
     "url": "https://kenh14.vn/suc-khoe/khoe-dep.chn",
-    "is_featured": false
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:29.804046400Z",
+    "article_ids": [
+      60,
+      62,
+      69,
+      105,
+      113,
+      122,
+      132,
+      137,
+      145,
+      206
+    ],
+    "first_crawled_at": "2025-06-01T07:11:37.196580700Z"
+  },
+  {
+    "id": 59,
+    "title": "Giới tính",
+    "url": "https://kenh14.vn/suc-khoe/gioi-tinh.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:29.804046400Z",
+    "article_ids": [
+      60,
+      62,
+      69,
+      105,
+      113,
+      122,
+      132,
+      137,
+      145,
+      206
+    ],
+    "first_crawled_at": "2025-06-01T07:11:37.196580700Z"
+  },
+  {
+    "id": 60,
+    "title": "Các bệnh",
+    "url": "https://kenh14.vn/suc-khoe/cac-benh.chn",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:29.804046400Z",
+    "article_ids": [
+      60,
+      62,
+      69,
+      105,
+      113,
+      122,
+      132,
+      137,
+      145,
+      206
+    ],
+    "first_crawled_at": "2025-06-01T07:11:37.196580700Z"
+  },
+  {
+    "id": 61,
+    "title": "Sông bền vững",
+    "url": "https://kenh14.vn/song-ben-vung.html",
+    "article_count": 10,
+    "is_featured": false,
+    "last_updated_at": "2025-06-01T07:12:29.804046400Z",
+    "article_ids": [
+      60,
+      62,
+      69,
+      105,
+      113,
+      122,
+      132,
+      137,
+      145,
+      206
+    ],
+    "first_crawled_at": "2025-06-01T07:11:37.196580700Z"
   }
 ]
