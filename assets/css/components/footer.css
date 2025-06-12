@@ -1,4 +1,4 @@
-/* Menu footer */
+/* Bắt đầu Menu footer */
 .footer__menu {
     margin-bottom: 30px;
     padding: 9px 0;
@@ -27,8 +27,9 @@
     font-size: 12px;
     font-weight: 700;
 }
+/* Kết thúc Menu footer */
 
-/* Footer Top */
+/* Bắt đầu Footer Top */
 .footer__top-left {
     display: inline-block;
     width: 520px;
@@ -138,8 +139,9 @@
 .footer__top-right {
     vertical-align: top;
 }
+/* Kết thúc Footer Top */
 
-/* Footer Bottom */
+/* Bắt đầu Footer Bottom */
 .footer__bottom {
     width: 1040px;
     margin-right: auto;
@@ -371,3 +373,4 @@
 .footer__messenger-btn:hover {
     background-color: #047bea;
 }
+/* Kết thúc Footer Bottom */

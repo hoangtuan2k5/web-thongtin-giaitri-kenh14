@@ -5,6 +5,39 @@ Mọi thay đổi đáng chú ý của dự án sẽ được ghi lại trong t�
 Định dạng này dựa trên [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.4.0] - 2025-06-13
+
+### Added
+- ✨ **Header mới**: 
+  - Hamburger menu với hover effects mượt mà
+  - Sử dụng sprite icons để tối ưu hiệu suất
+  - Responsive navigation cho tất cả thiết bị
+
+- 🎨 **Footer-medium component**: 
+  - Layout responsive cho tablet & mobile
+  - Căn cột linh hoạt với CSS Grid và Flexbox
+  - Contact information với icons đồng nhất
+
+- 📱 **Responsive system**:
+  - Mobile-first approach với breakpoints: <576px, 576-992px, >992px
+  - Áp dụng đơn vị `rem` thay thế `px`
+  - File `responsive.css` riêng biệt để quản lý media queries
+
+- 🖼️ **Tối ưu sprite và icons**:
+  - Sprite sheets để giảm HTTP requests
+  - Icons được tối ưu hóa cho hiệu suất
+
+### Changed
+- 🔄 **Hoàn thiện layout index.html**:
+  - Responsive layout từ desktop ↔ mobile
+  - Cấu trúc HTML được tối ưu hóa
+  - Layout grid system mới cho tất cả breakpoints
+
+### BREAKING CHANGES
+- ⚠️ **Tái cấu trúc CSS và responsive**: 
+  - Layout cũ có thể bị vỡ do thay đổi cấu trúc và breakpoints
+  - CSS selectors và responsive behavior đã được cập nhật
+
 ## [0.3.0] - 2025-06-01
 
 ### Added

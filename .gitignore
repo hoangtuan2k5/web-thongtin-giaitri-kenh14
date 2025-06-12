@@ -1,0 +1,15 @@
+.vscode/
+.history/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.user
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+*.pidb
+*.suo
+*.tmp
+*.log

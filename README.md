@@ -68,9 +68,6 @@ kenh14-clone/
 │       ├── posts.json           # Dữ liệu bài viết
 │       ├── tags.json            # Dữ liệu thẻ
 │       └── topics.json          # Dữ liệu chủ đề
-├── components/                  # Components có thể tái sử dụng
-│   ├── header.html              # Header component
-│   └── footer.html              # Footer component
 ├── docs/                        # Tài liệu dự án
 │   ├── analysis/                # Phân tích dự án
 │   ├── imgs/                    # Hình ảnh tài liệu

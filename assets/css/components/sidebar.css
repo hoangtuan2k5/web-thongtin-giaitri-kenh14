@@ -1,0 +1,221 @@
+/* Bắt đầu Sidebar Component Styles - Các kiểu thành phần thanh bên */
+.sidebar {
+    width: 300px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.sidebar-section {
+    margin-bottom: 30px;
+}
+
+.sidebar-section:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #e74c3c;
+    text-transform: uppercase;
+}
+/* Kết thúc Sidebar Component Styles - Các kiểu thành phần thanh bên */
+
+/* Bắt đầu Banner Styles - Các kiểu banner */
+.sidebar-banner {
+    margin-bottom: 15px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.sidebar-banner:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar-banner a {
+    display: block;
+    text-decoration: none;
+}
+
+.sidebar-banner-img {
+    width: 100%;
+    height: auto;
+    min-height: 60px;
+    object-fit: contain;
+    background: #f8f9fa;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: opacity 0.3s ease;
+}
+
+.sidebar-banner:hover .sidebar-banner-img {
+    opacity: 0.9;
+}
+
+/* Featured News Styles */
+.sidebar-news {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.sidebar-news-item {
+    padding: 12px;
+    background: #f8f9fa;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.sidebar-news-item:hover {
+    background: #e9ecef;
+}
+
+.sidebar-news-link {
+    display: flex;
+    align-items: flex-start;
+    text-decoration: none;
+    color: inherit;
+    gap: 12px;
+}
+
+.sidebar-news-thumb {
+    width: 60px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+}
+
+.sidebar-news-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.sidebar-news-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    line-height: 1.4;
+    margin: 0 0 4px 0;
+    display: -webkit-box;
+    overflow: hidden;
+    transition: color 0.3s ease;
+}
+
+.sidebar-news-link:hover .sidebar-news-title {
+    color: #e74c3c;
+}
+
+.sidebar-news-time {
+    font-size: 12px;
+    color: #666;
+    font-style: italic;
+}
+
+/* Categories Styles */
+.sidebar-categories {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-categories li {
+    margin-bottom: 8px;
+}
+
+.sidebar-categories li:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar-categories a {
+    display: block;
+    padding: 10px 15px;
+    background: #f8f9fa;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border-left: 3px solid transparent;
+}
+
+.sidebar-categories a:hover {
+    background: #e74c3c;
+    color: #fff;
+    transform: translateX(5px);
+    border-left-color: #c0392b;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+    
+    .sidebar-banner-img {
+        min-height: 50px;
+        padding: 8px;
+    }
+    
+    .sidebar-news-thumb {
+        width: 50px;
+        height: 38px;
+    }
+    
+    .sidebar-news-title {
+        font-size: 13px;
+    }
+    
+    .sidebar-categories a {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .sidebar {
+        padding: 12px;
+    }
+    
+    .sidebar-title {
+        font-size: 16px;
+    }
+    
+    .sidebar-banner {
+        margin-bottom: 12px;
+    }
+    
+    .sidebar-news-item {
+        padding: 10px;
+    }
+    
+    .sidebar-news-link {
+        gap: 10px;
+    }
+    
+    .sidebar-news-thumb {
+        width: 45px;
+        height: 34px;
+    }
+    
+    .sidebar-news-title {
+        font-size: 12px;
+    }
+    
+    .sidebar-news-time {
+        font-size: 11px;
+    }
+}
+
+/* Kết thúc Banner Styles - Các kiểu banner */

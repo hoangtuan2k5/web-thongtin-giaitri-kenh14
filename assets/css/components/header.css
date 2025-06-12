@@ -1,21 +1,21 @@
-/* Header Styles */
+/* Bắt đầu Header */
 #header {
     width: 100%;
 }
 
-/* Class dùng chung để căn giữa nội dung bên trong các thanh full-width */
-.header-content-wrapper {
+.header__content-wrapper {
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0 10px;
 }
 
-/* Top Navigation */
+/* Bắt đầu top navigation - Điều hướng đầu trang */
 .header__top-navigation {
     background-color: #000000; 
     padding: 8px 0;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: 400;
     height: 25px;
     display: flex;
@@ -35,11 +35,20 @@
 .header__top-navigation li a {
     color: #ffffff;
     text-transform: uppercase;
+}                .header__top-navigation li a:hover {
+    opacity: 0.85;
 }
 
-.header__top-navigation li a:hover,
-.header__top-navigation li a:hover i.fa-star {
-    opacity: 0.85;
+.header__star-icon {
+    color: #ff6d15;
+    font-size: 0.625rem;
+    margin-right: 5px;
+    vertical-align: -1px;
+}
+
+.header__search-icon {
+    color: #ffffff;
+    font-size: 0.75rem;
 }
 
 .header__top-navigation__search {
@@ -63,7 +72,7 @@
     border: none;
     padding: 6px 10px;
     color: #ffffff;
-    font-size: 10px;
+    font-size: 0.625rem;
     outline: none;
     width: 150px;
     height: 25px;
@@ -75,16 +84,19 @@
 }
 
 .header__top-navigation__search button {
-    background-color: transparent;
     border: none;
     padding: 6px 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 25px;
+    width: 12px;
+    height: 12px;
+    background: url('../../images/sprites/k14h-sprite_v1.png') no-repeat -211px 0;
+    cursor: pointer;
 }
+/* Kết thúc top navigation - Điều hướng đầu trang */
 
-/* Header Section */
+/* Bắt đầu header section - Phần header */
 .header__section {
     background-color: #f0a52b; 
     padding: 5px 0;
@@ -107,17 +119,19 @@
     align-items: center;
     gap: 15px;
     margin-left: -4px;
+    flex-wrap: wrap;
 }
 
 .header__trending-icon {
-display: block;
+    display: block;
     width: 19px;
     height: 12px;
-    background: url(../../images/sprites/sprite-k14.20.png) -388px -55px no-repeat;
+    background: url('../../images/sprites/sprite-k14.20.png') -388px -55px no-repeat;
+    flex-shrink: 0;
 }
 
 .header__trending-item {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 500;
     color: #ffffff;
     padding: 6px 12px;
@@ -131,7 +145,69 @@ display: block;
     background-color: rgba(255, 255, 255, 0.15); 
 }
 
-/* Header Main Menu Bar */
+.header__hamburger {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.6rem;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+}
+
+.header__hamburger-icon {
+    font-style: normal;
+    line-height: 1;
+}
+
+.header__section-menu {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header__latest-news {
+    position: relative;
+    display: none; 
+}
+
+.header__latest-news-link {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.header__latest-news-link::after {
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-image: url('../../images/sprites/logo_sprite_2020_v1.webp');
+    background-size: 380px;
+    background-position: -170px -44px;
+    background-repeat: no-repeat;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    right: -4px;
+    content: '';
+}
+
+/* Hamburger menu item */
+.header__hamburger-menu {
+    display: flex;
+    align-items: center;
+}
+/* Kết thúc header section - Phần header */
+
+/* Bắt đầu main menu bar - Thanh menu chính */
 .header__main-menu-bar {
     background-color: #a70e1a; 
 }
@@ -141,8 +217,8 @@ display: block;
     align-items: center;
     width: 100%; 
     margin-left: 3px;
+    flex-wrap: wrap;
 }
-
 
 .header__main-menu-item {
     position: relative;
@@ -150,38 +226,43 @@ display: block;
 
 .header__main-menu-link {
     display: block;
-    padding: 0px 6px;
-    font-size: 15px;
+    padding: 10px 6px;
+    font-size: 0.875rem;
     font-weight: 500;
     color: #ffffff;
     white-space: nowrap;
 }
 
+.header__main-menu-link--home {
+    background: url('../../images/sprites/k14h-sprite_v1.png') no-repeat 0 -120px;
+    height: 12px;
+    margin-top: 4px;
+    margin-left: 16px;
+}
+
 .header__main-menu-link:hover {
     background-color: rgba(0, 0, 0, 0.1); 
+    text-decoration: none;
 }
 
 .header__main-menu-item:first-child .header__main-menu-link {
     padding-left: 15px; 
     padding-right: 15px;
-}
-
-.header__main-menu-item:first-child .header__main-menu-link i.fa-house {
-    font-size: 17px;
-    color: #ffffff;
-    vertical-align: middle; 
-}
-
+}                
+                    
 .header__main-menu-item--more {
-    margin-left: auto; 
+    font-weight: 700;
 }
 
 .header__main-menu-item--more .header__main-menu-link {
     padding: 10px 15px;
-}
-
-.header__main-menu-item--more .header__main-menu-link i.fa-ellipsis {
-    font-size: 18px;
+}                
+                    
+.header__main-menu-item--more .header__main-menu-link {
+    padding: 10px 15px;
+    font-size: 1.125rem;
     color: #ffffff;
-    vertical-align: middle;
+    text-align: center;
 }
+/* Kết thúc main menu bar - Thanh menu chính */
+/* Kết thúc Header */
