@@ -13,7 +13,23 @@ const banners = [
     }
 ];
 
-const repeatCount = 19;
+// Thêm config cho từng trang (tùy chọn)
+const pageConfig = {
+    'index.html': { bannerPairs: 19 },
+    'topic.html': { bannerPairs: 19 },
+    'article.html': { bannerPairs: 4 },
+    'search.html': { bannerPairs: 5 },
+    'tag.html': { bannerPairs: 1 }
+};
+
+// Hàm lấy config dựa trên trang hiện tại
+function getPageConfig() {
+    const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+    return pageConfig[currentPage] || { bannerPairs: 6 }; 
+}
+
+const config = getPageConfig();
+const repeatCount = config.bannerPairs;
 
 for (let i = 0; i < repeatCount; i++) {
     for (let banner of banners) {

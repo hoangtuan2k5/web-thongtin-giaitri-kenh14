@@ -71,7 +71,8 @@ kenh14-clone/
 ├── docs/                        # Tài liệu dự án
 │   ├── analysis/                # Phân tích dự án
 │   ├── imgs/                    # Hình ảnh tài liệu
-│   │   └── wireframes/          # Wireframe các trang
+│   │   |── wireframes/          # Wireframe các trang
+|   |   |-- diagram              # Lưu đồ thuật toán cho từng file JS
 │   ├── plan/                    # Kế hoạch làm việc
 │   ├── reports/                 # Báo cáo
 │   └── team-assignments/        # Phân công công việc

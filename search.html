@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang tìm kiếm - Kênh14</title>
+    <title>Tìm kiếm - Kenh14</title>
     <link rel="shortcut icon" href="assets/images/logo/kenh14-favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/base.css">
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/search.css">
     <link rel="stylesheet" href="assets/css/components/sidebar.css">
     <link rel="stylesheet" href="assets/css/components/header.css">
     <link rel="stylesheet" href="assets/css/components/footer.css">
@@ -39,7 +40,6 @@
                 <div class="header__top-navigation__search">
                     <input type="text" placeholder="Tìm kiếm..." />
                     <button type="submit">
-                        <i class="fa-solid fa-magnifying-glass" style="color: #ffffff;"></i>
                     </button>
                 </div>
             </div>
@@ -49,7 +49,7 @@
         <!-- Bắt đầu Header section - Phần header -->
         <div class="header__section">
             <div class="header__content-wrapper w1040">
-                <a href="#" class="header__logo">
+                <a href="index.html" class="header__logo">
                     <span aria-label="Logo Kenh14" role="img"></span>
                 </a>
                 <div class="header__trending-tags">
@@ -79,40 +79,40 @@
                         <a href="/" class="header__main-menu-link header__main-menu-link--home"></a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Star</a>
+                        <a href="topic.html?id=25" class="header__main-menu-link">Star</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Ciné</a>
+                        <a href="topic.html?id=31" class="header__main-menu-link">Ciné</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Musik</a>
+                        <a href="topic.html?id=29" class="header__main-menu-link">Musik</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Beauty & Fashion</a>
+                        <a href="topic.html?id=13" class="header__main-menu-link">Beauty & Fashion</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Đời sống</a>
+                        <a href="topic.html?id=5" class="header__main-menu-link">Đời sống</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Money-Z</a>
+                        <a href="topic.html?id=30" class="header__main-menu-link">Money-Z</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Ăn - Quẩy - Đi</a>
+                        <a href="topic.html?id=39" class="header__main-menu-link">Ăn - Quẩy - Đi</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Xã hội</a>
+                        <a href="topic.html?id=1" class="header__main-menu-link">Xã hội</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Sức khỏe</a>
+                        <a href="topic.html?id=11" class="header__main-menu-link">Sức khỏe</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Tek-life</a>
+                        <a href="topic.html?id=51" class="header__main-menu-link">Tek-life</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Học đường</a>
+                        <a href="topic.html?id=7" class="header__main-menu-link">Học đường</a>
                     </li>
                     <li class="header__main-menu-item">
-                        <a href="#" class="header__main-menu-link">Xem Mua Luôn</a>
+                        <a href="topic.html?id=18" class="header__main-menu-link">Xem Mua Luôn</a>
                     </li>
                     <li class="header__main-menu-item">
                         <a href="#" class="header__main-menu-link">Video</a>
@@ -133,840 +133,39 @@
     <div class="body-wrapper">
         <!-- Bắt đầu Body left - Nội dung chính -->
         <div class="body-left">
+            <!-- Bắt đầu Search box - Hộp tìm kiếm -->
+            <div class="search-box">
+                <div class="search-box__input-wrapper">
+                    <input
+                        placeholder="Tìm kiếm"
+                        id="search-box__input"
+                        type="text"
+                        name="query"
+                        class="search-box__input"
+                        value=""
+                    />
+                    <a href="#" title="Tìm kiếm" class="search-box__submit">
+                        <span class="search-box__icon"></span>
+                    </a>
+                </div>
+
+                <div class="search-box__result-info">
+                    <h1 class="search-box__result-label">Tìm thấy 5573 kết quả</h1>
+                </div>
+            </div>
+            <!-- Kết thúc Search box - Hộp tìm kiếm -->
+
             <!-- Bắt đầu Featured news - Tin tức nổi bật -->
             <div class="featured-news mt-20">
-                <article class="featured-news__column featured-news__column--left">
-                    <a href="article.html?id=1">
-                        <div class="featured-news__image">
-                            <img src="assets/images/articles/1_1.png" alt="Đắk Lắk: Nam sinh viên tử vong trong phòng trọ" loading="lazy">
-                        </div>
-                        <div class="featured-news__title">
-                            Đắk Lắk: Nam sinh viên tử vong trong phòng trọ
-                        </div>
-                    </a>
-                    <div class="featured-news__description">
-                        Chiều 5-5, Cơ quan chức năng tỉnh Đắk Lắk đang tổ chức khám nghiệm hiện trường, 
-                        khám nghiệm tử thi để điều tra vụ việc 1 nam sinh viên tử vong trong phòng trọ. 
-                        Cơ quan chức năng điều tra nguyên nhân tử vong của nam sinh viên...
-                    </div>
-                </article>
-                
-                <article class="featured-news__column featured-news__column--right fr">
-                    <a href="article.html?id=2" title="Tôi chu đáo chuẩn bị quà 1/6 cho con riêng của chồng, thằng bé đáp 1 câu khiến tôi không biết mình nên tiếp tục cuộc hôn nhân này không" class="featured-news__right-thumb">
-                        <img src="assets/images/articles/2_1.png" alt="Tôi chu đáo chuẩn bị quà 1/6 cho con riêng của chồng, thằng bé đáp 1 câu khiến tôi không biết mình nên tiếp tục cuộc hôn nhân này không" width="220" height="289" loading="lazy">
-                    </a>
-                    <h2 class="featured-news__right-title">
-                        <a href="article.html?id=2" title="Tôi chu đáo chuẩn bị quà 1/6 cho con riêng của chồng, thằng bé đáp 1 câu khiến tôi không biết mình nên tiếp tục cuộc hôn nhân này không">
-                            Tôi chu đáo chuẩn bị quà 1/6 cho con riêng của chồng, 
-                            thằng bé đáp 1 câu khiến tôi...
-                        </a>
-                    </h2>
-                </article>
-                <div class="clearfix"></div>
-
-                <!--  Phần danh sách tin tức bên trong mục tin nổi bật (featured-news) -->
-                <div class="news-slider">
-                    <ul class="news-slider__list">
-                        <li class="news-slider__item">
-                            <a href="article.html?id=3" title="Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger: 6 năm theo đuổi luôn đặt sự trung thực lên hàng đầu" class="news-slider__thumbnail">
-                                <img src="assets/images/articles/3_3.png" alt="Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger" class="w-100" height="143" loading="lazy">
-                            </a>
-                            <h3 class="news-slider__title">
-                                <a href="article.html?id=3" title="Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger: 6 năm theo đuổi luôn đặt sự trung thực lên hàng đầu">
-                                    Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger: 
-                                    6 năm theo đuổi luôn đặt sự...
-                                </a>
-                            </h3>
-                        </li>
-                        
-                        <li class="news-slider__item">
-                            <a href="article.html?id=4" title="TP.HCM phát hiện một cơ sở kinh doanh sữa giả" class="news-slider__thumbnail">
-                                <img src="assets/images/articles/4_1.png" alt="TP.HCM phát hiện một cơ sở kinh doanh sữa giả" class="w-100" height="143" loading="lazy">
-                            </a>
-                            <h3 class="news-slider__title">
-                                <a href="article.html?id=4" title="TP.HCM phát hiện một cơ sở kinh doanh sữa giả">
-                                    TP.HCM phát hiện một cơ sở kinh doanh sữa giả: 
-                                    Hộ kinh doanh nhà thuốc M.A. 6..
-                                </a>
-                            </h3>
-                        </li>
-                        
-                        <li class="news-slider__item">
-                            <a href="article.html?id=5" title="5 thế lực nhí làng bóng Việt: Con Quang Hải, Văn Hậu hút triệu views" class="news-slider__thumbnail">
-                                <img src="assets/images/articles/5_1.png" alt="5 thế lực nhí làng bóng Việt: Con Quang Hải, Văn Hậu hút triệu views" class="w-100" height="143" loading="lazy">
-                            </a>
-                            <h3 class="news-slider__title">
-                                <a href="article.html?id=5" title="5 thế lực nhí làng bóng Việt: Con Quang Hải, Văn Hậu hút triệu views, nhóc tỳ nhà Công Phượng gây xôn xao cõi mạng">
-                                    5 "thế lực nhí" làng bóng Việt: Con Quang Hải, 
-                                    Văn Hậu hút triệu views, nhóc...
-                                </a>
-                            </h3>
-                        </li>
-                        <div class="news-slider__button news-slider__button--prev"></div>
-                        <div class="news-slider__button news-slider__button--next"></div>
-                    </ul>
-                    <div class="news-slider__pagination news-slider__pagination--clickable news-slider__pagination--bullets">
-                        <span class="news-slider__pagination-bullet news-slider__pagination-bullet--active"></span>
-                        <span class="news-slider__pagination-bullet"></span>
-                        <span class="news-slider__pagination-bullet"></span>
-                        <span class="news-slider__pagination-bullet"></span>
-                    </div>
-                </div>
+                <!-- Nội dung sẽ được render bởi JavaScript -->
             </div>
             <!-- Kết thúc Featured news - Tin tức nổi bật -->
 
             <!-- Bắt đầu Vertical News Section - Phần tin tức dọc -->
-            <div class="vertical-news-section">
-                <article class="vertical-news-container clearfix">
-                    <div class="vertical-news__featured">
-                        <a href="article.html?id=6">
-                            <img src="assets/images/articles/6_1.png" alt="Article 6" loading="lazy">
-                        </a>
-                        <div class="vertical-news-content">
-                            <p class="vertical-news__badge">[ Tin vừa lên ]</p>
-                            <a href="article.html?id=6" class="news-title mr-30">Về quê 5 ngày quên tắt điều hoà, người đàn ông "chết lặng" khi quay lại thành phố</a>
-                        </div>
-                        <!-- Hộp điều khiển để điều hướng bài viết -->
-                        <div class="control-box">
-                            <div class="control-box__button control-box__button--left">
-                                <span class="control-box__icon control-box__icon--up"></span>
-                            </div>
-                            <div class="control-box__page">1/2</div>
-                            <div class="control-box__button control-box__button--right">
-                                <span class="control-box__icon control-box__icon--down"></span>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=7">
-                        <img src="assets/images/articles/7_1.png" alt="Article 7" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=7" class="news-title">Sao nam nhiều vợ nhất showbiz gặp nạn, phản ứng của 6 người vợ gây sốc</a>
-                        <a href="article.html?id=7" class="category">Pháp luật - <span>2 giờ trước</span></a>
-                        <p>Trong làng giải trí Hoa ngữ, Lôi Hồng là trường hợp cực kỳ đặc biệt, khiến dân tình tranh cãi suốt nhiều năm vì có cả dàn hậu cung giữa xã hội 1 vợ 1 chồng...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=8">
-                        <img src="assets/images/articles/8_1.png" alt="Article 8" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=8" class="news-title">Hành động ngáng đường, khiến Taylor Swift bị tố xấu tính tại Victoria's Secret năm xưa</a>
-                        <a href="article.html?id=8" class="category">Giải trí - <span>3 giờ trước</span></a>
-                        <p>Đã hơn một thập kỷ trôi qua, nhưng màn trình diễn của Taylor Swift trên sân khấu Victoria's Secret Fashion Show vẫn là một trong những khoảnh khắc đáng nhớ của sự kiện này...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=9">
-                        <img src="assets/images/articles/9_1.png" alt="Article 9" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=9" class="news-title">Chàng trai 40 tuổi đang âm thầm 'thâu tóm cả ngành giao hàng', dẫn dắt đế chế 90 tỷ USD 'nuốt trọn' các đối thủ nhỏ trên khắp thế giới</a>
-                        <a href="article.html?id=9" class="category">Kinh doanh - <span>4 giờ trước</span></a>
-                        <p>Giữa tâm dịch Covid, CEO DoorDash chọn hy sinh 100 triệu USD lợi nhuận để cứu ngành F&B – Giờ đây, ông đang hiện thực hóa tham vọng "thâu tóm cả ngành"...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=10">
-                        <img src="assets/images/articles/10_1.png" alt="Article 10" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=10" class="news-title">Kim Tae Hee 20 năm trước: Nhan sắc phong thần ở bộ phim đỉnh cao nhất sự nghiệp</a>
-                        <a href="article.html?id=10" class="category">Giải trí - <span>5 giờ trước</span></a>
-                        <p>Cùng với những cái tên như Song Hye Kyo, Son Ye Jin hay Jun Ji Hyun thì Kim Tae Hee cũng được xem là một biểu tượng nhan sắc bất diệt của làng giải trí Hàn Quốc. Trong sự nghiệp của mình, nữ minh tinh...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=11">
-                        <img src="assets/images/articles/11_1.png" alt="Article 11" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=11" class="news-title">6 thiết bị bếp thông minh phụ nữ nên sắm, giúp tiết kiệm 30 phút mỗi ngày...</a>
-                        <a href="article.html?id=11" class="category">Đời sống - <span>6 giờ trước</span></a>
-                        <p>Từ ngày mua nồi chiên không dầu, tôi dừng hẳn việc đứng canh bếp mỗi tối. Cá viên, đậu hũ, khoai, cánh gà, thậm chí bánh mì - chỉ cần 15-20 phút là có món nóng, vàng giòn, không tốn dầu, không dọn bếp đầy mỡ...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=12">
-                        <img src="assets/images/articles/12_1.png" alt="Article 12" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=12" class="news-title">Khách Tây bất ngờ trước món ăn "được làm từ nilon" ở Việt Nam...</a>
-                        <a href="article.html?id=12" class="category">Ẩm thực - <span>7 giờ trước</span></a>
-                        <p>Ẩm thực Việt Nam từ lâu đã chinh phục du khách quốc tế không chỉ bằng phở, bún chả, bánh mì... mà còn nhờ vào sự đa dạng, phong phú và độc đáo của những món ăn đường phố. Nhiều vị khách nước ngoài sẵn sàng...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=13">
-                        <img src="assets/images/articles/13_1.png" alt="Article 13" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=13" class="news-title">Câu chuyện vượt qua bệnh ung thư của tân Hoa hậu Thế giới</a>
-                        <a href="article.html?id=13" class="category">Giải trí - <span>8 giờ trước</span></a>
-                        <p>Chung kết Hoa hậu Thế giới 2025 đã diễn ra tối 31/5 với chiến thắng thuộc về người đẹp Thái Lan Suchata Chuangsri. Kết quả nhận được sự đồng tình của fan sắc đẹp quốc tế. Cô được đánh giá là ứng viên sáng giá...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=14">
-                        <img src="assets/images/articles/14_1.png" alt="Article 14" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=14" class="news-title">3 bí quyết nuôi dạy trẻ em có lòng nhân ái, điều cuối cùng khiến nhiều người bất ngờ</a>
-                        <a href="article.html?id=14" class="category">Giáo dục - <span>9 giờ trước</span></a>
-                        <p>Trong bối cảnh thế giới ngày nay, nơi mà sự cạnh tranh, căng thẳng và thông tin tiêu cực tràn ngập, việc nuôi dạy trẻ em trở thành những người tử tế không chỉ là mong muốn của các bậc phụ huynh. Đây còn là một...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=15">
-                        <img src="assets/images/articles/15_1.png" alt="Article 15" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=15" class="news-title">Chuyện lạ ở Trung Quốc: Nông dân nuôi lợn khổng lồ nặng 500kg, bằng một con gấu...</a>
-                        <a href="article.html?id=15" class="category">Xã hội - <span>10 giờ trước</span></a>
-                        <p>Trong bối cảnh Trung Quốc đang đối mặt với tình trạng thiếu hụt nghiêm trọng nguồn cung thịt lợn sau dịch tả lợn châu Phi, nhiều trang trại và doanh nghiệp chăn nuôi đã chuyển sang "săn"...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=16">
-                        <img src="assets/images/articles/16_1.png" alt="Article 16" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=16" class="news-title">Làm theo lời khuyên "lạ", người đàn ông trúng độc đắc hơn 70 tỷ đồng</a>
-                        <a href="article.html?id=16" class="category">Thời trang - <span>11 giờ trước</span></a>
-                        <p>Một người đàn ông ở Butterworth, Penang, Malaysia đã bất ngờ đổi đời sau khi trúng xổ số với giải thưởng lên tới 11,8 triệu Ringgit (hơn 70 tỷ đồng). Ảnh minh hoạ. Theo thông tin được New Straits Times...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=17">
-                        <img src="assets/images/articles/17_1.png" alt="Article 17" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=17" class="news-title">Mặt hàng 'ngon bổ rẻ' bỗng lên ngôi tại Mỹ: lượt tìm kiếm tăng khủng 4.000%...</a>
-                        <a href="article.html?id=17" class="category">Khoa học - <span>12 giờ trước</span></a>
-                        <p>Cá đóng hộp là một trong những mặt hàng tích trữ phổ biến thời đại dịch COVID-19 nhưng đến nay vẫn giữ chỗ đứng vững chắc trong tâm trí người Mỹ. Tuy nhiên, mức độ quan tâm đối...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=18">
-                        <img src="assets/images/articles/18_1.png" alt="Article 18" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=18" class="news-title">Lái xe trên cao tốc, người đàn ông bị ô tô khác đâm thiệt hại 464 triệu đồng...</a>
-                        <a href="article.html?id=18" class="category">Quốc tế - <span>13 giờ trước</span></a>
-                        <p>Tháng 10/2020 người đàn ông họ Lý tại huyện Hoa Dung, tỉnh Hồ Nam, Trung Quốc đang điều khiển ô tô (xe B) di chuyển trên cao tốc thì bất ngờ bị một chiếc xe (xe A)...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=19">
-                        <img src="assets/images/articles/19_1.png" alt="Article 19" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=19" class="news-title">Sao nữ bị lừa làm "Bạch Cốt Tinh", cả đời không tha thứ cho đạo diễn Tây Du Ký</a>
-                        <a href="article.html?id=19" class="category">Xe cộ - <span>14 giờ trước</span></a>
-                        <p>Tây Du Ký 1986 là bộ phim gắn liên với tuổi thơ của biết bao thế hệ khán giả, mỗi nhân vật từ thần tiên đến yêu quái đều được công chúng nhớ mãi dù đã...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=20">
-                        <img src="assets/images/articles/20_1.png" alt="Article 20" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=20" class="news-title">Không hẹn mà gặp, cả G-Dragon và Sơn Tùng đều gây bão visual cuối tuần qua...</a>
-                        <a href="article.html?id=20" class="category">Bất động sản - <span>15 giờ trước</span></a>
-                        <p>Tối 4/5, G-Dragon và Sơn Tùng phủ sóng MXH cùng lúc. Dù không chung 1 đất nước, nhưng trùng hợp ở chỗ cả "ông hoàng Kpop" lẫn ngôi sao số 1 Vpop đều đi...</p>
-                    </div>
-                </article>
-            </div>
-
-            <section class="vertical-news-section suggested-articles">
-                <h2 class="suggested-articles__heading">CÓ THỂ BẠN QUAN TÂM</h2>
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=21">
-                        <img src="assets/images/articles/21_1.png" alt="Article 21" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=21" class="news-title">Mưa lớn gây nhiều thiệt hại, một người nghi bị nước cuốn mất tích</a>
-                        <a href="article.html?id=21" class="category">Công nghệ - <span>16 giờ trước</span></a>
-                        <p>Theo báo cáo nhanh của Cục Quản lý đê điều và Phòng chống thiên tai, Bộ Nông nghiệp và Môi trường, tính đến 19h hôm nay (10/5), mưa lớn và dông lốc đã...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=22">
-                        <img src="assets/images/articles/22_1.png" alt="Article 22" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=22" class="news-title">Sao nữ Vbiz đòi rút xương sườn vì bị chê quá xấu, đi diễn không ai thèm nhìn...</a>
-                        <a href="article.html?id=22" class="category">Thể thao - <span>17 giờ trước</span></a>
-                        <p>Từng bị mỉa mai vì ngoại hình, suýt rút xương sườn để đẹp lên, Diệu Nhi đã có một hành trình nỗ lực hoàn thiện bản thân đáng nhận về lời tán dương từ khán...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=23">
-                        <img src="assets/images/articles/23_1.png" alt="Article 23" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=23" class="news-title">Bắt nhóm đối tượng trộm 19 điện thoại của người dân chiêm bái xá lợi Phật...</a>
-                        <a href="article.html?id=23" class="category">Giải trí - <span>18 giờ trước</span></a>
-                        <p>Theo cơ quan công an, lợi dụng cảnh đông đúc trong quá trình hành lễ, nhóm đối tượng đã thực hiện hành vi trộm cắp bằng thủ đoạn tinh vi: giả vờ chen lấn, xô...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=24">
-                        <img src="assets/images/articles/24_1.png" alt="Article 24" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=24" class="news-title">TP HCM: Đêm cuối chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức</a>
-                        <a href="article.html?id=24" class="category">Khoa học - <span>19 giờ trước</span></a>
-                        <p>Hơn 20 giờ ngày 10-5, cánh cổng Việt Nam Quốc Tự vẫn rộng mở đón khách đến chiêm bái xá lợi trái tim Bồ tát Thích Quảng Đức đang được tôn trí tại...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=25">
-                        <img src="assets/images/articles/25_1.png" alt="Article 25" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=25" class="news-title">Siam Paragon "thất thủ" vì ngọc nữ Thái Lan kinh doanh, khó tin hơn...</a>
-                        <a href="article.html?id=25" class="category">Tài chính - <span>20 giờ trước</span></a>
-                        <p>Lingling Kwong - một nửa của cặp đôi bách hợp LingOrm đình đám hiện tại đang là "cây hút fan" hàng đầu xứ chùa Vàng lẫn trong khu vực, đặc biệt có Việt Nam...</p>
-                    </div>
-                </article>
-
-            </section>
-
-            <div class="vertical-news-section">
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=26">
-                        <img src="assets/images/articles/26_1.png" alt="Article 26" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=26" class="news-title">Lý do thật sự khiến Jeon So Min rời Running Man</a>
-                        <a href="article.html?id=26" class="category">Xe cộ - <span>21 giờ trước</span></a>
-                        <p>Cô cho biết, dù Running Man là một "nơi làm việc hạnh phúc", nhưng suốt 7 năm gắn bó, cô phải đối mặt với vô số bình luận ác ý từ cộng đồng mạng...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=27">
-                        <img src="assets/images/articles/27_1.png" alt="Article 27" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=27" class="news-title">Đông nghịt người vây kín quanh 1 hồ nước lớn, ai nấy "há hốc" khi chứng kiến cảnh tượng bên dưới</a>
-                        <a href="article.html?id=27" class="category">Giải trí - <span>22 giờ trước</span></a>
-                        <p>Mới đây, mạng xã hội Xiaohongshu (Tiểu Hồng Thư) của Trung Quốc lan truyền đoạn video ghi lại một cảnh tượng khiến dân tình không khỏi...</p>
-                    </div>
-                </article>
-            </div>
-
-            <hr class="my-25" width="100%" color="#e8e8e8">
-            <section class="vertical-news-section suggested-articles">
-            <h2 class="suggested-articles__heading my-4">TIN DÀNH CHO BẠN</h2>
-                <article class="vertical-news-container no-border clearfix">
-                    <div class="news-slider my-0">
-                        <ul class="news-slider__list">
-                            <li class="news-slider__item">
-                                <a href="article.html?id=28" title="Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger: 6 năm theo đuổi luôn đặt sự trung thực lên hàng đầu" class="news-slider__thumbnail">
-                                    <img src="assets/images/articles/28_1.png" alt="Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger" class="w-100" height="143" loading="lazy">
-                                </a>
-                                <h3 class="news-slider__title">
-                                    <a href="article.html?id=28" title="Gigi - Thạc sĩ ngành Luật rẽ hướng làm beauty blogger: 6 năm theo đuổi luôn đặt sự trung thực lên hàng đầu">
-                                        Món nước từ loại lá màu tím giúp giải nhiệt, đẹp da, thải độc mùa hè, vừa ngon lại dễ làm
-                                    </a>
-                                </h3>
-                            </li>
-                        
-                            <li class="news-slider__item">
-                                <a href="article.html?id=29" title="TP.HCM phát hiện một cơ sở kinh doanh sữa giả" class="news-slider__thumbnail">
-                                    <img src="assets/images/articles/29_1.png" alt="TP.HCM phát hiện một cơ sở kinh doanh sữa giả" class="w-100" height="143" loading="lazy">
-                                </a>
-                                <h3 class="news-slider__title">
-                                    <a href="article.html?id=29" title="TP.HCM phát hiện một cơ sở kinh doanh sữa giả">
-                                        Không hề giàu có nhưng mẹ tôi tiết kiệm đều 1,8 triệu mỗi tháng, sau 7 năm có 150 triệu để đặt cọc mua nhà
-                                    </a>
-                                </h3>
-                            </li>
-                        
-                            <li class="news-slider__item">
-                                <a href="article.html?id=30" title="5 thế lực nhí làng bóng Việt: Con Quang Hải, Văn Hậu hút triệu views" class="news-slider__thumbnail">
-                                    <img src="assets/images/articles/30_1.png" alt="5 thế lực nhí làng bóng Việt: Con Quang Hải, Văn Hậu hút triệu views" class="w-100" height="143" loading="lazy">
-                                </a>
-                                <h3 class="news-slider__title">
-                                    <a href="article.html?id=30" title="5 thế lực nhí làng bóng Việt: Con Quang Hải, Văn Hậu hút triệu views, nhóc tỳ nhà Công Phượng gây xôn xao cõi mạng">
-                                        Những món ăn vặt Việt Nam khiến giới trẻ Hàn "phát cuồng", trở thành trào lưu ăn uống hot ở xứ Kim chi
-                                    </a>
-                                </h3>
-                            </li>
-                        </ul>
-                    </div>
-                </article>
-            </section>
-            <hr class="my-25" width="100%" color="#e8e8e8">
-
-            <div class="vertical-news-section">
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=31">
-                        <img src="assets/images/articles/31_1.png" alt="1kg vàng bằng bao nhiêu tiền?" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=31" class="news-title">1kg vàng bằng bao nhiêu tiền?</a>
-                        <a href="article.html?id=31" class="category">Tài chính - <span>23 giờ trước</span></a>
-                        <p>Tại Việt Nam, cây (lượng), chỉ là những đơn vị đo khối lượng vàng phổ biến, hiếm khi dùng đến đơn vị kg như hàng hóa thông thường. Theo đơn vị đo...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=32">
-                        <img src="assets/images/articles/32_1.png" alt="Thành phố Cao Bằng tiêu hủy gần 3 tấn lợn mắc dịch tả lợn châu Phi" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=32" class="news-title">Thành phố Cao Bằng tiêu hủy gần 3 tấn lợn mắc dịch tả lợn châu Phi</a>
-                        <a href="article.html?id=32" class="category">Xã hội - <span>1 ngày trước</span></a>
-                        <p>Trước đó, theo kết quả xét nghiệm của Trung tâm Chẩn đoán Thú y Trung ương về việc trả lời một mẫu lợn của hộ ông Phan Văn Tuân ...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=33">
-                        <img src="assets/images/articles/33_1.png" alt="Khả Ngân lên tiếng về gương mặt thay đổi gây sốc" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=33" class="news-title">Khả Ngân lên tiếng về gương mặt thay đổi gây sốc</a>
-                        <a href="article.html?id=33" class="category">Giải trí - <span>1 ngày trước</span></a>
-                        <p>Mới đây, Khả Ngân gây chú ý khi xuất hiện trong một sự kiện giải trí, nhưng không phải phong cách rạng rỡ thường thấy, nhan sắc lần này của nữ diễn viên...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=34">
-                        <img src="assets/images/articles/34_1.png" alt="Con sắp thi lớp 10, cả nhà tôi như bị câm" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=34" class="news-title">"Con sắp thi lớp 10, cả nhà tôi như bị câm"</a>
-                        <a href="article.html?id=34" class="category">Giáo dục - <span>1 ngày trước</span></a>
-                        <p>Gần 3 tuần nữa sẽ diễn ra kỳ thi vào lớp 10 THPT công lập, không khí gia đình chị Đoàn Diệp Anh trở nên căng thẳng hơn bao giờ hết. Con gái chị miệt...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=35">
-                        <img src="assets/images/articles/35_1.png" alt="Mang tranh quý đi thẩm định nhưng bị cho là đồ giả" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=35" class="news-title">Mang tranh quý đi thẩm định nhưng bị cho là đồ giả, người phụ nữ xinh đẹp liền thẳng thừng chất vấn chuyên gia</a>
-                        <a href="article.html?id=35" class="category">Văn hóa - <span>2 ngày trước</span></a>
-                        <p>Trong những năm gần đây, Trung Quốc đang ngày càng chú trọng hơn đến việc bảo tồn và phát huy giá trị của các di sản văn hóa cổ đại...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=36">
-                        <img src="assets/images/articles/36_1.png" alt="11 câu nói khó chịu khi gặp lần đầu khiến bạn bị ghét ngay lập tức" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=36" class="news-title">11 câu nói khó chịu khi gặp lần đầu khiến bạn bị ghét ngay lập tức</a>
-                        <a href="article.html?id=36" class="category">Đời sống - <span>2 ngày trước</span></a>
-                        <p>Ấn tượng đầu tiên thường rất quan trọng trong giao tiếp. Những câu nói không phù hợp có thể tạo ra ấn tượng xấu ngay từ lần gặp đầu tiên...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=37">
-                        <img src="assets/images/articles/37_1.png" alt="Mặt gầy để kiểu tóc nào đẹp?" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=37" class="news-title">Mặt gầy để kiểu tóc nào đẹp?</a>
-                        <a href="article.html?id=37" class="category">Beauty & Fashion - <span>2 ngày trước</span></a>
-                        <p>Khuôn mặt gầy là một đặc điểm phổ biến của nhiều người châu Á, đặc biệt ở phụ nữ. Dáng mặt này thường gợi cảm giác thanh tú, nhẹ nhàng và...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=38">
-                        <img src="assets/images/articles/38_1.png" alt="Hà Nội: Triển khai vé điện tử, sẽ dôi dư 4.000 nhân viên bán vé xe buýt" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=38" class="news-title">Hà Nội: Triển khai vé điện tử, sẽ dôi dư 4.000 nhân viên bán vé xe buýt</a>
-                        <a href="article.html?id=38" class="category">Giao thông - <span>3 ngày trước</span></a>
-                        <p>Sáng 20/5, Cổng Thông tin điện tử Chính phủ tổ chức Tọa đàm "Giải pháp thanh toán thông minh phục vụ giao thông hiện đại"...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=39">
-                        <img src="assets/images/articles/39_1.png" alt="Giá bán chung cư TP.HCM đã leo lên mức cao mới" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=39" class="news-title">Giá bán chung cư TP.HCM đã leo lên mức cao mới, dự báo giá còn tăng và có khả năng vượt mốc 100 triệu đồng/m2</a>
-                        <a href="article.html?id=39" class="category">Bất động sản - <span>3 ngày trước</span></a>
-                        <p>Theo ghi nhận của Trung tâm Nghiên cứu thị trường & Am hiểu khách hàng One Mount Group, quý 1/2025 chỉ có...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=40">
-                        <img src="assets/images/articles/40_1.png" alt="Sang tháng 6, 4 con giáp này bắt trúng mạch vàng tài lộc" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=40" class="news-title">Sang tháng 6, 4 con giáp này bắt trúng mạch vàng tài lộc, được Thần tài ưu ái, quý nhân chỉ đường</a>
-                        <a href="article.html?id=40" class="category">Phong thủy - <span>3 ngày trước</span></a>
-                        <p>Tháng 6 Dương lịch hứa hẹn sẽ là một giai đoạn đầy triển vọng đối với một số con giáp, khi vận may đến từ nhiều khía cạnh như...</p>
-                    </div>
-                </article>
-            </div>
-            
-            <section class="editors-pick">
-                <div class="editors-pick__container">
-                    <div class="editors-pick__heading">
-                        <img class="editors-pick__icon" src="/assets/images/icons/star.svg" alt="Hình ngôi sao">
-                        <h2>EDITOR'S PICK</h2>
-                    </div>
-                    
-                    <div class="editors-pick__content">
-                        <!-- Bài viết chính bên trái -->
-                        <article class="editors-pick__featured-article">
-                            <a href="article.html?id=41" class="editors-pick__featured-image-wrapper">
-                                <img class="editors-pick__image" src="assets/images/articles/41_1.png" alt="Đi họp lớp sau 20 năm, lớp trưởng âm thầm thanh toán hóa đơn rồi ra về, nửa đêm nhận được 35 triệu chuyển khoản mà bật khóc" loading="lazy">
-                            </a>
-                                <div class="editors-pick__featured-content">
-                                    <a href="article.html?id=41" class="editors-pick__featured-title">Đi họp lớp sau 20 năm, lớp trưởng âm thầm thanh toán hóa đơn rồi ra về...</a>
-                                    <div class="editors-pick__featured-meta">
-                                        <span class="editors-pick__category">Đời sống</span>
-                                        <p class="editors-pick__featured-excerpt">Lâm Dương chỉ nhẹ nhàng trấn an rồi vào phòng. Sau khi tắm rửa, vừa cầm điện thoại lên thì thấy tin nhắn chuyển khoản: 10.000 tệ (khoảng 35 triệu đồng)...</p>
-                                    </div>
-                                </div>
-                            
-                        </article>
-                        
-                        <!-- Danh sách bài viết bên phải -->
-                        <div class="editors-pick__sidebar">
-                            <article class="editors-pick__sidebar-item">
-                                <a href="article.html?id=42" class="editors-pick__sidebar-image-wrapper">
-                                    <img class="editors-pick__image" src="assets/images/articles/42_1.png" loading="lazy">
-                                </a>
-                                    <div class="editors-pick__sidebar-content">
-                                        <a href="article.html?id=42" class="editors-pick__sidebar-title">Khán giả khóc ròng vì "đặc quyền 10 triệu"...</a>
-                                    </div>
-                            </article>
-                            
-                            <article class="editors-pick__sidebar-item">
-                                <a href="article.html?id=43" class="editors-pick__sidebar-image-wrapper">
-                                    <img class="editors-pick__image" src="assets/images/articles/43_1.png" loading="lazy">
-                                </a>
-                                    <div class="editors-pick__sidebar-content">
-                                        <a href="article.html?id=43" class="editors-pick__sidebar-title">Hơn 78.223 sản phẩm mỹ phẩm, thiết bị điện tử,...</a>
-                                    </div>
-                            </article>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <div class="vertical-news-section">
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=44">
-                        <img src="assets/images/articles/44_1.png" alt="Tối ngày 15-5, giá vàng bất ngờ tăng trở lại, vàng miếng SJC lại ngược dòng" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=44" class="news-title">Tối ngày 15-5, giá vàng bất ngờ tăng trở lại, vàng miếng SJC lại ngược dòng</a>
-                        <a href="article.html?id=44" class="category">Tài chính - <span>23:05 15/05/2025</span></a>
-                        <p>Lúc 20 giờ 15 ngày 15-5, theo giờ Việt Nam, giá vàng hôm nay trên thị trường quốc tế tăng mạnh lên sát mốc 3.200 USD, ở mức 3.196 USD/ounce, tăng tổng cộng khoảng 65 USD/ounce...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=45">
-                        <img src="assets/images/articles/45_1.png" alt="Bí quyết giữ dáng, tràn đầy năng lượng và rạng rỡ của các ngôi sao hàng đầu: 5 thức uống buổi sáng thần kỳ" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=45" class="news-title">Bí quyết giữ dáng, tràn đầy năng lượng và rạng rỡ của các ngôi sao hàng đầu...</a>
-                        <a href="article.html?id=45" class="category">Sức khỏe - <span>23:00 31/05/2025</span></a>
-                        <p>Đầu ngày là "thời điểm vàng" để đưa ra những lựa chọn lành mạnh cho bản thân, bao gồm cả những gì bạn uống. Đồ uống buổi sáng bạn chọn có thể là một cốc cà phê ấm áp hoặc một cốc matcha đá mát lạnh...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=46">
-                        <img src="assets/images/articles/46_1.png" alt="Những loại bảo hiểm nào người lao động bắt buộc phải đóng khi đi làm?" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=46" class="news-title">Những loại bảo hiểm nào người lao động bắt buộc phải đóng khi đi làm?</a>
-                        <a href="article.html?id=46" class="category">Pháp luật - <span>22:39 25/05/2025</span></a>
-                        <p>Tại khoản 1 Điều 168 Bộ luật Lao động 2019 có quy định về việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. Người lao động đi làm công ty hằng tháng phải đóng 03 loại bảo hiểm bắt buộc...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=47">
-                        <img src="assets/images/articles/47_1.png" alt="Đằng sau làn da căng bóng của gái Hàn là thức uống đơn giản ai cũng có thể làm mỗi sáng" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=47" class="news-title">Đằng sau làn da căng bóng của gái Hàn là thức uống đơn giản ai cũng có thể làm mỗi sáng</a>
-                        <a href="article.html?id=47" class="category">Sức khỏe - <span>22:56 31/05/2025</span></a>
-                        <p>Nhắc đến làn da căng bóng "glowy như gương" nổi tiếng của con gái Hàn Quốc, nhiều người sẽ nghĩ ngay đến chu trình skincare 10 bước hay công nghệ spa hiện đại. Nhưng thực tế, bí quyết sâu xa hơn nằm ở chính lối sống và chế độ dinh dưỡng khoa học...</p>
-                    </div>
-                </article>
-
-                <article class="vertical-news-container clearfix">
-                    <a href="article.html?id=48">
-                        <img src="assets/images/articles/48_1.png" alt="Vietnam Airlines phát đi thông báo quan trọng, ai chuẩn bị bay cần lưu ý ngay" loading="lazy">
-                    </a>
-                    <div class="vertical-news-content">
-                        <a href="article.html?id=48" class="news-title">Vietnam Airlines phát đi thông báo quan trọng, ai chuẩn bị bay cần lưu ý ngay</a>
-                        <a href="article.html?id=48" class="category">Giao thông - <span>23:03 15/05/2025</span></a>
-                        <p>Vừa mới đây, hãng hàng không Vietnam Airlines đã đăng tải thông tin mới nhất liên quan tới các chuyến bay nội địa của hãng này. Đây là thông tin mà bất kỳ hành khách nào có các chuyến bay Vietnam Airlines trong thời gian tới cần đặc biệt chú ý...</p>
-                    </div>
-                </article>
-            </div>
-
             <section class="vertical-news-section">
-                <div class="news-grid news-grid--type1">
-                    <div class="news-grid__category-menu">
-                        <h2 class="news-grid__category-name">
-                            <a href="#" title="Tài chính" class="news-grid__category-link">
-                                STAR
-                            </a>
-                        </h2>
-                        <ul class="news-grid__submenu">
-                        </ul>
-                    </div>
-                    <div class="news-grid__content">
-                        <a href="article.html?id=49" title='Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body "đồng hồ cát" cực bốc, visual đời thường mới choáng' class="news-grid__featured-link">
-                            <img class="news-grid__featured-image" src="assets/images/articles/49_1.png" alt='Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body "đồng hồ cát" cực bốc, visual đời thường mới choáng' loading="lazy">
-                        </a>
-                        <h3 class="news-grid__featured-title">
-                            <a href="article.html?id=49" title='Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body "đồng hồ cát" cực bốc, visual đời thường mới choáng'>
-                                Tân Hoa hậu Chuyển giới Việt Nam - Hà Tâm Như: Body "đồng hồ cát" cực bốc...
-                            </a>
-                        </h3>
-                        <p class="news-grid__featured-excerpt">Tối 10/5, đêm chung kết Miss International Queen Vietnam 2025 đã chính thức diễn ra tại Phan Thiết. Theo đó, Top 14 người đẹp xuất ...</p>
-                    </div>
-                    <div class="news-grid__sidebar">
-                        <ul class="news-grid__sidebar-list">
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=50" title="Bắt hai phụ nữ bắt cóc bé gái 7 tuổi để gây áp lực đòi nợ ở Tây Ninh">Bắt hai phụ nữ bắt cóc bé gái 7 tuổi để gây áp lực đòi nợ ở Tây Ninh</a>
-                                </h4>
-                            </li>
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=51" title="Đến tuổi trung niên mới bắt đầu lo tiền: Vì sao chúng ta thường 'tỉnh ngộ tài chính' quá muộn?">Đến tuổi trung niên mới bắt đầu lo tiền: Vì sao chúng ta thường "tỉnh ngộ tài chính" quá muộn?</a>
-                                </h4>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="news-grid news-grid--type1">
-                    <div class="news-grid__category-menu">
-                        <h2 class="news-grid__category-name">
-                            <a href="#" title="Giải trí" class="news-grid__category-link">
-                                Giải trí
-                            </a>
-                        </h2>
-                        <ul class="news-grid__submenu">
-                        </ul>
-                    </div>
-                    <div class="news-grid__content">
-                        <a href="article.html?id=52" title="Bắt cận thái độ của Ý Nhi khi trượt Top 20 Miss World, netizen lo lắng điều này" class="news-grid__featured-link">
-                            <img src="assets/images/articles/52_1.png" alt="Bắt cận thái độ của Ý Nhi khi trượt Top 20 Miss World, netizen lo lắng điều này" class="news-grid__featured-image" loading="lazy">
-                        </a>
-                        <h3 class="news-grid__featured-title">
-                            <a href="article.html?id=52" title="Bắt cận thái độ của Ý Nhi khi trượt Top 20 Miss World, netizen lo lắng điều này"> 
-                                Bắt cận thái độ của Ý Nhi khi trượt Top 20 Miss World, netizen lo lắng điều này
-                            </a>
-                        </h3>
-                        <p class="news-grid__featured-excerpt">Tối 31/5, chung kết Miss World 2025 được diễn ra tại Ấn Độ. Đại diện Việt Nam - Hoa hậu Huỳnh Trần Ý Nhi đang...</p>
-                    </div>
-                    <div class="news-grid__sidebar">
-                        <ul class="news-grid__sidebar-list">
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=53" title="Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi">Hà Nội mưa tầm tã khiến tất cả mệt mỏi, staff cõng fan vào khu y tế tại concert Anh Trai Say Hi</a>
-                                </h4>
-                            </li>
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=54" title="Từ chuyện VPBank mang G-Dragon về Việt Nam đến việc Taylor Swift giúp UOB tăng 130% mở thẻ: Cuộc đua ngân hàng đã khác">Từ chuyện VPBank mang G-Dragon về Việt Nam đến việc Taylor Swift giúp UOB tăng 130% mở thẻ</a>
-                                </h4>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                <!-- Nội dung sẽ được render bởi JavaScript -->
             </section>
-
-            <section class="vertical-news-section">
-                <div class="news-grid news-grid--type1">
-                    <div class="news-grid__category-menu">
-                        <h2 class="news-grid__category-name">
-                            <a href="#" title="Pháp luật" class="news-grid__category-link">
-                                Pháp luật
-                            </a>
-                        </h2>
-                        <ul class="news-grid__submenu">
-                        </ul>
-                    </div>
-                    <div class="news-grid__content">
-                        <a href="article.html?id=55" title="Căng thẳng vụ con nuôi NSƯT Hoài Linh kiện đòi nhà" class="news-grid__featured-link">
-                            <img class="news-grid__featured-image" src="assets/images/articles/55_1.png" alt="Căng thẳng vụ con nuôi NSƯT Hoài Linh kiện đòi nhà" loading="lazy">
-                        </a>
-                        <h3 class="news-grid__featured-title">
-                            <a href="article.html?id=55" title="Căng thẳng vụ con nuôi NSƯT Hoài Linh kiện đòi nhà">
-                                Căng thẳng vụ con nuôi NSƯT Hoài Linh kiện đòi nhà
-                            </a>
-                        </h3>
-                        <p class="news-grid__featured-excerpt">Ngày 20/5, TAND TPHCM mở phiên tòa phúc thẩm, xét xử vụ kiện Tranh chấp đòi lại tài sản giữa nguyên đơn là bà Phạm Hoài Linh...</p>
-                    </div>
-                    <div class="news-grid__sidebar">
-                        <ul class="news-grid__sidebar-list">
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=56" title="Cục chính trị Quân đoàn 34 có thông báo chính thức liên quan đến Thượng úy Lê Hoàng Hiệp">Cục chính trị Quân đoàn 34 có thông báo chính thức liên quan đến Thượng úy Lê Hoàng Hiệp</a>
-                                </h4>
-                            </li>
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=57" title="Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt">Apple nói Google đang khủng hoảng vì AI, Google phản pháo gay gắt</a>
-                                </h4>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="news-grid news-grid--type1">
-                    <div class="news-grid__category-menu">
-                        <h2 class="news-grid__category-name">
-                            <a href="#" title="Xã hội" class="news-grid__category-link">
-                                Xã hội
-                            </a>
-                        </h2>
-                        <ul class="news-grid__submenu">
-                        </ul>
-                    </div>
-                    <div class="news-grid__content">
-                        <a href="article.html?id=58" title="Cô gái bị người yêu cũ đánh gục trong quán cà phê, tổn thương 23% cơ thể: Yêu cầu bồi thường 900 triệu đồng" class="news-grid__featured-link">
-                            <img src="assets/images/articles/58_1.png" alt="Cô gái bị người yêu cũ đánh gục trong quán cà phê, tổn thương 23% cơ thể: Yêu cầu bồi thường 900 triệu đồng" class="news-grid__featured-image" loading="lazy">
-                        </a>
-                        <h3 class="news-grid__featured-title">
-                            <a href="article.html?id=58" title="Cô gái bị người yêu cũ đánh gục trong quán cà phê, tổn thương 23% cơ thể: Yêu cầu bồi thường 900 triệu đồng"> 
-                                Cô gái bị người yêu cũ đánh gục trong quán cà phê, tổn thương 23% cơ thể: Yêu cầu bồi thường 900 triệu đồng
-                            </a>
-                        </h3>
-                        <p class="news-grid__featured-excerpt">Liên quan vụ cô gái bị người yêu cũ hành hung dã man tại quán cafe từng gây xôn xao dư luận, nạn nhân trong vụ việc là chị N.V.K.N...</p>
-                    </div>
-                    <div class="news-grid__sidebar">
-                        <ul class="news-grid__sidebar-list">
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=59" title="Con gái học hành chểnh mảng, bà mẹ TP.HCM tịch thu điện thoại 3 ngày, hôm sau nhận về câu chửi rủa không thể chấp nhận nổi từ con">Con gái học hành chểnh mảng, bà mẹ TP.HCM tịch thu điện thoại 3 ngày, hôm sau nhận về câu chửi rủa không thể chấp nhận nổi từ con</a>
-                                </h4>
-                            </li>
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=60" title="Có phải cứ tiêm vắc xin HPV là cả đời không nhiễm virus HPV nữa?">Có phải cứ tiêm vắc xin HPV là cả đời không nhiễm virus HPV nữa?</a>
-                                </h4>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
-            <section class="vertical-news-section">
-                <div class="news-grid news-grid--type1">
-                    <div class="news-grid__category-menu">
-                        <h2 class="news-grid__category-name">
-                            <a href="#" title="Sức khỏe" class="news-grid__category-link">
-                                Sức khỏe
-                            </a>
-                        </h2>
-                        <ul class="news-grid__submenu">
-                        </ul>
-                    </div>
-                    <div class="news-grid__content">
-                        <a href="article.html?id=61" title="Cần bật điều hòa trước bao lâu thì phòng đủ mát? Con số được chuyên gia đưa ra gây bất ngờ" class="news-grid__featured-link">
-                            <img class="news-grid__featured-image" src="assets/images/articles/61_1.png" alt="Cần bật điều hòa trước bao lâu thì phòng đủ mát? Con số được chuyên gia đưa ra gây bất ngờ" loading="lazy">
-                        </a>
-                        <h3 class="news-grid__featured-title">
-                            <a href="article.html?id=61" title="Cần bật điều hòa trước bao lâu thì phòng đủ mát? Con số được chuyên gia đưa ra gây bất ngờ">
-                                Cần bật điều hòa trước bao lâu thì phòng đủ mát? Con số được chuyên gia đưa ra gây bất ngờ
-                            </a>
-                        </h3>
-                        <p class="news-grid__featured-excerpt">Mùa hè đến đồng nghĩa với việc nhu cầu sử dụng điều hòa để phục vụ việc làm mát tăng cao. Trong những ngày nắng nóng cao điểm...</p>
-                    </div>
-                    <div class="news-grid__sidebar">
-                        <ul class="news-grid__sidebar-list">
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=62" title="Khoảng cách giữa các mũi tiêm HPV là bao lâu?">Khoảng cách giữa các mũi tiêm HPV là bao lâu?</a>
-                                </h4>
-                            </li>
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=63" title="Video ông trùm đánh bạn gái trong khách sạn">Video ông trùm đánh bạn gái trong khách sạn</a>
-                                </h4>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="news-grid news-grid--type1">
-                    <div class="news-grid__category-menu">
-                        <h2 class="news-grid__category-name">
-                            <a href="#" title="Công nghệ" class="news-grid__category-link">
-                                Công nghệ
-                            </a>
-                        </h2>
-                        <ul class="news-grid__submenu">
-                        </ul>
-                    </div>
-                    <div class="news-grid__content">
-                        <a href="article.html?id=64" title="Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?" class="news-grid__featured-link">
-                            <img src="assets/images/articles/64_1.png" alt="Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?" class="news-grid__featured-image" loading="lazy">
-                        </a>
-                        <h3 class="news-grid__featured-title">
-                            <a href="article.html?id=64" title="Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?"> 
-                                Hoa hậu Ý Nhi giữ phong độ ra sao trong ngày đầu nhập cuộc Miss World?
-                            </a>
-                        </h3>
-                        <p class="news-grid__featured-excerpt">Hoa hậu Huỳnh Trần Ý Nhi lên đường sang Ấn Độ tối 6/5 để bắt đầu hành trình chinh phục vương miện Miss World lần thứ 72...</p>
-                    </div>
-                    <div class="news-grid__sidebar">
-                        <ul class="news-grid__sidebar-list">
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=65" title="Khách Việt trầm trồ với một thứ ở khách sạn Trung Quốc: 'Tôi chưa từng thấy nó ở Việt Nam trước đây'">Khách Việt trầm trồ với một thứ ở khách sạn Trung Quốc: "Tôi chưa từng thấy nó ở Việt Nam trước đây"</a>
-                                </h4>
-                            </li>
-                            <li class="news-grid__sidebar-item">
-                                <h4 class="news-grid__sidebar-title">
-                                    <a href="article.html?id=66" title="1 thành viên nổi tiếng trong team châu Phi đang lâm vào cảnh khốn đốn">1 thành viên nổi tiếng trong team châu Phi đang lâm vào cảnh khốn đốn</a>
-                                </h4>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
-            <section class="vertical-news-section"></section>
-
+            <!-- Kết thúc Vertical News Section - Phần tin tức dọc -->
         </div>
         <!-- Kết thúc Body left - Nội dung chính -->
 
@@ -979,7 +178,6 @@
 
                 </div>
                 <!-- Kết thúc Sidebar - Thanh bên -->
-
             </div>
             <!-- Kết thúc Sidebar container - Khung thanh bên -->
         </div>
@@ -994,28 +192,28 @@
             <div class="footer__container">
                 <ul class="footer__menu-list">
                     <li class="footer__menu-item">
-                        <a href="#" title="Star">Star</a>
+                        <a href="topic.html?id=25" title="Star">Star</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Ciné">Ciné</a>
+                        <a href="topic.html?id=31" title="Ciné">Ciné</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Musik">Musik</a>
+                        <a href="topic.html?id=29" title="Musik">Musik</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Beauty &amp; Fashion">Beauty &amp; Fashion</a>
+                        <a href="topic.html?id=13" title="Beauty &amp; Fashion">Beauty &amp; Fashion</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Sport">Sport</a>
+                        <a href="topic.html?id=19" title="Sport">Sport</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Đời sống">Đời sống</a>
+                        <a href="topic.html?id=5" title="Đời sống">Đời sống</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Xã hội">Xã hội</a>
+                        <a href="topic.html?id=1" title="Xã hội">Xã hội</a>
                     </li>
                     <li class="footer__menu-item">
-                        <a href="#" title="Ăn - Quẩy - Đi">Ăn - Quẩy - Đi</a>
+                        <a href="topic.html?id=39" title="Ăn - Quẩy - Đi">Ăn - Quẩy - Đi</a>
                     </li>
                     <li class="footer__menu-item">
                         <a href="#" title="Xem Mua Luôn">Xem Mua Luôn</a>
@@ -1113,7 +311,6 @@
                     <div class="clearfix">
                         <a href="#" title="Xem chi tiết" target="_blank" class="footer__messenger-btn">
                             <span class="footer__messenger-icon">
-                                    <i class="fa-brands fa-facebook-messenger" style="color: #ffffff;"></i>
                             </span>Chat với tư vấn viên
                         </a>
                         <a href="#" title="Xem chi tiết" target="_blank" class="footer__details-btn">xem chi tiết</a>
@@ -1142,10 +339,98 @@
         </div>
         <!-- Kết thúc Footer Bottom - Chân trang dưới -->
     </footer>
+
+    <footer id="footer-medium" class="footer-medium">
+        <div class="footer-medium__wrapper"></div>
+            <!-- 1. 1-cột -->
+            <section class="footer-medium__section">
+                <h3 class="footer-medium__heading">Chịu trách nhiệm quản lý nội dung</h3>
+                <p class="footer-medium__text">Bà&nbsp;Nguyễn&nbsp;Bích&nbsp;Minh</p>
+            </section>
+
+            <!-- 2. 2-cột (trái) -->
+            <section class="footer-medium__section">
+                <h3 class="footer-medium__heading">Ý kiến bài viết</h3>
+                <ul class="footer-medium__list">
+                    <li class="footer-medium__item">
+                        <i class="fa-solid fa-envelope footer-medium__icon"></i>
+                        <a href="mailto:bandoc@kenh14.vn" class="footer-medium__link">bandoc@kenh14.vn</a>
+                    </li>
+                    <li class="footer-medium__item">
+                        <i class="fa-solid fa-circle-question footer-medium__icon"></i>
+                        <a href="#" class="footer-medium__link">Câu hỏi thường gặp</a>
+                    </li>
+                </ul>
+            </section>
+
+            <!-- 3. 2-cột (phải) -->
+            <section class="footer-medium__section">
+                <h3 class="footer-medium__heading">Hợp tác nội dung</h3>
+                <ul class="footer-medium__list">
+                    <li class="footer-medium__item">
+                        <i class="fa-solid fa-envelope footer-medium__icon"></i>
+                        <a href="mailto:marketing@kenh14.vn" class="footer-medium__link">marketing@kenh14.vn</a>
+                    </li>
+                    <li class="footer-medium__item">
+                        <i class="fa-solid fa-phone footer-medium__icon"></i>
+                        <span class="footer-medium__link">024&nbsp;7309&nbsp;5555</span>
+                    </li>
+                </ul>
+            </section>
+
+            <!-- 4. 2-cột nhưng chỉ chiếm cột trái -->
+            <section class="footer-medium__section">
+                <h3 class="footer-medium__heading">Hỗ trợ quảng cáo</h3>
+                <ul class="footer-medium__list">
+                    <li class="footer-medium__item">
+                        <i class="fa-solid fa-envelope footer-medium__icon"></i>
+                        <a href="mailto:giatrixahoi@admicro.vn" class="footer-medium__link">giatrixahoi@admicro.vn</a>
+                    </li>
+                    <li class="footer-medium__item">
+                        <i class="fa-solid fa-phone footer-medium__icon"></i>
+                        <span class="footer-medium__link">0247&nbsp;3007&nbsp;108</span>
+                    </li>
+                </ul>
+            </section>
+
+            <!-- 5. Full-width -->
+            <section class="footer-medium__section">
+                <h3 class="footer-medium__heading">Trụ sở Hà Nội</h3>
+                <p class="footer-medium__text">
+                    Tầng 21, Tòa nhà Center Building, Hapulico Complex, số 1 Nguyễn Huy Tưởng,
+                    phường Thanh Xuân Trung, quận Thanh Xuân, Hà Nội.
+                </p>
+            </section>
+
+            <!-- 6. Full-width -->
+            <section class="footer-medium__section footer-medium__section--hcm footer-medium__section--full">
+                <h3 class="footer-medium__heading">Trụ sở TP. Hồ Chí Minh</h3>
+                <p class="footer-medium__text">
+                    Tầng 4, Tòa nhà 123, số 127 Võ Văn Tần, phường 6, quận 3, TP. Hồ Chí Minh.
+                </p>
+            </section>
+
+            <!-- 7. Full-width -->
+            <section class="footer-medium__section footer-medium__section--license footer-medium__section--full">
+                <p class="footer-medium__text">
+                    Giấy phép thiết lập trang thông tin điện tử tổng hợp trên mạng số
+                    2215/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 10-04-2019
+                </p>
+            </section>
+
+            <section class="footer-medium__section footer-medium__section--license footer-medium__section--full">
+                <p class="footer-medium__text">
+                © Copyright 2007 – 2025 – Công ty Cổ phần VCCorp
+                </p>
+            </section>
+        </div>
+    </footer>
     <!-- Kết thúc Footer component - Thành phần chân trang -->
 </body>
 <!-- Bắt đầu Scripts - Các tập lệnh -->
 <script src="assets/js/main.js"></script>
 <script src="assets/js/components/sidebar.js"></script>
+<script src="assets/js/search.js"></script>
+<script src="https://kit.fontawesome.com/923b829258.js" crossorigin="anonymous"></script>
 <!-- Kết thúc Scripts - Các tập lệnh -->
 </html>

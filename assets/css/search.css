@@ -1,0 +1,140 @@
+/* Bắt đầu css cho phần hộp tìm kiếm */
+.search-box {
+    padding: 20px 0;
+}
+
+.search-box__input-wrapper {
+    position: relative;
+    height: 50px;
+    padding-right: 50px;
+    margin: 0 auto 0 0;
+    max-width: 700px;
+}
+
+.search-box__input {
+    padding-left: 18px;
+    font-size: 20px;
+    color: #333;
+    height: 50px;
+    width: 100%;
+    border: 1px solid #d3d3d3;
+    border-right: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    outline: none;
+}
+
+.search-box__submit {
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #a00f14;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.search-box__icon {
+    display: block;
+    width: 18px;
+    height: 23px;
+    background: url("../images/sprites/sprite-k14.20.png") -501px -106px no-repeat;
+    margin: 14px auto;
+}
+
+.search-box__result-info {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-bottom: 1px solid #ebebeb;
+    border-top: 1px solid #ebebeb;
+}
+
+.search-box__result-label {
+    font-size: 13px;
+    color: #ccc;
+    text-transform: uppercase;
+}
+
+/* CSS cho phần highlight từ khóa tìm kiếm */
+.search-highlight {
+    background-color: #ffeb3b;
+    font-weight: bold;
+    padding: 0 2px;
+}
+
+/* CSS cho trường hợp không có kết quả */
+.no-results {
+    text-align: center;
+    padding: 30px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    color: #666;
+}
+
+.no-results p:first-child {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.no-results p:last-child {
+    font-size: 14px;
+}
+/* Kết thúc css cho phần hộp tìm kiếm */
+
+/* Bắt đầu css cho phần tin tức nổi bật */
+.featured-news {
+    padding: 25px 0;
+    position: relative;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.featured-news__column--left {
+    width: 100%;
+}
+
+.featured-news__image {
+    width: 60%;
+    height: 263px;
+    float: left;
+}
+
+.featured-news__title,
+.featured-news__description {
+    margin-left: 452px;
+}
+
+.featured-news__title {
+    font-size: 20px;
+}
+
+.featured-news__description {
+    font-size: 13px;
+    color: #4d4d4d;
+    line-height: 1.5;
+}
+
+.featured-news__category {
+    font-size: 0.875rem;
+    color: #41455e;
+    text-decoration: none;
+    margin-bottom: 13px;
+    display: block;
+}
+
+.featured-news__category span {
+    color: #777777;
+    font-weight: normal;
+}
+/* Kết thúc css cho phần tin tức nổi bật */
+
+/* Bắt đầu css cho phần tin tức dọc */
+.vertical-news-section {
+    margin-top: 0;
+}
+/* Kết thúc css cho phần tin tức dọc */

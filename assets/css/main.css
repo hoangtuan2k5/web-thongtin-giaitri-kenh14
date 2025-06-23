@@ -10,6 +10,8 @@
 .body-left {
     width: 720px;
     flex-shrink: 0;
+    border-right: 1px solid #ebebeb;
+    box-shadow: 8px 0px 8px rgba(0, 0, 0, 0.1);
 }
 
 .body-right {
@@ -680,6 +682,7 @@
 }
 /* Kết thúc news grid styles - Lưới tin tức */
 
+/* Bắt đầu footer medium styles - Chân trang cho mobile và tablet */
 .footer-medium {
     padding: 1.5rem 1rem;
     background: #222;
@@ -751,3 +754,60 @@
     opacity: 0.7;
     margin-left: 0.25rem;
 }
+/* Kết thúc footer medium styles - Chân trang cho mobile và tablet */
+
+/* Bắt đầu topic navigation styles */
+.topic-nav {
+    border-bottom: 1px solid #e5e5e5;
+
+}
+
+.topic-nav__wrapper {
+    width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 48px;  
+    margin: 0 auto;
+}
+
+.topic-nav__group {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topic-nav__item {
+    margin-right: 32px;            /* khoảng cách giữa các mục */
+}
+
+.topic-nav__item:last-child {
+    margin-right: 0;               /* bỏ margin mục cuối trong nhóm */
+}
+
+.topic-nav__link {
+    position: relative;
+    display: block;
+    line-height: 50px;
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: color .25s ease;
+}
+
+.topic-nav__link:hover {
+    color: #c00;
+}
+
+/* gạch chân cho mục active */
+li:has(a.topic-nav__link--active) {
+    border-bottom: 3px solid #c00;
+}
+
+/* Style cho nhóm bên trái & phải (có thể mở rộng sau này) */
+.topic-nav__group--left  { justify-content: flex-start; }
+.topic-nav__group--right { justify-content: flex-end;  }

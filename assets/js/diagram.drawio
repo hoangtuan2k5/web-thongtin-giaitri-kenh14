@@ -1,0 +1,321 @@
+<mxfile host="65bd71144e">
+    <diagram name="1. Main.js Logic" id="main-js-logic">
+        <mxGraphModel dx="841" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="main-start" value="START: DOM Content Loaded" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-get-elements" value="Lấy elements:&#xa;- Hamburger button&#xa;- Menu bar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="140" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-setup-click" value="Setup click event:&#xa;Toggle menu open/close" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="230" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-setup-search" value="Call setupHeaderSearch()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="320" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-search-elements" value="Lấy search elements:&#xa;- Input field&#xa;- Search button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="320" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-search-events" value="Setup search events:&#xa;- Button click&#xa;- Enter keypress" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="410" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-redirect" value="Redirect to:&#xa;search.html?query=..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="500" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="main-end" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-start" target="main-get-elements" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-get-elements" target="main-setup-click" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-setup-click" target="main-setup-search" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-setup-search" target="main-search-elements" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-search-elements" target="main-search-events" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-search-events" target="main-redirect" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="arrow7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="main-setup-search" target="main-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="2. Article.js Logic" id="article-js-logic">
+        <mxGraphModel dx="1607" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PUvOtL32WRNLVYOPlHHm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="20" width="610" height="780" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-start" value="START: DOM Content Loaded" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-get-id" value="Lấy ID từ URL parameter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-check-id" value="ID có tồn tại?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="220" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-fetch-data" value="Fetch dữ liệu:&#xa;- articles.json&#xa;- topics.json&#xa;- tags.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="340" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-binary-search" value="Binary Search:&#xa;findArticleById()&#xa;(nếu không tìm thấy&#xa;→ return articles[0])" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="460" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-render-content" value="Render nội dung:&#xa;- Title, meta, content&#xa;- Images từ assets/&#xa;- Tags, topics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-render-images" value="Render ảnh:&#xa;Chèn sau mỗi đoạn văn&#xa;Hết đoạn văn chèn cuối" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-related" value="Tìm bài viết liên quan&#xa;(cùng topics)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-end" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-start" target="art-get-id" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-get-id" target="art-check-id" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow3" value="Có" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-check-id" target="art-fetch-data" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow4" value="Không" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-check-id" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-fetch-data" target="art-binary-search" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-binary-search" target="art-render-content" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-render-content" target="art-render-images" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-render-images" target="art-related" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="art-arrow9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="art-related" target="art-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="3. Search.js Logic" id="search-js-logic">
+        <mxGraphModel dx="841" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="search-start" value="START: DOM Content Loaded" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-get-query" value="Lấy query từ URL parameter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-check-query" value="Query có tồn tại?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="220" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-fetch-data" value="Fetch dữ liệu:&#xa;- articles.json&#xa;- topics.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="340" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-filter" value="Filter articles:&#xa;Tìm kiếm trong title&#xa;và content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="460" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-bubble-sort" value="Bubble Sort:&#xa;Sắp xếp theo độ liên quan&#xa;(title match &gt; content match)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-render" value="Render kết quả:&#xa;- Featured article (đầu tiên)&#xa;- Vertical articles (tối đa 20)&#xa;KHÔNG CÓ PAGINATION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="700" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-no-query" value="Hiển thị:&#xa;Chưa có từ khóa tìm kiếm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="220" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-no-results" value="Hiển thị:&#xa;Không tìm thấy kết quả" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-end" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-start" target="search-get-query" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-get-query" target="search-check-query" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow3" value="Có" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-check-query" target="search-fetch-data" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow4" value="Không" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-check-query" target="search-no-query" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-fetch-data" target="search-filter" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow6" value="Có kết quả" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-filter" target="search-bubble-sort" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow7" value="Không có" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-filter" target="search-no-results" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-bubble-sort" target="search-render" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="search-arrow9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="search-render" target="search-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="4. Tag.js Logic" id="tag-js-logic">
+        <mxGraphModel dx="1607" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="YJhFPSMRCTMU63aIxl_P-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="30" width="220" height="870" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-start" value="START: DOM Content Loaded" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-get-id" value="Lấy tag ID từ URL parameter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-fetch-data" value="Fetch dữ liệu:&#xa;- tags.json&#xa;- articles.json&#xa;- topics.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="220" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-binary-search" value="Binary Search:&#xa;findTagById()&#xa;(nếu không tìm thấy&#xa;→ return tags[0])" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="340" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-render-info" value="Render tag info:&#xa;- Tag label&#xa;- Tag title&#xa;- Tag description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="460" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-filter-articles" value="Filter articles:&#xa;Lọc articles có&#xa;tag ID tương ứng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-render-articles" value="Render articles:&#xa;- Featured article (đầu tiên)&#xa;- Vertical articles (tối đa 10)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="700" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-end" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-start" target="tag-get-id" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-get-id" target="tag-fetch-data" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-fetch-data" target="tag-binary-search" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-binary-search" target="tag-render-info" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-render-info" target="tag-filter-articles" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-filter-articles" target="tag-render-articles" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tag-arrow7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="tag-render-articles" target="tag-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="5. Topic.js Logic" id="topic-js-logic">
+        <mxGraphModel dx="1377" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="nc29NmtoNVTTMaKQhD6O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="30" width="660" height="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-start" value="START: DOM Content Loaded" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-get-id" value="Lấy topic ID từ URL parameter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-fetch-data" value="Fetch dữ liệu:&#xa;- topics.json&#xa;- articles.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="220" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-binary-search" value="Binary Search:&#xa;findTopicIndexById()&#xa;(nếu không tìm thấy&#xa;→ startIndex = 0)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="340" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-render-nav" value="Render Navigation:&#xa;- Current topic + 3 random&#xa;- Featured topics (right)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="460" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-shuffle" value="Fisher-Yates Shuffle:&#xa;Xáo trộn random topics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-render-info" value="Update page title:&#xa;&#39;Chủ đề [topic] - Kenh14&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="460" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-featured-search" value="Binary Search:&#xa;findTopicByIdForNews()&#xa;(nếu không tìm thấy&#xa;→ currentTopic = topics[0])" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-render-articles" value="Render featured articles:&lt;br&gt;- Lọc articles theo topic&lt;br&gt;- Lấy tối đa 5 bài" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="460" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-render-slider" value="Render slider:&#xa;- Main article&#xa;- Side article&#xa;- 3 slider articles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="580" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-end" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-start" target="topic-get-id" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-get-id" target="topic-fetch-data" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-fetch-data" target="topic-binary-search" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-binary-search" target="topic-render-nav" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-binary-search" target="topic-render-info" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-binary-search" target="topic-render-articles" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-render-nav" target="topic-shuffle" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-render-info" target="topic-featured-search" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-render-articles" target="topic-render-slider" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-featured-search" target="topic-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-shuffle" target="topic-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="topic-arrow12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="topic-render-slider" target="topic-end" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
